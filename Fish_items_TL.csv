@@ -1,0 +1,2091 @@
+﻿ALPHA_3_CODE,IsscaapGrp_mapping,Name_En,Scientific_Name,Name_Cn,Troph,Troph.SE,SL.max,DATA.SOURCE,FOOD.ITEM
+AAA,21,Adriatic sturgeon,Acipenser naccarii,亚德里亚鲟(纳氏鲟),3.35,0.5,164,FishBase_ISSCAAP,Demersal fish
+AAB,33,Twobar seabream,Acanthopagrus bifasciatus,双线刺鲷,3.39,0.43,43.21,FishBase_ISSCAAP,Demersal fish
+AAC,13,Bowfin,Amia calva,,3.81,0.67,89.38,FishBase_ISSCAAP,Freshwater fish
+ABF,52,Red abalone,Haliotis rufescens,红鲍,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+ABG,52,Giant abalone,Haliotis gigantea,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+ABK,11,White bream,Blicca bjoerkna,,3.07,0.37,27.36,FishBase_ISSCAAP,Freshwater fish
+ABP,52,Perlemoen abalone,Haliotis midae,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+ABR,52,Blacklip abalone,Haliotis rubra,黑唇鲍,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+ABS,45,Northern brown shrimp,Penaeus aztecus,,2.8,0.46,NA,FishBase_ISSCAAP,Crustaceans
+ABX,52,Abalones nei,Haliotis spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+ABZ,33,Small sandeel,Ammodytes tobianus,小玉筋鱼,3.1,NA,NA,SeaAroundUs,Demersal fish
+ACB,56,Inflated ark,Scapharca broughtonii,魁蚶,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+ACC,13,Ruffe,Gymnocephalus cernua,,3.35,0.31,20.5,FishBase_ISSCAAP,Freshwater fish
+ACH,23,Arctic char,Salvelinus alpinus,,4.26,0.75,84.64,FishBase_ISSCAAP,Pelagic fish
+AEB,13,,Alestes baremoze,,3.05,0.35,35.26,FishBase_ISSCAAP,Freshwater fish
+AES,45,Aesop shrimp,Pandalus montagui,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+AFK,33,African forktail snapper,Apsilus fuscus,叉尾丝鳍笛鲷,3.99,0.584,61.5,FishBase_ISSCAAP,Demersal fish
+AFQ,56,Pipi wedge clam,Paphies australis,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+AGN,38,Angelshark,Squatina squatina,,4.05,0.64,200.08,FishBase_ISSCAAP,Demersal fish
+AGR,13,Freshwater drum,Aplodinotus grunniens,,3.36,0.43,78.46,FishBase_ISSCAAP,Freshwater fish
+AGS,35,Spotted sardinella,Amblygaster sirm,斑点钝腹鲱,3.3,0.42,27,FishBase_ISSCAAP,Pelagic fish
+AHT,11,Kinneret bleak,Acanthobrama terraesanctae,,3,0,21.4,FishBase_ISSCAAP,Freshwater fish
+AIB,33,Glassfishes,Ambassidae,,3.55,0.11,8.839,FishBase_ISSCAAP,Demersal fish
+AKS,45,Akiami paste shrimp,Acetes japonicus,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+AKX,56,,Paphies spp,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+ALA,37,Alexandria pompano,Alectis alexandrina,,3.6,0.59,82,FishBase_ISSCAAP,Pelagic fish
+ALB,36,Albacore,Thunnus alalunga,,4.31,0.73,135.93,FishBase_ISSCAAP,Pelagic fish
+ALC,34,Baird's slickhead,Alepocephalus bairdii,,3.69,0.54,100,FishBase_ISSCAAP,Demersal fish
+ALE,24,Alewife,Alosa pseudoharengus,,3.51,0.48,40,FishBase_ISSCAAP,Pelagic fish
+ALF,34,Alfonsinos nei,Beryx spp,,4.26,0.12,66,FishBase_ISSCAAP,Demersal fish
+ALK,32,Alaska pollock(=Walleye poll.),Gadus chalcogrammus,狭鳕,3.45,0.49,75.71,FishBase_ISSCAAP,Demersal fish
+ALL,34,Warty dory,Allocyttus verrucosus,,4.19,NA,NA,FishBase,Demersal fish
+ALP,31,Alaska plaice,Pleuronectes quadrituberculatus,,3.1,0.3,50.84,FishBase_ISSCAAP,Demersal fish
+ALR,11,Bleak,Alburnus alburnus,,3.01,0.18,21.88,FishBase_ISSCAAP,Freshwater fish
+ALV,38,Thresher,Alopias vulpinus,狐形长尾鲨,4.5,0.79,623.2,FishBase_ISSCAAP,Pelagic fish
+AMB,37,Greater amberjack,Seriola dumerili,杜氏鰤(高体鰤),4.5,0.8,155.8,FishBase_ISSCAAP,Pelagic fish
+AMJ,37,Japanese amberjack,Seriola quinqueradiata,五条鰤,3.96,0.65,123,FishBase_ISSCAAP,Pelagic fish
+AMS,47,Brine shrimp,Artemia salina,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+AMX,37,Amberjacks nei,Seriola spp,,4.34,0.07,125,FishBase_ISSCAAP,Pelagic fish
+ANA,35,Argentine anchovy,Engraulis anchoita,,2.51,0,17,FishBase_ISSCAAP,Pelagic fish
+ANC,35,Southern African anchovy,Engraulis capensis,,2.84,0.31,17,FishBase_ISSCAAP,Pelagic fish
+ANE,35,European anchovy,Engraulis encrasicolus,,3.11,0.45,20,FishBase_ISSCAAP,Pelagic fish
+ANF,34,Anglerfishes nei,Lophiidae,,4.43,0.06,110,FishBase_ISSCAAP,Demersal fish
+ANG,34,American angler,Lophius americanus,,4.5,0.74,101.99,FishBase_ISSCAAP,Demersal fish
+ANI,34,Mackerel icefish,Champsocephalus gunnari,,3.23,0.43,54.12,FishBase_ISSCAAP,Demersal fish
+ANK,34,Blackbellied angler,Lophius budegassa,,4.48,0.76,100,FishBase_ISSCAAP,Demersal fish
+ANN,33,Annular seabream,Diplodus annularis,,3.4,0.44,21.19,FishBase_ISSCAAP,Demersal fish
+ANR,24,Atlantic sabretooth anchovy,Lycengraulis grossidens,,3.64,0.55,23.5,FishBase_ISSCAAP,Pelagic fish
+ANS,33,Antarctic silverfish,Pleuragramma antarctica,,3,0,22.48,FishBase_ISSCAAP,Demersal fish
+ANT,32,Blue antimora,Antimora rostrata,,3.58,0.47,75,FishBase_ISSCAAP,Demersal fish
+ANX,35,"Anchovies, etc. nei",Engraulidae,,3.28,0.04,17,FishBase_ISSCAAP,Pelagic fish
+APB,21,Siberian sturgeon,Acipenser baerii,西伯利亚鲟,3.22,0.385,164,FishBase_ISSCAAP,Freshwater fish
+APE,21,Starry sturgeon,Acipenser stellatus,闪光鲟,3.1,0.3,180.4,FishBase_ISSCAAP,Demersal fish
+APG,21,Danube sturgeon(=Osetr),Acipenser gueldenstaedtii,俄罗斯鲟,3.11,0.3,192.7,FishBase_ISSCAAP,Demersal fish
+APH,34,Intermediate scabbardfish,Aphanopus intermedius,中间等鳍叉尾带鱼,4.11,NA,NA,SeaAroundUs,Demersal fish
+APN,21,White sturgeon,Acipenser transmontanus,高首鲟,3.22,0.44,500.2,FishBase_ISSCAAP,Demersal fish
+APO,33,"Cardinalfishes, etc. nei",Apogonidae,,3.46,0.04,8,FishBase_ISSCAAP,Demersal fish
+APS,45,Northern pink shrimp,Penaeus duorarum,,3,0.35,NA,FishBase_ISSCAAP,Crustaceans
+AQK,12,,Caquetaia kraussii,,3.36,NA,NA,FishBase,Freshwater fish
+ARA,45,Blue and red shrimp,Aristeus antennatus,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+ARF,31,Arrowtooth flounder,Atheresthes stomias,,4.26,0.75,68.88,FishBase_ISSCAAP,Demersal fish
+ARG,34,Argentines,Argentina spp,,3.43,0.07,36,FishBase_ISSCAAP,Demersal fish
+ARI,45,Aristeid shrimps nei,Aristeidae,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+ARK,56,Ark clams nei,Arca spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+ARP,13,Arapaima,Arapaima gigas,巨骨舌鱼,4.5,0.8,369,FishBase_ISSCAAP,Freshwater fish
+ARQ,33,Rusty jobfish,Aphareus rutilans,红叉尾鲷,4.11,0.57,88.83,FishBase_ISSCAAP,Demersal fish
+ARS,45,Giant red shrimp,Aristaeomorpha foliacea,,2.3,NA,NA,SeaAroundUs,Crustaceans
+ARU,34,Greater argentine,Argentina silus,,3.31,0.28,70,FishBase_ISSCAAP,Demersal fish
+ARV,45,Striped red shrimp,Aristeus varidens,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+ARY,34,Argentine,Argentina sphyraena,,3.62,0.52,35,FishBase_ISSCAAP,Demersal fish
+ASA,33,Australian salmon,Arripis trutta,,4.07,0.69,72.09,FishBase_ISSCAAP,Demersal fish
+ASD,24,Allis shad,Alosa alosa,,3.62,0.53,71.38,FishBase_ISSCAAP,Pelagic fish
+ASH,45,Argentine stiletto shrimp,Artemesia longinaris,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+ASK,38,"Angelsharks, sand devils nei",Squatinidae,,4.05,0.07,150,FishBase_ISSCAAP,Pelagic fish
+ASP,24,Caspian shads,Caspialosa spp,,3.25,0,16,FishBase_ISSCAAP,Pelagic fish
+AST,12,Velvety cichlids,Astronotus spp,,2.83,0,33,FishBase_ISSCAAP,Freshwater fish
+ASU,11,Asp,Aspius aspius,,4.47,0.8,82,FishBase_ISSCAAP,Freshwater fish
+ATB,37,Big-scale sand smelt,Atherina boyeri,银带真银汉鱼,2.32,0.26,16.4,FishBase_ISSCAAP,Pelagic fish
+ATK,33,Okhotsk atka mackerel,Pleurogrammus azonus,远东多线鱼,3.58,0.48,50.84,FishBase_ISSCAAP,Demersal fish
+AUB,13,,Auchenoglanis biscutatus,,3.08,NA,NA,FishBase,Freshwater fish
+AUO,13,Bubu,Auchenoglanis occidentalis,,2.9,0.33,70,FishBase_ISSCAAP,Freshwater fish
+AUP,41,White-clawed crayfish,Austropotamobius pallipes,白螯南方河螯虾,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+AUR,33,Rough-head sea catfish,Arius latiscutatus,,3.34,NA,NA,FishBase,Demersal fish
+AUX,33,Giant catfish,Netuma thalassina,,3.1,0.3,144.92,FishBase_ISSCAAP,Demersal fish
+AVA,35,Atlantic anchoveta,Cetengraulis edentulus,,2.11,0.07,12.93,FishBase_ISSCAAP,Pelagic fish
+AVB,33,Western Atlantic seabream,Archosargus rhomboidalis,,2.22,0.21,27.06,FishBase_ISSCAAP,Demersal fish
+AWE,33,Geelbek croaker,Atractoscion aequidens,非洲锤形石首鱼,3.89,0.52,111.93,FishBase_ISSCAAP,Demersal fish
+AWT,11,Tarek,Chalcalburnus tarichi,,3.01,0.18,19.7,FishBase_ISSCAAP,Freshwater fish
+AWW,33,Armless snake eel,Dalophis imberbis,,4.02,NA,NA,FishBase,Demersal fish
+AWX,33,,Arius spp,,3.58,0.08,NA,FishBase_ISSCAAP,Demersal fish
+AXF,13,Banded astyanax,Astyanax fasciatus,,2.75,0.34,13.78,FishBase_ISSCAAP,Freshwater fish
+AXP,33,Crucifix sea catfish,Sciades proops,,4.36,NA,NA,SeaAroundUs,Demersal fish
+AXR,45,Aristeus shrimps nei,Aristeus spp,,3.77,NA,NA,SeaAroundUs,Crustaceans
+AXW,33,Lorna drum,Sciaena deliciosa,,3.6,NA,NA,Estimate(SeaAroundUs),Demersal fish
+AXZ,33,,Gymnothorax spp,,4.22,NA,NA,SeaAroundUs,Demersal fish
+AYA,41,Australian crayfish,Euastacus armatus,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+AYS,41,Euro-American crayfishes nei,"Astacidae, Cambaridae",,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+AYW,72,Diamondback terrapin,Malaclemys terrapin,菱纹背泥龟,3.6,NA,NA,"Estimate(Abdul et al., 2019. Trophodynamics and parabolic behaviors of polycyclic aromatic hydrocarbons in an urbanized lake food web, Shanghai)","Aquatic animals, other"
+BAC,37,Pickhandle barracuda,Sphyraena jello,,4.5,0.8,137.79,FishBase_ISSCAAP,Pelagic fish
+BAF,37,Flat needlefish,Ablennes hians,,4.5,0.8,114.8,FishBase_ISSCAAP,Pelagic fish
+BAH,31,Bastard halibut,Paralichthys olivaceus,牙鲆,4.35,0.76,91.54,FishBase_ISSCAAP,Demersal fish
+BAJ,33,Japanese seabass,Lateolabrax japonicus,花鲈,3.36,0.43,83.64,FishBase_ISSCAAP,Demersal fish
+BAL,37,Ballyhoo halfbeak,Hemiramphus brasiliensis,,2.48,0.35,45.1,FishBase_ISSCAAP,Pelagic fish
+BAN,37,Sawtooth barracuda,Sphyraena putnamae,,4.5,NA,NA,SeaAroundUs,Pelagic fish
+BAP,33,Peruvian rock seabass,Paralabrax humeralis,,4.11,0.68,44.69,FishBase_ISSCAAP,Demersal fish
+BAQ,37,Yellowtail barracuda,Sphyraena flavicauda,,3.76,NA,NA,SeaAroundUs,Pelagic fish
+BAR,37,Barracudas nei,Sphyraena spp,,4.32,0.06,99,FishBase_ISSCAAP,Pelagic fish
+BAS,33,Combers nei,Serranus spp,,3.73,NA,NA,SeaAroundUs,Demersal fish
+BAT,33,Batfishes,Platax spp,燕鱼属未定种,3.64,0.31,58,FishBase_ISSCAAP,Demersal fish
+BAU,36,Australian bonito,Sarda australis,,4.5,NA,NA,SeaAroundUs,Pelagic fish
+BAX,31,Bastard halibuts nei,Paralichthys spp,,4.16,0.12,71,FishBase_ISSCAAP,Demersal fish
+BAY,33,Bocon toadfish,Amphichthys cryptocentrus,,3.76,0.62,35.59,FishBase_ISSCAAP,Demersal fish
+BBF,34,Velvet whalefish,Barbourisia rufa,,3.3,0.41,31.98,FishBase_ISSCAAP,Demersal fish
+BBH,24,Blueback shad,Alosa aestivalis,,3.6,0.31,40,FishBase_ISSCAAP,Pelagic fish
+BBK,11,Algerian barb,Barbus callensis,,2.8,0.33,24.6,FishBase_ISSCAAP,Freshwater fish
+BBM,36,Broad-barred king mackerel,Scomberomorus semifasciatus,,4.5,NA,NA,SeaAroundUs,Pelagic fish
+BBR,11,,Barbonymus balleroides,,2.08,0.09,24.6,FishBase_ISSCAAP,Freshwater fish
+BBS,34,Black scorpionfish,Scorpaena porcus,,3.93,0.65,29.42,FishBase_ISSCAAP,Demersal fish
+BCB,13,Argentinian silverside,Odontesthes bonariensis,牙汉鱼,2.57,0.24,41,FishBase_ISSCAAP,Freshwater fish
+BCE,13,,Brycinus leuciscus,,3.01,NA,NA,FishBase,Freshwater fish
+BCL,56,Butter clam,Saxidomus giganteus,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+BCM,13,Dorada,Brycon moorei,,2.54,0.29,50,FishBase_ISSCAAP,Freshwater fish
+BDM,33,Black drum,Pogonias cromis,,3.89,0.62,147.49,FishBase_ISSCAAP,Demersal fish
+BDY,33,,Bodianus spp,,3.55,NA,NA,SeaAroundUs,Demersal fish
+BEC,33,Red sea catfish,Bagre pinnimaculatus,,4.5,NA,NA,SeaAroundUs,Demersal fish
+BEG,34,Latchet(=Sharpbeak gurnard),Pterygotrigla polyommata,繁星角鲂鮄,3.77,0.53,50.84,FishBase_ISSCAAP,Demersal fish
+BEH,34,Frostfishes,Benthodesmus spp,,3.98,0.04,79.455,FishBase_ISSCAAP,Demersal fish
+BEI,33,Chilhuil sea catfish,Bagre panamensis,,3.99,NA,NA,SeaAroundUs,Demersal fish
+BEJ,12,Giant cichlid,Boulengerochromis microlepis,,4.5,0.8,53.3,FishBase_ISSCAAP,Freshwater fish
+BEM,33,Gafftopsail sea catfish,Bagre marinus,,3.51,NA,NA,SeaAroundUs,Demersal fish
+BEN,37,"Needlefishes, etc. nei",Belonidae,,4.23,0.07,100,FishBase_ISSCAAP,Pelagic fish
+BEP,36,Eastern Pacific bonito,Sarda chiliensis,,4.5,0.78,83.64,FishBase_ISSCAAP,Pelagic fish
+BET,36,Bigeye tuna,Thunnus obesus,,4.49,0.75,205,FishBase_ISSCAAP,Pelagic fish
+BFP,33,Great blue spotted mudskipper,Boleophthalmus pectinirostris,大弹涂鱼,2,NA,NA,FishBase,Demersal fish
+BFS,11,Tinfoil barb,Barbonymus schwanenfeldii,施瓦氏四须魮,2.91,0.36,35,FishBase_ISSCAAP,Freshwater fish
+BFT,36,Atlantic bluefin tuna,Thunnus thynnus,大西洋蓝鳍金枪鱼,4.43,0.78,375.56,FishBase_ISSCAAP,Pelagic fish
+BGJ,13,Bayad,Bagrus bajad,,3.99,0.7,101.94,FishBase_ISSCAAP,Freshwater fish
+BGR,33,Bastard grunt,Pomadasys incisus,,3.8,0.52,43.28,FishBase_ISSCAAP,Demersal fish
+BGX,33,,Pomadasys spp,,3.59,NA,NA,SeaAroundUs,Demersal fish
+BHQ,34,Skinnycheek lanternfish,Benthosema pterotum,,3.14,0.27,5.74,FishBase_ISSCAAP,Demersal fish
+BIB,32,Pouting(=Bib),Trisopterus luscus,条长臂鳕,3.73,0.62,41.86,FishBase_ISSCAAP,Demersal fish
+BIC,11,Bighead carp,Hypophthalmichthys nobilis,鳙,2.33,0.22,87.81,FishBase_ISSCAAP,Freshwater fish
+BIG,33,Bigeyes nei,Priacanthus spp,,3.88,0.11,35,FishBase_ISSCAAP,Demersal fish
+BIL,36,"Marlins,sailfishes,etc. nei",Istiophoridae,,4.47,0.03,263,FishBase_ISSCAAP,Pelagic fish
+BIP,36,Striped bonito,Sarda orientalis,,4.21,0.686,92.41,FishBase_ISSCAAP,Pelagic fish
+BIR,33,Red bigeye,Priacanthus macracanthus,,4.11,0.6,30,FishBase_ISSCAAP,Demersal fish
+BIS,37,Bigeye scad,Selar crumenophthalmus,,4.1,0.7,27,FishBase_ISSCAAP,Pelagic fish
+BIY,33,Finescale triggerfish,Balistes polylepis,,3.3,NA,NA,SeaAroundUs,Demersal fish
+BKC,11,Black carp,Mylopharyngodon piceus,青鱼,3.19,0.44,105.16,FishBase_ISSCAAP,Freshwater fish
+BKJ,36,Black skipjack,Euthynnus lineatus,,3.83,0.6,77.7,FishBase_ISSCAAP,Pelagic fish
+BLB,37,Blue butterfish,Stromateus fiatola,,4.03,0.5,50,FishBase_ISSCAAP,Pelagic fish
+BLC,56,Blood cockle,Tegillarca granosa,血蚶,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+BLF,36,Blackfin tuna,Thunnus atlanticus,,4.13,0.7,104.28,FishBase_ISSCAAP,Pelagic fish
+BLI,32,Blue ling,Molva dypterygia,,4.48,0.8,144.62,FishBase_ISSCAAP,Demersal fish
+BLL,31,Brill,Scophthalmus rhombus,,3.79,0.56,61.81,FishBase_ISSCAAP,Demersal fish
+BLM,36,Black marlin,Istiompax indica,,4.5,0.79,452.45,FishBase_ISSCAAP,Pelagic fish
+BLP,33,Patagonian blennie,Eleginops maclovinus,,3.27,0.47,73.8,FishBase_ISSCAAP,Demersal fish
+BLR,38,Blacktip reef shark,Carcharhinus melanopterus,,3.94,NA,NA,SeaAroundUs,Demersal fish
+BLS,56,Anadara clams nei,Anadara spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+BLT,36,Bullet tuna,Auxis rochei,,4.13,0.61,46.85,FishBase_ISSCAAP,Pelagic fish
+BLU,37,Bluefish,Pomatomus saltatrix,,4.5,0.55,113.16,FishBase_ISSCAAP,Pelagic fish
+BMK,33,Green humphead parrotfish,Bolbometopon muricatum,,2.67,0.41,110.5,FishBase_ISSCAAP,Demersal fish
+BMO,34,Blue moki,Latridopsis ciliaris,,3.25,NA,NA,SeaAroundUs,Demersal fish
+BMW,11,Clown loach,Chromobotia macracanthus,,2.85,0.32,24.6,FishBase_ISSCAAP,Freshwater fish
+BMZ,13,,Mystus nigriceps,,3.34,0.45,19.8,FishBase_ISSCAAP,Freshwater fish
+BNC,13,,Brycon cephalus,头石脂鲤,2,0,22,FishBase_ISSCAAP,Freshwater fish
+BNF,33,Longfin bonefish,Pterothrissus belloci,,3.03,0.17,40,FishBase_ISSCAAP,Demersal fish
+BNM,13,,Brycon melanopterus,,2.5,NA,NA,FishBase,Freshwater fish
+BNV,13,Machaca,Brycon guatemalensis,,2.32,0.27,48.38,FishBase_ISSCAAP,Freshwater fish
+BOA,35,Bonga shad,Ethmalosa fimbriata,,2.5,0,36.16,FishBase_ISSCAAP,Pelagic fish
+BOB,45,Atlantic seabob,Xiphopenaeus kroyeri,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+BOC,34,Boarfish,Capros aper,方鲷,3.14,0.34,22.8,FishBase_ISSCAAP,Demersal fish
+BOE,34,Black oreo,Allocyttus niger,,3.38,0.5,38.54,FishBase_ISSCAAP,Demersal fish
+BOF,33,Bonefish,Albula vulpes,,3.67,0.57,86.4,FishBase_ISSCAAP,Demersal fish
+BOG,33,Bogue,Boops boops,,2.97,0.12,32.26,FishBase_ISSCAAP,Demersal fish
+BON,36,Atlantic bonito,Sarda sarda,,4.5,0.74,84.18,FishBase_ISSCAAP,Pelagic fish
+BOP,36,Plain bonito,Orcynopsis unicolor,,4.5,0.8,118.3,FishBase_ISSCAAP,Pelagic fish
+BOR,34,Boarfishes nei,Caproidae,,3.5,0.28,16,FishBase_ISSCAAP,Demersal fish
+BOS,45,Pacific seabobs,"Xiphopenaeus, Trachypenaeus spp",,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+BOY,52,Purple dye murex,Bolinus brandaris,紫色土骨螺,3.23,NA,NA,SeaAroundUs,"Molluscs, other"
+BPF,13,Kumakuma,Brachyplatystoma filamentosum,,4.47,NA,NA,FishBase,Freshwater fish
+BPI,33,Blotched picarel,Spicara maena,,4.15,0.7,25,FishBase_ISSCAAP,Demersal fish
+BPJ,13,Zebra catfish,Brachyplatystoma juruense,,4.5,NA,NA,FishBase,Freshwater fish
+BPT,13,Laulao catfish,Brachyplatystoma vaillanti,,4.5,0.8,123,FishBase_ISSCAAP,Freshwater fish
+BRB,33,Black seabream,Spondyliosoma cantharus,,3.29,0.43,60,FishBase_ISSCAAP,Demersal fish
+BRD,34,Bearded brotula,Brotula barbata,,3.78,0.6,87.33,FishBase_ISSCAAP,Demersal fish
+BRF,34,Blackbelly rosefish,Helicolenus dactylopterus,,3.81,0.63,39.49,FishBase_ISSCAAP,Demersal fish
+BRG,33,Barred grunt,Conodon nobilis,,3.51,0.58,27.55,FishBase_ISSCAAP,Demersal fish
+BRS,36,Serra Spanish mackerel,Scomberomorus brasiliensis,,3.31,0.44,120.12,FishBase_ISSCAAP,Pelagic fish
+BRU,37,Southern rays bream,Brama australis,,4.15,0.58,47,FishBase_ISSCAAP,Pelagic fish
+BRZ,37,"Pomfrets, ocean breams nei",Bramidae,,4.31,0.03,82,FishBase_ISSCAAP,Pelagic fish
+BSB,33,Black seabass,Centropristis striata,,3.98,0.63,54.12,FishBase_ISSCAAP,Demersal fish
+BSC,33,Bluespotted seabream,Pagrus caeruleostictus,,3.81,0.6,90,FishBase_ISSCAAP,Demersal fish
+BSE,33,Seabasses nei,Dicentrarchus spp,,3.86,0.08,57,FishBase_ISSCAAP,Demersal fish
+BSF,34,Black scabbardfish,Aphanopus carbo,黑等鳍叉尾带鱼,4.48,0.77,110,FishBase_ISSCAAP,Demersal fish
+BSH,38,Blue shark,Prionace glauca,,4.24,0.67,328,FishBase_ISSCAAP,Pelagic fish
+BSK,38,Basking shark,Cetorhinus maximus,,3.2,0.3,803.6,FishBase_ISSCAAP,Pelagic fish
+BSP,34,Warehou nei,Seriolella spp,,3.38,0.02,58,FishBase_ISSCAAP,Demersal fish
+BSR,35,Brazilian sardinella,Sardinella brasiliensis,,3.1,0.3,25,FishBase_ISSCAAP,Pelagic fish
+BSS,33,European seabass,Dicentrarchus labrax,,3.79,0.6,92.31,FishBase_ISSCAAP,Demersal fish
+BSX,33,"Groupers, seabasses nei",Serranidae,,3.89,0.03,75,FishBase_ISSCAAP,Demersal fish
+BSZ,33,Argentine seabass,Acanthistius brasilianus,,4.01,0.71,49.2,FishBase_ISSCAAP,Demersal fish
+BTG,37,Gulf butterfishes nei,Peprilus spp,,4.02,0.04,24,FishBase_ISSCAAP,Pelagic fish
+BTH,38,Bigeye thresher,Alopias superciliosus,,4.5,0.75,400.14,FishBase_ISSCAAP,Pelagic fish
+BTS,37,Hound needlefish,Tylosurus crocodilus,,4.47,0.79,132.07,FishBase_ISSCAAP,Pelagic fish
+BUA,37,Atlantic bumper,Chloroscombrus chrysurus,,3.21,0.48,53.3,FishBase_ISSCAAP,Pelagic fish
+BUC,33,Bombay-duck,Harpadon nehereus,,4.2,0.73,31.92,FishBase_ISSCAAP,Demersal fish
+BUF,11,Buffalofishes nei,Ictiobus spp,,3.11,0,74,FishBase_ISSCAAP,Freshwater fish
+BUM,36,Blue marlin,Makaira nigricans,蓝枪鱼,4.5,0.71,410,FishBase_ISSCAAP,Pelagic fish
+BUP,34,Pacific rudderfish,Psenopsis anomala,,4,0.28,21.06,FishBase_ISSCAAP,Demersal fish
+BUR,33,Sompat grunt,Pomadasys jubelini,,3.33,0.5,44.64,FishBase_ISSCAAP,Demersal fish
+BUT,37,Atlantic butterfish,Peprilus triacanthus,,3.97,0.34,24.6,FishBase_ISSCAAP,Pelagic fish
+BUX,37,"Butterfishes, pomfrets nei",Stromateidae,,3.73,0.12,35,FishBase_ISSCAAP,Pelagic fish
+BVF,13,Bagrid catsfih nei,Bagridae,鲿科种类,2.69,NA,NA,SeaAroundUs,Freshwater fish
+BWA,34,Bluenose warehou,Hyperoglyphe antarctica,南极栉鲳,3.95,0.57,100.38,FishBase_ISSCAAP,Demersal fish
+BWB,37,Starry butterfish,Stromateus stellatus,,3.59,NA,NA,SeaAroundUs,Pelagic fish
+BXD,34,Alfonsino,Beryx decadactylus,,4.13,0.76,82.69,FishBase_ISSCAAP,Demersal fish
+BXF,33,Boxfishes nei,Ostraciidae,,3.1,0.19,23.513,FishBase_ISSCAAP,Demersal fish
+BXH,13,,Brycon spp,,2.8,NA,NA,Estimate(FishBase),Freshwater fish
+BXM,13,,Mystus spp,,3.3,NA,NA,Estimate(FishBase),Freshwater fish
+BXN,13,,Brycon hilarii,,2,NA,NA,FishBase,Freshwater fish
+BXP,13,,Brachyplatystoma rousseauxii,,4.5,NA,NA,FishBase,Freshwater fish
+BXQ,36,Marlins nei,Makaira spp,,4.47,NA,NA,SeaAroundUs,Pelagic fish
+BYB,13,Silver perch,Bidyanus bidyanus,银锯眶鯻(银鲈),2.99,0.34,40,FishBase_ISSCAAP,Freshwater fish
+BYS,34,Splendid alfonsino,Beryx splendens,红金眼鲷,4.38,0.76,55.42,FishBase_ISSCAAP,Demersal fish
+BZB,38,Broadnose skate,Bathyraja brachyurops,,4.07,NA,NA,SeaAroundUs,Demersal fish
+BZC,13,Nurse tetra,Brycinus nurse,,2.46,NA,NA,FishBase,Freshwater fish
+BZH,13,,Brycon amazonicus,亚马逊石脂鲤,2.95,NA,NA,FishBase,Freshwater fish
+BZX,36,Bonitos nei,Sarda spp,,4.37,NA,NA,SeaAroundUs,Pelagic fish
+CAA,34,Atlantic wolffish,Anarhichas lupus,大西洋狼鳚,3.24,0.43,135.9,FishBase_ISSCAAP,Demersal fish
+CAB,34,Northern wolffish,Anarhichas denticulatus,北方狼鳚,3.75,0.46,147.6,FishBase_ISSCAAP,Demersal fish
+CAE,33,Eeltail catfishes,Plotosus spp,鳗鲇属未定种,3.68,0.09,123,FishBase_ISSCAAP,Demersal fish
+CAF,13,Catfishes nei,Ictalurus spp,,3.58,0.04,122,FishBase_ISSCAAP,Freshwater fish
+CAG,13,Glass catfishes,Kryptopterus spp,,3.96,0.12,49,FishBase_ISSCAAP,Freshwater fish
+CAH,38,"Elephantfishes, etc. nei",Callorhinchidae,,3.43,0.11,70,FishBase_ISSCAAP,Demersal fish
+CAL,42,Callinectes swimcrabs nei,Callinectes spp,,3.3,0.58,NA,FishBase_ISSCAAP,Crustaceans
+CAN,13,Naked catfishes,Bagrus spp,,4,0.04,34,FishBase_ISSCAAP,Freshwater fish
+CAP,37,Capelin,Mallotus villosus,毛鳞鱼,3.15,0.34,17.89,FishBase_ISSCAAP,Pelagic fish
+CAS,34,Spotted wolffish,Anarhichas minor,斑狼鳚,3.45,0.43,164.88,FishBase_ISSCAAP,Demersal fish
+CAT,34,Wolffishes(=Catfishes) nei,Anarhichas spp,,3.48,0.15,123,FishBase_ISSCAAP,Demersal fish
+CAX,33,Sea catfishes nei,Ariidae,,3.68,0.06,52,FishBase_ISSCAAP,Demersal fish
+CBA,37,Cobia,Rachycentron canadum,,3.96,0.62,177.97,FishBase_ISSCAAP,Pelagic fish
+CBC,34,Red bandfish,Cepola macrophthalma,,3.13,0.233,72,FishBase_ISSCAAP,Demersal fish
+CBM,33,Brown meagre,Sciaena umbra,,3.7,0.65,58.66,FishBase_ISSCAAP,Demersal fish
+CBR,33,Comber,Serranus cabrilla,,3.35,0.47,40,FishBase_ISSCAAP,Demersal fish
+CBT,13,Philippine catfish,Clarias batrachus,斑纹胡鲶,3.41,0.47,38.54,FishBase_ISSCAAP,Freshwater fish
+CCB,38,Spinner shark,Carcharhinus brevipinna,,4.2,NA,NA,SeaAroundUs,Demersal fish
+CCD,38,Whitecheek shark,Carcharhinus dussumieri,杜氏真鲨,3.9,NA,NA,SeaAroundUs,Demersal fish
+CCE,38,Bull shark,Carcharhinus leucas,,4.31,0.7,287,FishBase_ISSCAAP,Demersal fish
+CCF,38,Pigeye shark,Carcharhinus amboinensis,高鳍真鲨,4.3,NA,NA,SeaAroundUs,Pelagic fish
+CCL,38,Blacktip shark,Carcharhinus limbatus,,4.24,0.69,225.5,FishBase_ISSCAAP,Demersal fish
+CCN,38,Blacknose shark,Carcharhinus acronotus,,4.36,NA,NA,SeaAroundUs,Demersal fish
+CCO,38,Finetooth shark,Carcharhinus isodon,,4.2,0.69,155.8,FishBase_ISSCAAP,Demersal fish
+CCP,38,Sandbar shark,Carcharhinus plumbeus,,4.49,0.79,205,FishBase_ISSCAAP,Pelagic fish
+CCQ,38,Spottail shark,Carcharhinus sorrah,沙拉真鲨,4.15,0.64,131.2,FishBase_ISSCAAP,Demersal fish
+CCR,38,Smalltail shark,Carcharhinus porosus,,4.14,0.68,123,FishBase_ISSCAAP,Demersal fish
+CCS,38,Night shark,Carcharhinus signatus,,4.63,NA,NA,SeaAroundUs,Pelagic fish
+CDL,34,Cardinal fishes nei,Epigonus spp,,3.37,0.02,22.177,FishBase_ISSCAAP,Demersal fish
+CDO,11,River carpsucker,Carpiodes carpio,,2,NA,NA,FishBase,Freshwater fish
+CDT,41,Yabby crayfish,Cherax destructor,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+CDX,33,"Croakers, drums nei",Sciaenidae,,3.67,0.03,70,FishBase_ISSCAAP,Demersal fish
+CEC,33,West African ladyfish,Elops lacerta,,4.24,0.75,83.07,FishBase_ISSCAAP,Demersal fish
+CEN,34,"Ruffs, barrelfishes nei",Centrolophidae,,3.72,0.07,63,FishBase_ISSCAAP,Demersal fish
+CEO,34,Rudderfish,Centrolophus niger,黑长鲳,3.92,0.38,150,FishBase_ISSCAAP,Demersal fish
+CEP,57,Cephalopods nei,Cephalopoda,,3.2,0.14,NA,FishBase_ISSCAAP,Cephalopods
+CER,36,Cero,Scomberomorus regalis,,4.48,0.79,150.06,FishBase_ISSCAAP,Pelagic fish
+CET,31,Wedge sole,Dicologlossa cuneata,,3.32,0.49,30,FishBase_ISSCAAP,Demersal fish
+CEW,33,Hawaiian ladyfish,Elops hawaiensis,,4.03,NA,NA,SeaAroundUs,Demersal fish
+CEX,34,Cusk-eels nei,Genypterus spp,,4.28,0.07,139,FishBase_ISSCAAP,Demersal fish
+CFB,38,Black dogfish,Centroscyllium fabricii,黑霞鲨,3.9,0.63,82.4,FishBase_ISSCAAP,Demersal fish
+CFF,33,Peacock hind,Cephalopholis argus,斑点九棘鲈,4.48,0.79,50.37,FishBase_ISSCAAP,Demersal fish
+CFH,33,Yellowfin hind,Cephalopholis hemistiktos,半斑九棘鲈,4.14,0.71,29.58,FishBase_ISSCAAP,Demersal fish
+CFI,33,Coral hind,Cephalopholis miniata,青星九棘鲈,4.36,0.77,38.34,FishBase_ISSCAAP,Demersal fish
+CFL,33,Graysby,Cephalopholis cruentata,加勒比九棘鲈,4.25,NA,NA,SeaAroundUs,Demersal fish
+CFS,13,Hong Kong catfish,Clarias fuscus,胡子鲶,3.74,0.59,24.5,FishBase_ISSCAAP,Freshwater fish
+CFW,37,Pompano dolphinfish,Coryphaena equiselis,,4.5,NA,NA,SeaAroundUs,Pelagic fish
+CGE,42,West African geryon,Chaceon maritae,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+CGM,13,"Africa-bighead catfish, hybrid",Clarias gariepinus x C. macrocephalus,尖齿胡鲇与大头胡鲇杂交种,3.52,0.15,4.2,FishBase_ISSCAAP,Freshwater fish
+CGO,11,Goldfish,Carassius auratus,鲫,2,0,49.09,FishBase_ISSCAAP,Freshwater fish
+CGX,37,Carangids nei,Carangidae,,3.9,0.04,69,FishBase_ISSCAAP,Pelagic fish
+CHA,13,Characins nei,Characidae,,3,0.05,43,FishBase_ISSCAAP,Freshwater fish
+CHB,38,Ghost shark,Callorhinchus milii,,3.6,0.29,102.5,FishBase_ISSCAAP,Demersal fish
+CHC,54,Choro mussel,Choromytilus chorus,,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+CHE,23,Masu(=Cherry) salmon,Oncorhynchus masou,马苏大麻哈鱼,3.6,0.59,70.24,FishBase_ISSCAAP,Pelagic fish
+CHG,24,Chacunda gizzard shad,Anodontostoma chacunda,,2.84,0.279,22,FishBase_ISSCAAP,Pelagic fish
+CHI,23,Chinook(=Spring=King) salmon,Oncorhynchus tshawytscha,大鳞大麻哈鱼,4.4,0.76,131.57,FishBase_ISSCAAP,Pelagic fish
+CHJ,38,Plownose chimaera,Callorhinchus callorynchus,,3.23,0.38,89.2,FishBase_ISSCAAP,Demersal fish
+CHK,12,Blackbelt cichlid,Cichlasoma maculicauda,,2,0,25,FishBase_ISSCAAP,Freshwater fish
+CHL,12,Jaguar guapote,Cichlasoma managuense,马拉丽体鱼,3.96,0.59,46.52,FishBase_ISSCAAP,Freshwater fish
+CHM,38,Cape elephantfish,Callorhinchus capensis,,3.45,0.52,84.7,FishBase_ISSCAAP,Demersal fish
+CHO,57,Cape Hope squid,Loligo reynaudii,,3.2,0.14,NA,FishBase_ISSCAAP,Cephalopods
+CHP,35,Pacific sardine,Sardinops sagax,,2.43,0.12,39.5,FishBase_ISSCAAP,Pelagic fish
+CHR,23,Chars nei,Salvelinus spp,,3.76,0.18,70,FishBase_ISSCAAP,Pelagic fish
+CHS,45,Chilean nylon shrimp,Heterocarpus reedi,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+CHU,23,Chum(=Keta=Dog) salmon,Oncorhynchus keta,大麻哈鱼,3.47,0.48,91.02,FishBase_ISSCAAP,Pelagic fish
+CHX,12,Cichlasoma nei,Cichlasoma spp,,3.65,0.1,20,FishBase_ISSCAAP,Freshwater fish
+CIJ,23,Peled,Coregonus peled,高白鲑,3,0.03,41,FishBase_ISSCAAP,Demersal fish
+CIL,31,Spotted flounder,Citharus linguatula,,3.97,NA,NA,SeaAroundUs,Demersal fish
+CIM,12,Mouthbrooding cichlids,Haplochromis spp,,3.18,0.13,11,FishBase_ISSCAAP,Freshwater fish
+CIS,23,Lake cisco,Coregonus artedi,,3.35,0.4,46.74,FishBase_ISSCAAP,Pelagic fish
+CIT,31,Citharids nei,Citharidae,,3.63,0.08,25,FishBase_ISSCAAP,Demersal fish
+CIV,13,Citharinus nei,Citharinus spp,,2.12,0.06,47.303,FishBase_ISSCAAP,Freshwater fish
+CIX,12,Cichlids nei,Cichlidae,,2.99,0.04,33,FishBase_ISSCAAP,Freshwater fish
+CJM,37,Chilean jack mackerel,Trachurus murphyi,,3.49,0.48,57.4,FishBase_ISSCAAP,Pelagic fish
+CJN,33,Longfinned bullseye,Cookeolus japonicus,,3.5,NA,NA,SeaAroundUs,Demersal fish
+CJX,33,Fusiliers nei,Caesionidae,,3.4,0,NA,FishBase_ISSCAAP,Demersal fish
+CKA,33,Atlantic croaker,Micropogonias undulatus,,3.31,0.43,37.29,FishBase_ISSCAAP,Demersal fish
+CKI,35,Araucanian herring,Strangomera bentincki,,2.69,0.3,28.39,FishBase_ISSCAAP,Pelagic fish
+CKL,33,Law croaker,Pseudotolithus senegallus,,3.89,0.67,190,FishBase_ISSCAAP,Demersal fish
+CKM,33,Whitemouth croaker,Micropogonias furnieri,,3.26,0.48,60,FishBase_ISSCAAP,Demersal fish
+CKQ,33,Pacific porgy,Calamus brachysomus,,3.8,NA,NA,FishBase,Demersal fish
+CKW,33,West African croakers nei,Pseudotolithus spp,,3.78,0.11,80,FishBase_ISSCAAP,Demersal fish
+CKY,33,Argentine croaker,Umbrina canosai,,3.85,0.57,32.8,FishBase_ISSCAAP,Demersal fish
+CLA,24,Black and Caspian Sea sprat,Clupeonella cultriventris,,3,0,12.37,FishBase_ISSCAAP,Pelagic fish
+CLB,56,Atlantic surf clam,Spisula solidissima,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CLH,56,Northern quahog(=Hard clam),Mercenaria mercenaria,硬壳蛤,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CLI,33,Lingcod,Ophiodon elongatus,,4.32,0.72,137.19,FishBase_ISSCAAP,Demersal fish
+CLJ,56,Japanese carpet shell,Ruditapes philippinarum,菲律宾蛤仔,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CLL,38,Barbeled houndshark,Leptocharias smithii,细须雅鲨,3.79,0.49,67.24,FishBase_ISSCAAP,Demersal fish
+CLM,56,Macha clam,Mesodesma donacium,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CLN,13,Mudfish,Clarias anguillaris,鳗胡鲶,3.35,0.51,82,FishBase_ISSCAAP,Freshwater fish
+CLO,12,Peacock cichlid,Cichla ocellaris,眼点丽鱼,4.5,0.8,60.68,FishBase_ISSCAAP,Freshwater fish
+CLP,35,"Herrings, sardines nei",Clupeidae,,3.16,NA,NA,SeaAroundUs,Pelagic fish
+CLQ,56,Ocean quahog,Arctica islandica,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CLR,56,Atl.jackknife(=Atl.razor clam),Ensis leei,直剑蛏,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CLS,56,Sand gaper,Mya arenaria,砂海螂,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CLT,56,Stimpson's surf clam,Spisula polynyma,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CLU,35,Clupeoids nei,Clupeoidei,,3.21,0.03,34,FishBase_ISSCAAP,Pelagic fish
+CLV,56,Venus clams nei,Veneridae,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CLX,56,"Clams, etc. nei",Bivalvia,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CLZ,13,North African catfish,Clarias gariepinus,尖齿胡鲇,3.15,0.288,146.88,FishBase_ISSCAAP,Freshwater fish
+CMA,51,Asian clam,Corbicula fluminea,河蚬,2,0,NA,FishBase_ISSCAAP,"Molluscs, other"
+CMG,11,Mrigal carp,Cirrhinus mrigala,,2.4,0.17,100,FishBase_ISSCAAP,Freshwater fish
+CMJ,51,Japanese corbicula,Corbicula japonica,,2.2,0.23,NA,FishBase_ISSCAAP,"Molluscs, other"
+CMM,51,Manila clam,Corbicula manilensis,,2.05,NA,NA,SeaAroundUs,"Molluscs, other"
+CMO,38,Rabbit fish,Chimaera monstrosa,银鲛,3.5,0.59,123,FishBase_ISSCAAP,Demersal fish
+CMR,42,Mediterranean shore crab,Carcinus aestuarii,,3.43,0.35,NA,FishBase_ISSCAAP,Crustaceans
+CNA,13,Snakehead,Channa argus,乌鳢,4.2,0.76,82,FishBase_ISSCAAP,Freshwater fish
+CNP,13,Spotted snakehead,Channa punctata,翠鳢,3.84,0.7,25.42,FishBase_ISSCAAP,Freshwater fish
+CNS,24,Bloch's gizzard shad,Nematalosa nasus,圆吻海鰶,2.67,0.28,17.83,FishBase_ISSCAAP,Pelagic fish
+CNU,35,Whitefin wolf-herring,Chirocentrus nudus,长颌宝刀鱼,4.19,0.74,100,FishBase_ISSCAAP,Pelagic fish
+COA,34,American conger,Conger oceanicus,,4.5,0.79,188.6,FishBase_ISSCAAP,Demersal fish
+COB,33,Shi drum,Umbrina cirrosa,,3.46,0.57,59.49,FishBase_ISSCAAP,Demersal fish
+COC,56,Common edible cockle,Cerastoderma edule,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+COD,32,Atlantic cod,Gadus morhua,大西洋鳕,4.42,0.76,185.6,FishBase_ISSCAAP,Demersal fish
+COE,34,European conger,Conger conger,,4.29,0.75,291.72,FishBase_ISSCAAP,Demersal fish
+COH,23,Coho(=Silver) salmon,Oncorhynchus kisutch,银大麻哈鱼,4.22,0.73,96.83,FishBase_ISSCAAP,Pelagic fish
+COM,36,Narrow-barred Spanish mackerel,Scomberomorus commerson,,4.5,0.8,233.28,FishBase_ISSCAAP,Pelagic fish
+CON,52,Stromboid conchs nei,Strombus spp,,2,0,NA,FishBase_ISSCAAP,"Molluscs, other"
+COO,52,Queen conch,Aliger gigas,大凤凰螺,2,NA,NA,Estimate(SeaAroundUs),"Molluscs, other"
+COS,34,Argentine conger,Conger orbignianus,,3.72,0.59,112,FishBase_ISSCAAP,Demersal fish
+COW,32,Navaga(=Wachna cod),Eleginus nawaga,宽突鳕,4.24,0.73,34.9,FishBase_ISSCAAP,Demersal fish
+COX,34,"Conger eels, etc. nei",Congridae,,3.85,0.05,148,FishBase_ISSCAAP,Demersal fish
+COZ,56,Cockles nei,Cardiidae,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CPL,38,Lowfin gulper shark,Centrophorus lusitanicus,低鳍刺鲨,4.43,0.63,131.2,FishBase_ISSCAAP,Demersal fish
+CPO,37,Chinese silver pomfret,Pampus chinensis,,3.6,NA,NA,SeaAroundUs,Pelagic fish
+CPR,45,Common prawn,Palaemon serratus,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+CPS,38,Draughtsboard shark,Cephaloscyllium isabella,阴影绒毛鲨,4.22,0.64,85.33,FishBase_ISSCAAP,Demersal fish
+CQO,32,Chilean grenadier,Coelorinchus chilensis,,3.61,0.52,39.36,FishBase_ISSCAAP,Demersal fish
+CRA,42,Marine crabs nei,Brachyura,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+CRB,42,Blue crab,Callinectes sapidus,,4,0.64,NA,FishBase_ISSCAAP,Crustaceans
+CRC,42,Giant swimcrab,Callinectes toxotes,,3.63,NA,NA,SeaAroundUs,Crustaceans
+CRD,41,Danube crayfish,Astacus leptodactylus,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+CRE,42,Edible crab,Cancer pagurus,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+CRF,37,Blue trevally,Carangoides ferdau,,4.31,NA,NA,SeaAroundUs,Pelagic fish
+CRG,42,Green crab,Carcinus maenas,,3.5,0.53,NA,FishBase_ISSCAAP,Crustaceans
+CRJ,42,Jonah crab,Cancer borealis,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+CRK,42,Atlantic rock crab,Cancer irroratus,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+CRL,33,Blackmouth croaker,Atrobucca nibe,黑姑鱼,3.64,0.53,45,FishBase_ISSCAAP,Demersal fish
+CRP,41,Red claw crayfish,Cherax quadricarinatus,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+CRQ,42,Queen crab,Chionoecetes opilio,,2.2,0.14,NA,FishBase_ISSCAAP,Crustaceans
+CRR,42,Red crab,Chaceon quinquedens,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+CRS,42,Portunus swimcrabs nei,Portunus spp,,2.5,0.65,NA,FishBase_ISSCAAP,Crustaceans
+CRU,47,Marine crustaceans nei,Crustacea,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+CRV,33,Silver croaker,Pennahia argentata,白姑鱼,3.47,0.43,40,FishBase_ISSCAAP,Demersal fish
+CRW,43,Palinurid spiny lobsters nei,Palinurus spp,,3.2,0.41,NA,FishBase_ISSCAAP,Crustaceans
+CRX,33,Croakers nei,Micropogonias spp,,3.41,0.09,44,FishBase_ISSCAAP,Demersal fish
+CRY,33,Yellow croaker,Larimichthys polyactis,,3.64,0.63,40,FishBase_ISSCAAP,Demersal fish
+CRZ,42,Dana swimcrab,Callinectes danae,,2.5,0.65,NA,FishBase_ISSCAAP,Crustaceans
+CSD,13,Pirapatinga,Piaractus brachypomus,短盖巨脂鲤,2.52,0.22,62.66,FishBase_ISSCAAP,Freshwater fish
+CSH,45,Common shrimp,Crangon crangon,,3.19,0.45,NA,FishBase_ISSCAAP,Crustaceans
+CSI,53,Slipper cupped oyster,Crassostrea iredalei,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CSM,13,Cachama,Colossoma macropomum,黑盖巨脂鲤,2.02,0.08,80.14,FishBase_ISSCAAP,Freshwater fish
+CSO,13,Pacu,Piaractus mesopotamicus,细鳞肥脂鲤,2,0,40.5,FishBase_ISSCAAP,Freshwater fish
+CSP,45,Crystal shrimp,Penaeus brevirostris,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+CSR,13,Bagrid catfish,Chrysichthys nigrodigitatus,,2.58,0.34,65,FishBase_ISSCAAP,Freshwater fish
+CST,13,Black catfishes nei,Chrysichthys spp,,3.02,0.1,48,FishBase_ISSCAAP,Freshwater fish
+CSY,13,Upsidedown catfishes,Synodontis spp,,2.82,0.07,27,FishBase_ISSCAAP,Freshwater fish
+CTA,34,Castaneta,Nemadactylus bergi,,3.18,0.36,39.48,FishBase_ISSCAAP,Demersal fish
+CTB,33,Common two-banded seabream,Diplodus vulgaris,,3.24,0.37,41.22,FishBase_ISSCAAP,Demersal fish
+CTC,57,Common cuttlefish,Sepia officinalis,,3.55,0.56,NA,FishBase_ISSCAAP,Cephalopods
+CTG,56,Grooved carpet shell,Ruditapes decussatus,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+CTI,38,Dusky smooth-hound,Mustelus canis,美星鲨,3.67,0.56,123,FishBase_ISSCAAP,Demersal fish
+CTL,57,"Cuttlefish, bobtail squids nei","Sepiidae, Sepiolidae",,3.2,0.14,NA,FishBase_ISSCAAP,Cephalopods
+CTM,11,Suckers nei,Catostomidae,,2.99,0.07,3.2,FishBase_ISSCAAP,Freshwater fish
+CTO,13,Torpedo-shaped catfishes nei,Clarias spp,,3.52,0.15,64,FishBase_ISSCAAP,Freshwater fish
+CTT,11,Catla,Gibelion catla,,2.75,0.25,137.59,FishBase_ISSCAAP,Freshwater fish
+CTU,38,Gummy shark,Mustelus antarcticus,南极星鲨,4.1,NA,NA,SeaAroundUs,Demersal fish
+CUB,34,Black cusk-eel,Genypterus maculatus,,4.09,0.74,82,FishBase_ISSCAAP,Demersal fish
+CUC,34,Red cusk-eel,Genypterus chilensis,,4.26,0.77,150,FishBase_ISSCAAP,Demersal fish
+CUJ,76,Japanese sea cucumber,Apostichopus japonicus,仿刺参,2.3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+CUS,34,Pink cusk-eel,Genypterus blacodes,,4.34,0.77,200,FishBase_ISSCAAP,Demersal fish
+CUT,34,"Hairtails, scabbardfishes nei",Trichiuridae,,4.24,0.06,169,FishBase_ISSCAAP,Demersal fish
+CUU,13,,Curimata cyprinoides,,2.41,0.17,21.3,FishBase_ISSCAAP,Freshwater fish
+CUX,76,Sea cucumbers nei,Holothuroidea,,2,NA,NA,SeaAroundUs,"Aquatic animals, other"
+CVB,42,Tanner crab,Chionoecetes bairdi,,3.08,NA,NA,SeaAroundUs,Crustaceans
+CVJ,37,Crevalle jack,Caranx hippos,,3.5,0.49,101.68,FishBase_ISSCAAP,Pelagic fish
+CVK,33,Chocolate hind,Cephalopholis boenak,,4.2,0.74,24.73,FishBase_ISSCAAP,Demersal fish
+CVL,45,Sculptured shrimps nei,Sclerocrangon spp,,2.7,NA,NA,FishBase_ISSCAAP,Crustaceans
+CVW,34,Shortnose greeneye,Chlorophthalmus agassizi,,3.66,NA,NA,SeaAroundUs,Demersal fish
+CWC,33,Karanteen seabream,Crenidens crenidens,波牙鲷,2.8,0.29,24.6,FishBase_ISSCAAP,Demersal fish
+CWE,42,Mola rock crab,Metacarcinus edwardsii,,3.55,NA,NA,SeaAroundUs,Crustaceans
+CWF,77,,Chrysaora plocamia,,4.04,NA,NA,SeaAroundUs,"Aquatic animals, other"
+CWG,11,Prussian carp,Carassius gibelio,银鲫,2.47,NA,NA,FishBase,Freshwater fish
+CWJ,42,Red snow crab,Chionoecetes japonicus,,2.3,NA,NA,SeaAroundUs,Crustaceans
+CXF,34,Redfish,Centroberyx affinis,,3.81,0.59,51,FishBase_ISSCAAP,Demersal fish
+CXP,34,Red pike conger,Cynoponticus coniceps,,4.03,0.62,165.64,FishBase_ISSCAAP,Demersal fish
+CXR,37,Bar jack,Caranx ruber,,4.39,0.77,56.34,FishBase_ISSCAAP,Pelagic fish
+CXS,37,Bigeye trevally,Caranx sexfasciatus,,4.5,0.8,104.88,FishBase_ISSCAAP,Pelagic fish
+CXY,52,Volutes nei,Cymbium spp,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+CYO,38,Portuguese dogfish,Centroscymnus coelolepis,腔鳞荆鲨,4.35,0.42,98.4,FishBase_ISSCAAP,Demersal fish
+CYP,38,Longnose velvet dogfish,Centroselachus crepidater,长吻荆鲨,4.16,0.56,103.78,FishBase_ISSCAAP,Demersal fish
+CYV,38,Dark ghost shark,Hydrolagus novaezealandiae,,3.52,0.46,78.72,FishBase_ISSCAAP,Demersal fish
+CZJ,44,Blue squat lobster,Cervimunida johni,蓝颌刺铠虾,2.6,NA,NA,SeaAroundUs,Crustaceans
+CZM,44,Right-handed hermit crabs nei,Paguridae,,3.08,NA,NA,Estimate(SeaAroundUs),Crustaceans
+DAB,31,Common dab,Limanda limanda,欧洲黄盖鲽,3.29,0.38,40,FishBase_ISSCAAP,Demersal fish
+DAG,13,Dagaas (=Kapenta),"Stolothrissa, Limnothrissa spp",,3.11,0.04,10,FishBase_ISSCAAP,Freshwater fish
+DAS,24,Chinese gizzard shad,Clupanodon thrissa,,3.31,0.38,26,FishBase_ISSCAAP,Pelagic fish
+DCA,38,Birdbeak dogfish,Deania calceus,喙吻田氏鲨,4.22,0.65,100.04,FishBase_ISSCAAP,Demersal fish
+DCC,37,Shortfin scad,Decapterus macrosoma,长体圆鲹,3.4,0.45,32.25,FishBase_ISSCAAP,Pelagic fish
+DCP,45,Natantian decapods nei,Natantia,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+DCX,24,Diadromous clupeoids nei,Clupeoidei,,3.21,0.03,35,FishBase_ISSCAAP,Freshwater fish
+DEA,33,Angolan dentex,Dentex angolensis,,3.52,0.48,26.23,FishBase_ISSCAAP,Demersal fish
+DEC,33,Common dentex,Dentex dentex,,4.5,0.7,92.5,FishBase_ISSCAAP,Demersal fish
+DEL,33,Large-eye dentex,Dentex macrophthalmus,,3.43,0.5,54.47,FishBase_ISSCAAP,Demersal fish
+DEM,33,Morocco dentex,Dentex maroccanus,,3.85,NA,NA,SeaAroundUs,Demersal fish
+DEP,33,Pink dentex,Dentex gibbosus,,4.14,NA,NA,SeaAroundUs,Demersal fish
+DES,34,Deep-sea smelt,Glossanodon semifasciatus,,3.14,0.34,21.98,FishBase_ISSCAAP,Demersal fish
+DEX,33,Dentex nei,Dentex spp,,3.82,0.14,59,FishBase_ISSCAAP,Demersal fish
+DGH,38,Dogfishes and hounds nei,"Squalidae, Scyliorhinidae",,4.16,0.03,108,FishBase_ISSCAAP,Demersal fish
+DGP,33,Painted sweetlips,Diagramma pictum,,3.46,0.48,91.02,FishBase_ISSCAAP,Demersal fish
+DGQ,34,Specklefin cusk-eel,Lepophidium negropinna,,3.8,NA,NA,Estimate(FishBase),Demersal fish
+DGS,38,Picked dogfish,Squalus acanthias,,4.3,0.67,131.2,FishBase_ISSCAAP,Demersal fish
+DGX,38,Dogfish sharks nei,Squalidae,,4.3,0.06,165,FishBase_ISSCAAP,Demersal fish
+DIA,25,Diadromous fishes nei,Actinopterygii,,3.79,NA,NA,SeaAroundUs,Demersal fish
+DLX,33,Torpedo sand perch,Diplectrum maximum,,3.8,NA,NA,Estimate(FishBase),Demersal fish
+DML,13,Cornish jack,Mormyrops anguilloides,,3.77,NA,NA,FishBase,Freshwater fish
+DMM,13,Fat sleeper,Dormitator maculatus,脂塘鳢,2.45,0.3,57.4,FishBase_ISSCAAP,Freshwater fish
+DMN,13,Eastern bottlenose mormyrid,Mormyrus longirostris,,3.3,NA,NA,FishBase,Freshwater fish
+DNC,33,Congo dentex,Dentex congoensis,,3.71,0.53,35.45,FishBase_ISSCAAP,Demersal fish
+DOB,35,Dorab wolf-herring,Chirocentrus dorab,,4.5,0.8,100,FishBase_ISSCAAP,Pelagic fish
+DOD,24,Dotted gizzard shad,Konosirus punctatus,斑鰶,2.87,0.22,26.28,FishBase_ISSCAAP,Pelagic fish
+DOL,37,Common dolphinfish,Coryphaena hippurus,,4.37,0.77,175.35,FishBase_ISSCAAP,Pelagic fish
+DOM,13,Pacific fat sleeper,Dormitator latifrons,侧叶脂塘鳢,2,0,36.86,FishBase_ISSCAAP,Freshwater fish
+DON,56,Donax clams,Donax spp,斧蛤属未定种,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+DOS,35,Wolf-herrings nei,Chirocentrus spp,,4.35,0.15,100,FishBase_ISSCAAP,Pelagic fish
+DOT,36,Dogtooth tuna,Gymnosarda unicolor,,4.5,0.75,227.15,FishBase_ISSCAAP,Pelagic fish
+DOX,37,Dolphinfishes nei,Coryphaenidae,,4.49,NA,NA,SeaAroundUs,Pelagic fish
+DPC,34,Daggertooth pike conger,Muraenesox cinereus,海鳗,4.07,0.66,215.28,FishBase_ISSCAAP,Demersal fish
+DPQ,38,New Zealand smooth skate,Dipturus innominatus,,4.1,NA,NA,SeaAroundUs,Demersal fish
+DPS,45,Deep-water rose shrimp,Parapenaeus longirostris,长额拟对虾,3.31,0.44,NA,FishBase_ISSCAAP,Crustaceans
+DPV,38,Yellownose skate,Dipturus chilensis,,4.46,NA,NA,FishBase,Demersal fish
+DPX,34,Demersal percomorphs nei,Perciformes,,3.43,0.01,60,FishBase_ISSCAAP,Demersal fish
+DPZ,13,,Doraops zuloagai,,3.28,NA,NA,FishBase,Freshwater fish
+DQX,24,Gizzard shad nei,Dorosoma spp,,2.74,0.34,NA,FishBase_ISSCAAP,Pelagic fish
+DRI,34,Indian driftfish,Ariomma indicum,,3.63,0.5,25,FishBase_ISSCAAP,Demersal fish
+DRS,33,Boe drum,Pteroscion peli,,3.56,0.5,25.79,FishBase_ISSCAAP,Demersal fish
+DRU,33,Sciaenas nei,Sciaena spp,,3.75,NA,NA,SeaAroundUs,Demersal fish
+DRZ,33,Sicklefishes nei,Drepane spp,,3.32,NA,NA,SeaAroundUs,Demersal fish
+DSE,13,Grass-eaters nei,Distichodus spp,,2.35,0.16,36.849,FishBase_ISSCAAP,Freshwater fish
+DSX,56,Mature dosinia,Dosinia exoleta,成熟斧蛤,2,NA,NA,SeaAroundUs,"Molluscs, other"
+DSZ,56,Dosinias nei,Dosinia spp,,2.02,NA,NA,SeaAroundUs,"Molluscs, other"
+DUH,33,Peruvian mojarra,Diapterus peruvianus,,3.66,NA,NA,SeaAroundUs,Demersal fish
+DUJ,45,Humpy shrimp,Pandalus goniurus,驼背长额虾,2.6,NA,NA,SeaAroundUs,Crustaceans
+DUK,45,Hokkai shrimp,Pandalus kessleri,远东长额虾,2.6,NA,NA,SeaAroundUs,Crustaceans
+DUN,42,Dungeness crab,Cancer magister,,4,0.28,NA,FishBase_ISSCAAP,Crustaceans
+DUT,33,Irish mojarra,Diapterus auratus,,2.4,0.27,27.88,FishBase_ISSCAAP,Demersal fish
+DVO,33,Brassy grunt,Orthopristis chalceus,,3.6,NA,NA,Estimate(FishBase),Demersal fish
+DXL,56,Truncate donax,Donax trunculus,截形斧蛤,2,NA,NA,SeaAroundUs,"Molluscs, other"
+DXV,56,Common peruvian donax,Donax peruvianus,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+DYL,33,Flying gurnard,Dactylopterus volitans,,3.64,0.6,50,FishBase_ISSCAAP,Demersal fish
+DZS,52,Rainbow abalone,Haliotis iris,新西兰鲍,2,NA,NA,SeaAroundUs,"Molluscs, other"
+DZX,53,Thorny oysters nei,Spondylus spp,,2.02,NA,NA,SeaAroundUs,"Molluscs, other"
+EAA,35,Regan's anchovy,Anchoa argentivittata,黎氏小鳀,3.4,NA,NA,Estimate(FishBase),Pelagic fish
+EAG,38,Eagle rays nei,Myliobatidae,,3.54,0.03,178,FishBase_ISSCAAP,Demersal fish
+EAN,35,Longnose anchovy,Anchoa nasus,长吻小鳀,3.4,0.44,11.48,FishBase_ISSCAAP,Pelagic fish
+ECH,76,Echinoderms,Echinodermata,,2.3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+ECN,37,"Suckerfishes, remoras nei",Echeneidae,,3.26,0.05,58.393,FishBase_ISSCAAP,Pelagic fish
+EDJ,34,Slender armorhead,Pseudopentaceros wheeleri,,3.41,0.45,36.08,FishBase_ISSCAAP,Demersal fish
+EDR,34,Pelagic armourhead,Pseudopentaceros richardsoni,,3.5,0.37,49.55,FishBase_ISSCAAP,Demersal fish
+EDT,57,Musky octopus,Eledone moschata,麝香爱尔斗蛸,3.65,0.58,NA,FishBase_ISSCAAP,Cephalopods
+EEA,33,Blacktip grouper,Epinephelus fasciatus,黑边石斑鱼,3.68,0.62,33.83,FishBase_ISSCAAP,Demersal fish
+EEG,33,Dungat grouper,Epinephelus goreensis,颌斑石斑鱼,3.94,0.64,114.8,FishBase_ISSCAAP,Demersal fish
+EEK,33,Camouflage grouper,Epinephelus polyphekadion,清水石斑鱼,3.94,0.68,90,FishBase_ISSCAAP,Demersal fish
+EEL,33,Yellowedge grouper,Hyporthodus flavolimbatus,,3.82,0.61,94.3,FishBase_ISSCAAP,Demersal fish
+EEO,33,Queen snapper,Etelis oculatus,,4.18,0.57,76.64,FishBase_ISSCAAP,Demersal fish
+EEP,33,Comet grouper,Epinephelus morrhua,弓斑石斑鱼,3.97,0.65,73.32,FishBase_ISSCAAP,Demersal fish
+EER,33,Honeycomb grouper,Epinephelus merra,蜂巢石斑鱼,3.79,0.6,26.39,FishBase_ISSCAAP,Demersal fish
+EET,33,Atlantic goliath grouper,Epinephelus itajara,伊氏石斑鱼,4.09,NA,NA,SeaAroundUs,Demersal fish
+EEU,33,Red hind,Epinephelus guttatus,,3.88,0.64,62.32,FishBase_ISSCAAP,Demersal fish
+EFC,33,Rooster hind,Hyporthodus acanthistius,东太平洋石斑鱼,3.93,NA,NA,SeaAroundUs,Demersal fish
+EFH,33,Brownspotted grouper,Epinephelus chlorostigma,网纹石斑鱼,3.99,0.67,59.7,FishBase_ISSCAAP,Demersal fish
+EFI,33,Minor stardrum,Stellifer minor,,3.45,NA,NA,SeaAroundUs,Demersal fish
+EFK,33,Duskytail grouper,Epinephelus bleekeri,橙色石斑鱼,3.93,NA,NA,SeaAroundUs,Demersal fish
+EFV,33,Snowy grouper,Hyporthodus niveatus,,4.04,0.58,100.04,FishBase_ISSCAAP,Demersal fish
+EFY,33,Banded grouper,Epinephelus amblycephalus,镶点石斑鱼,3.8,NA,NA,FishBase,Demersal fish
+EHG,33,Redmouth grouper,Aethaloperca rogaa,烟鲈,4.2,0.71,49.15,FishBase_ISSCAAP,Demersal fish
+EIF,33,Convict grouper,Epinephelus septemfasciatus,七带石斑鱼,3.98,NA,NA,FishBase,Demersal fish
+EIL,24,Elongate ilisha,Ilisha elongata,,3.79,0.61,48.21,FishBase_ISSCAAP,Pelagic fish
+EKN,45,Jawla paste shrimp,Acetes indicus,印度毛虾,2.7,NA,NA,SeaAroundUs,Crustaceans
+EKR,45,Tsivakihini paste shrimp,Acetes erythraeus,红毛虾,2.7,NA,NA,SeaAroundUs,Crustaceans
+ELA,22,American eel,Anguilla rostrata,美洲鳗鲡,3.67,0.59,124.64,FishBase_ISSCAAP,Demersal fish
+ELC,34,Electron subantarctic,Electrona carlsbergi,,3.24,0.41,9.6,FishBase_ISSCAAP,Demersal fish
+ELE,22,European eel,Anguilla anguilla,欧洲鳗鲡,3.53,0.57,109.06,FishBase_ISSCAAP,Demersal fish
+ELG,33,Warsaw grouper,Hyporthodus nigritus,,3.97,0.61,188.6,FishBase_ISSCAAP,Demersal fish
+ELJ,22,Japanese eel,Anguilla japonica,鳗鲡,3.55,0.51,149.15,FishBase_ISSCAAP,Demersal fish
+ELP,33,Eelpout,Zoarces viviparus,,3.47,0.49,42.64,FishBase_ISSCAAP,Demersal fish
+ELS,34,Whitespotted conger,Conger myriaster,,3.98,0.68,82,FishBase_ISSCAAP,Demersal fish
+ELU,22,Short-finned eel,Anguilla australis,,4.07,0.72,106.6,FishBase_ISSCAAP,Pelagic fish
+ELX,22,River eels nei,Anguilla spp,鳗鲡类,3.72,0.1,114,FishBase_ISSCAAP,Freshwater fish
+ELZ,34,Eelpouts,Lycodes spp,,3.5,0.01,40,FishBase_ISSCAAP,Demersal fish
+EME,33,Squaretail coralgrouper,Plectropomus areolatus,蓝点鳃棘鲈,4.5,0.8,59.86,FishBase_ISSCAAP,Demersal fish
+EML,33,Blacksaddled coralgrouper,Plectropomus laevis,黑鞍鳃棘鲈,4.14,NA,NA,SeaAroundUs,Demersal fish
+EMM,34,Cape bonnetmouth,Emmelichthys nitidus,,3.61,0.56,39.85,FishBase_ISSCAAP,Demersal fish
+EMO,33,Leopard coralgrouper,Plectropomus leopardus,豹纹鳃棘鲈,4.49,0.77,120,FishBase_ISSCAAP,Demersal fish
+EMP,33,Emperors(=Scavengers) nei,Lethrinidae,,3.58,0.06,37,FishBase_ISSCAAP,Demersal fish
+EMT,34,"Bonnetmouths, rubyfishes nei",Emmelichthyidae,,3.45,0.03,33,FishBase_ISSCAAP,Demersal fish
+EMU,33,Roving coralgrouper,Plectropomus pessuliferus,蠕线鳃棘鲈,4.28,0.73,98.4,FishBase_ISSCAAP,Demersal fish
+ENA,11,Silver cyprinid,Rastrineobola argentea,,3.41,0.493,9,FishBase_ISSCAAP,Freshwater fish
+ENI,33,Orange-spotted grouper,Epinephelus coioides,点带石斑鱼,3.9,0.67,100.13,FishBase_ISSCAAP,Demersal fish
+ENJ,33,Crimson seabream,Evynnis japonica,犁齿鲷,3.55,0.5,36.9,FishBase_ISSCAAP,Demersal fish
+ENL,11,Lake Malawi sardine,Engraulicypris sardella,,3.03,NA,NA,FishBase,Freshwater fish
+ENR,35,Anchovies nei,Engraulis spp,,2.7,NA,NA,SeaAroundUs,Pelagic fish
+ENS,45,Endeavour shrimp,Metapenaeus endeavouri,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+EOI,57,Horned octopus,Eledone cirrhosa,角爱尔斗蛸,3.2,NA,NA,FishBase_ISSCAAP,Cephalopods
+EOJ,31,Petrale sole,Eopsetta jordani,乔氏虫鲽,4.05,0.65,46.22,FishBase_ISSCAAP,Demersal fish
+EOL,31,Southern lemon sole,Pelotretis flavilatus,,3.07,0.25,39.4,FishBase_ISSCAAP,Demersal fish
+EPA,33,Hong Kong grouper,Epinephelus akaara,赤点石斑鱼,3.95,0.65,43.78,FishBase_ISSCAAP,Demersal fish
+EPD,33,Blackfin snook,Centropomus medius,,3.97,NA,NA,SeaAroundUs,Demersal fish
+EPG,33,Black snook,Centropomus nigrescens,,4.21,NA,NA,SeaAroundUs,Demersal fish
+EPI,34,Black cardinal fish,Epigonus telescopus,,3.32,0.46,65.99,FishBase_ISSCAAP,Demersal fish
+EPL,33,Yellowfin snook,Centropomus robalito,,3.78,NA,NA,SeaAroundUs,Demersal fish
+EPR,33,Areolate grouper,Epinephelus areolatus,宝石石斑鱼,3.58,0.58,38.12,FishBase_ISSCAAP,Demersal fish
+EPT,33,Greasy grouper,Epinephelus tauvina,,4.13,0.68,64.73,FishBase_ISSCAAP,Demersal fish
+EPU,33,Armed snook,Centropomus armatus,,3.86,NA,NA,SeaAroundUs,Demersal fish
+EQE,56,Pod razor shell,Ensis ensis,刀形剑蛏,2.1,NA,NA,SeaAroundUs,"Molluscs, other"
+EQI,56,Sword razor shell,Ensis siliqua,大刀剑蛏,2.1,NA,NA,SeaAroundUs,"Molluscs, other"
+EQK,56,Arched razor shell,Ensis magnus,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+ERP,37,American harvestfish,Peprilus paru,,4,0.28,24.6,FishBase_ISSCAAP,Pelagic fish
+ERS,41,Chinese mitten crab,Eriocheir sinensis,中华绒毛蟹,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+ESZ,34,Skilfish,Erilepis zonifer,,4.5,0.37,150.06,FishBase_ISSCAAP,Demersal fish
+ETX,38,Velvet belly,Etmopterus spinax,黑腹鸟鲨,3.82,0.52,49.2,FishBase_ISSCAAP,Demersal fish
+EUL,23,Eulachon,Thaleichthys pacificus,,3.25,0.37,27.88,FishBase_ISSCAAP,Pelagic fish
+EVZ,37,Atlantic flyingfish,Cheilopogon melanurus,,3.6,NA,NA,SeaAroundUs,Pelagic fish
+EWC,33,Whitespotted grouper,Epinephelus coeruleopunctatus,,3.72,0.64,61.34,FishBase_ISSCAAP,Demersal fish
+EWF,33,Brown-marbled grouper,Epinephelus fuscoguttatus,棕点石斑鱼(老虎斑),4.14,0.72,100.55,FishBase_ISSCAAP,Demersal fish
+EWS,33,Summan grouper,Epinephelus summana,,3.8,0.61,43.33,FishBase_ISSCAAP,Demersal fish
+EWU,33,White-blotched grouper,Epinephelus multinotatus,,3.86,0.67,83.38,FishBase_ISSCAAP,Demersal fish
+EWW,33,Longspine grouper,Epinephelus longispinis,,4.15,NA,NA,FishBase,Demersal fish
+EWY,33,Smallscaled grouper,Epinephelus polylepis,,3.84,0.61,49.87,FishBase_ISSCAAP,Demersal fish
+EXF,33,"Tiger-dragon grouper, hybrid",E. fuscoguttatus x E. lanceolatus,虎龙石斑鱼杂交种,4.14,NA,NA,SeaAroundUs,Demersal fish
+EXO,41,Siberian prawn,Exopalaemon modestus,秀丽白虾,3.24,NA,NA,SeaAroundUs,Crustaceans
+EYH,35,Hamilton's thryssa,Thryssa hamiltonii,汉氏棱鳀,3.45,NA,NA,FishBase,Pelagic fish
+EYO,34,Atlantic rubyfish,Erythrocles monodi,,3.4,NA,NA,SeaAroundUs,Demersal fish
+EZO,33,Foursaddle grouper,Epinephelus spilotoceps,,3.73,NA,NA,SeaAroundUs,Demersal fish
+EZQ,33,Pacific goliath grouper,Epinephelus quinquefasciatus,,4.2,NA,NA,SeaAroundUs,Demersal fish
+FAB,11,Asian barbs nei,Puntius spp,,2.71,0.09,17,FishBase_ISSCAAP,Freshwater fish
+FAG,56,Rooster venus,Paphia gallus,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+FAL,38,Silky shark,Carcharhinus falciformis,,4.5,0.64,287,FishBase_ISSCAAP,Demersal fish
+FAS,35,Falkland sprat,Sprattus fuegensis,,3.4,0.45,18,FishBase_ISSCAAP,Pelagic fish
+FBM,11,Freshwater bream,Abramis brama,欧鳊,2.94,0.37,61.09,FishBase_ISSCAAP,Freshwater fish
+FBR,11,Freshwater breams nei,Abramis spp,,2.94,0,29,FishBase_ISSCAAP,Freshwater fish
+FBU,13,Burbot,Lota lota,江鳕,4.03,0.69,140.3,FishBase_ISSCAAP,Freshwater fish
+FCC,11,Crucian carp,Carassius carassius,黑鲫,3.11,0.24,52.48,FishBase_ISSCAAP,Freshwater fish
+FCG,11,Grass carp(=White amur),Ctenopharyngodon idella,草鱼,2,0,120.6,FishBase_ISSCAAP,Freshwater fish
+FCH,11,Hoven's carp,Leptobarbus hoeveni,细鲃,2.76,0.299,100,FishBase_ISSCAAP,Freshwater fish
+FCN,11,Nilem carp,Osteochilus hasselti,,2.57,0.28,32,FishBase_ISSCAAP,Freshwater fish
+FCP,11,Common carp,Cyprinus carpio,鲤,2.96,0.32,120,FishBase_ISSCAAP,Freshwater fish
+FCX,41,Freshwater crustaceans nei,Crustacea,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+FCY,11,Cyprinids nei,Cyprinidae,,2.81,0.02,66,FishBase_ISSCAAP,Freshwater fish
+FFX,33,"Filefishes, leatherjackets nei",Monacanthidae,,2.94,0.07,NA,FishBase_ISSCAAP,Demersal fish
+FGB,13,"Gudgeons, sleepers nei",Eleotridae,,3.45,0.08,50,FishBase_ISSCAAP,Freshwater fish
+FGG,13,Giant gourami,Osphronemus goramy,,2.04,0.09,70,FishBase_ISSCAAP,Freshwater fish
+FGO,13,Kissing gourami,Helostoma temminckii,吻鲈,2.82,0.326,22.72,FishBase_ISSCAAP,Freshwater fish
+FGS,13,Snakeskin gourami,Trichopodus pectoralis,蛇皮毛足鲈,2.32,0.22,20.22,FishBase_ISSCAAP,Freshwater fish
+FGX,13,Freshwater gobies nei,Gobiidae,,3.17,0.02,16,FishBase_ISSCAAP,Freshwater fish
+FHJ,38,Southern stingray,Hypanus americanus,,3.51,NA,NA,SeaAroundUs,Demersal fish
+FIA,11,,Cyprinus intha,,3.3,NA,NA,Estimate(FishBase),Freshwater fish
+FID,11,Orfe(=Ide),Leuciscus idus,圆腹雅罗鱼,3.79,0.59,62.32,FishBase_ISSCAAP,Freshwater fish
+FIL,33,Threadsail filefish,Stephanolepis cirrhifer,冠鳞单棘鲀,2.84,0.39,24.27,FishBase_ISSCAAP,Demersal fish
+FIM,33,Transparent goby,Aphia minuta,,3.1,0.28,6.48,FishBase_ISSCAAP,Demersal fish
+FIN,39,Finfishes nei,Actinopterygii,,3.79,NA,54,SeaAroundUs,"Marine fish, other"
+FIS,13,Indonesian snakehead,Channa micropeltes,小盾鳢,3.85,0.55,130,FishBase_ISSCAAP,Freshwater fish
+FKN,13,Knifefishes,Notopterus spp,,3.5,0,60,FishBase_ISSCAAP,Freshwater fish
+FLA,33,Brazilian flathead,Percophis brasiliensis,,4.33,0.74,49.27,FishBase_ISSCAAP,Demersal fish
+FLD,31,Windowpane flounder,Scophthalmus aquosus,玻璃菱鲆,3.55,0.52,37.47,FishBase_ISSCAAP,Demersal fish
+FLE,31,European flounder,Platichthys flesus,,3.19,0.36,49.56,FishBase_ISSCAAP,Demersal fish
+FLF,33,Filefishes nei,Cantherhines (=Navodon) spp,,2.66,0,20,FishBase_ISSCAAP,Demersal fish
+FLH,33,Flatheads nei,Platycephalidae,,3.9,0.06,87,FishBase_ISSCAAP,Demersal fish
+FLI,33,Bartail flathead,Platycephalus indicus,,3.6,0.59,87.38,FishBase_ISSCAAP,Demersal fish
+FLP,45,Fleshy prawn,Penaeus chinensis,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+FLS,31,Summer flounder,Paralichthys dentatus,大西洋牙鮃,4.49,0.62,77.08,FishBase_ISSCAAP,Demersal fish
+FLT,13,Asian swamp eel,Monopterus albus,黄鳝,2.88,0.285,100,FishBase_ISSCAAP,Freshwater fish
+FLU,13,African lungfishes,Protopterus spp,非洲肺鱼属未定种,3.63,0.2,97,FishBase_ISSCAAP,Freshwater fish
+FLW,31,Winter flounder,Pseudopleuronectes americanus,,2.83,0.36,50.18,FishBase_ISSCAAP,Demersal fish
+FLX,31,Flatfishes nei,Pleuronectiformes,,3.51,0.02,57,FishBase_ISSCAAP,Demersal fish
+FLY,37,Flyingfishes nei,Exocoetidae,,3.53,0.1,30,FishBase_ISSCAAP,Pelagic fish
+FNI,33,Pacific creole-fish,Paranthias colonus,東太平洋副花鮨,3.76,NA,NA,SeaAroundUs,Demersal fish
+FOK,71,American bull frog,Rana catesbeiana,牛蛙,3,NA,NA,Estimate,"Aquatic animals, other"
+FOR,32,Forkbeard,Phycis phycis,,4.26,0.74,56.75,FishBase_ISSCAAP,Demersal fish
+FOT,33,Fourfinger threadfin,Eleutheronema tetradactylum,,4.35,0.77,164,FishBase_ISSCAAP,Demersal fish
+FOX,32,Forkbeards nei,Phycis spp,,3.72,0.31,70,FishBase_ISSCAAP,Demersal fish
+FPC,13,Climbing perch,Anabas testudineus,攀鲈,2.73,0.31,19.98,FishBase_ISSCAAP,Freshwater fish
+FPE,13,European perch,Perca fluviatilis,欧洲河鲈,4.35,0.75,60,FishBase_ISSCAAP,Freshwater fish
+FPI,13,Northern pike,Esox lucius,白斑狗鱼,4.4,0.71,123,FishBase_ISSCAAP,Freshwater fish
+FPJ,33,,Aplodactylus punctatus,,2.04,NA,NA,SeaAroundUs,Demersal fish
+FPP,13,Pike-perch,Sander lucioperca,梭鲈,4.25,0.73,78.6,FishBase_ISSCAAP,Freshwater fish
+FPY,13,American yellow perch,Perca flavescens,北美黄鲈,3.7,0.62,41,FishBase_ISSCAAP,Freshwater fish
+FRF,13,Freshwater fishes nei,Actinopterygii,淡水鱼类,3.79,NA,76,SeaAroundUs,Freshwater fish
+FRG,71,Frogs,Rana spp,蛙属未定种,3,NA,NA,Estimate,"Aquatic animals, other"
+FRI,36,Frigate tuna,Auxis thazard,,4.34,0.68,59.28,FishBase_ISSCAAP,Pelagic fish
+FRL,56,Bean solen,Pharus legumen,豆蛏,2.15,NA,NA,SeaAroundUs,"Molluscs, other"
+FRO,11,Roach,Rutilus rutilus,拟鲤,2.79,0.32,50,FishBase_ISSCAAP,Freshwater fish
+FRX,11,Roaches nei,Rutilus spp,,3.05,0.23,57,FishBase_ISSCAAP,Freshwater fish
+FRZ,36,Frigate and bullet tunas,"Auxis thazard, A. rochei",扁鸵鲣，双鳍舵鲣,4.23,0.11,164,FishBase_ISSCAAP,Pelagic fish
+FSA,31,Sand flounders nei,Rhombosolea spp,,3.06,0,45,FishBase_ISSCAAP,Demersal fish
+FSC,11,Sichel,Pelecus cultratus,,3.33,0.42,49.2,FishBase_ISSCAAP,Freshwater fish
+FSI,13,Freshwater siluroids nei,Siluroidei,,3.32,0.02,113,FishBase_ISSCAAP,Freshwater fish
+FSN,13,Snakeheads(=Murrels) nei,Channa spp,,3.97,0.1,25,FishBase_ISSCAAP,Freshwater fish
+FSS,13,Striped snakehead,Channa striata,纹鳢,3.65,0.67,100,FishBase_ISSCAAP,Freshwater fish
+FTE,11,Tench,Tinca tinca,丁鱥,3.49,0.49,70,FishBase_ISSCAAP,Freshwater fish
+FTS,31,Flathead sole,Hippoglossoides elassodon,,3.64,0.56,52,FishBase_ISSCAAP,Demersal fish
+FTX,56,,Scapharca spp,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+FUC,33,Pacific cornetfish,Fistularia corneta,,4.5,0.8,93.71,FishBase_ISSCAAP,Demersal fish
+FUS,33,Fusiliers Caesio nei,Caesio spp,,3.4,NA,NA,SeaAroundUs,Demersal fish
+FUT,33,Cornetfish,Fistularia tabacaria,蓝斑烟管鱼,3.46,0.55,130.86,FishBase_ISSCAAP,Demersal fish
+FVE,23,Vendace,Coregonus albula,欧白鲑,3.02,0.19,36.9,FishBase_ISSCAAP,Pelagic fish
+GAD,32,Gadiformes nei,Gadiformes,,3.67,0.03,74,FishBase_ISSCAAP,Demersal fish
+GAG,38,Tope shark,Galeorhinus galeus,,4.21,0.65,159.9,FishBase_ISSCAAP,Pelagic fish
+GAL,33,Lesser African threadfin,Galeoides decadactylus,,3.57,0.67,36.3,FishBase_ISSCAAP,Demersal fish
+GAR,37,Garfish,Belone belone,,4.21,0.74,86.58,FishBase_ISSCAAP,Pelagic fish
+GAS,52,Gastropods nei,Gastropoda,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+GAZ,42,Gazami crab,Portunus trituberculatus,三疣梭子蟹,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+GBA,37,Great barracuda,Sphyraena barracuda,,4.5,0.8,178.88,FishBase_ISSCAAP,Pelagic fish
+GBD,13,Bigmouth sleeper,Gobiomorus dormitor,,3.72,0.59,48.99,FishBase_ISSCAAP,Freshwater fish
+GBL,33,Biglip grunt,Plectorhinchus macrolepis,,3.69,0.57,37.23,FishBase_ISSCAAP,Demersal fish
+GBM,13,Marble goby,Oxyeleotris marmorata,云斑尖塘鳢,4.05,0.67,65,FishBase_ISSCAAP,Freshwater fish
+GBR,33,Rubberlip grunt,Plectorhinchus mediterraneus,,3.49,0.52,80,FishBase_ISSCAAP,Demersal fish
+GBS,33,Broomtail grouper,Mycteroperca xenarcha,,4.58,0.82,123,FishBase_ISSCAAP,Demersal fish
+GCA,33,Masked grouper,Gracila albomarginata,白边织齿鲈,4.2,NA,NA,SeaAroundUs,Demersal fish
+GDG,32,Silvery pout,Gadiculus argenteus,银大眼鳕,3.45,0.59,12.93,FishBase_ISSCAAP,Demersal fish
+GDJ,33,"Mojarras, etc. nei",Gerreidae,,3.25,0.07,19.193,FishBase_ISSCAAP,Demersal fish
+GDW,57,Gonate squids nei,Gonatidae,,4.29,NA,NA,SeaAroundUs,Cephalopods
+GEC,56,Pacific geoduck,Panopea generosa,太平洋潜泥蛤(象拔蚌),2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+GEF,33,Whipfin silver-biddy,Gerres filamentosus,,3.34,NA,NA,SeaAroundUs,Demersal fish
+GEJ,33,Common silver-biddy,Gerres oyena,,3.07,0.23,24.96,FishBase_ISSCAAP,Demersal fish
+GEM,34,Silver gemfish,Rexea solandri,,4.31,0.66,110,FishBase_ISSCAAP,Demersal fish
+GEO,33,Slender silver-biddy,Gerres oblongus,,3.5,0.37,30,FishBase_ISSCAAP,Demersal fish
+GEP,34,"Snake mackerels, escolars nei",Gempylidae,,4.15,0.06,149,FishBase_ISSCAAP,Demersal fish
+GER,42,Chaceon geryons nei,Chaceon spp,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+GEX,56,,Panopea spp,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+GEZ,33,Guinean striped mojarra,Gerres nigri,横带银鲈,3.19,0.51,15.85,FishBase_ISSCAAP,Demersal fish
+GFB,32,Greater forkbeard,Phycis blennoides,,3.73,0.58,96.91,FishBase_ISSCAAP,Demersal fish
+GFX,52,,Tegula spp,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+GFZ,51,Chinese mystery snail,Cipangopaludina chinensis,中国圆田螺,2.1,NA,NA,Estimate(SeaAroundUs),"Molluscs, other"
+GHL,31,Greenland halibut,Reinhardtius hippoglossoides,,4.48,0.79,71.6,FishBase_ISSCAAP,Demersal fish
+GHP,34,Yellowfin notothen,Patagonotothen guntheri,,3.62,NA,NA,SeaAroundUs,Demersal fish
+GIP,25,Barramundi(=Giant seaperch),Lates calcarifer,尖吻鲈,4.35,0.77,161.88,FishBase_ISSCAAP,Demersal fish
+GIS,57,Jumbo flying squid,Dosidicus gigas,,4.14,0.68,NA,FishBase_ISSCAAP,Cephalopods
+GIT,45,Giant tiger prawn,Penaeus monodon,斑节对虾,2.6,0.59,NA,FishBase_ISSCAAP,Crustaceans
+GIY,33,Parore,Girella tricuspidata,,2,0.02,62.82,FishBase_ISSCAAP,Demersal fish
+GJZ,13,Manduba,Ageneiosus inermis,,3.98,NA,NA,FishBase,Freshwater fish
+GKL,56,Common European bittersweet,Glycymeris glycymeris,欧洲蚶鯏,2,NA,NA,SeaAroundUs,"Molluscs, other"
+GKO,56,Black bittersweet,Glycymeris ovata,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+GLD,77,Bloodworm,Glycera dibranchiata,,2.5,NA,NA,Estimate,"Aquatic animals, other"
+GLT,37,Golden trevally,Gnathanodon speciosus,,3.84,0.6,104.09,FishBase_ISSCAAP,Pelagic fish
+GLZ,31,Rex sole,Glyptocephalus zachirus,,3.24,0.38,49.2,FishBase_ISSCAAP,Demersal fish
+GMR,33,Grey large-eye bream,Gymnocranius griseus,,3.22,NA,NA,SeaAroundUs,Demersal fish
+GNC,38,Nurse shark,Ginglymostoma cirratum,,3.83,0.54,352.6,FishBase_ISSCAAP,Demersal fish
+GNP,13,Slobbering catfish,Brachyplatystoma platynemum,,4.5,NA,NA,FishBase,Freshwater fish
+GOA,33,West African goatfish,Pseudupeneus prayensis,,3.24,0.41,55,FishBase_ISSCAAP,Demersal fish
+GOM,13,Gouramis nei,Trichogaster spp,,2.5,0.18,15,FishBase_ISSCAAP,Freshwater fish
+GOX,33,Goatfishes,Upeneus spp,,3.5,0.08,19,FishBase_ISSCAAP,Demersal fish
+GPA,33,Gobies nei,Gobiidae,,3.17,0.02,16,FishBase_ISSCAAP,Demersal fish
+GPB,33,Brazilian groupers nei,Mycteroperca spp,,4.31,0.1,90,FishBase_ISSCAAP,Demersal fish
+GPD,33,Dusky grouper,Epinephelus marginatus,,3.73,0.57,112.04,FishBase_ISSCAAP,Demersal fish
+GPE,32,Longfin hake,Phycis chesteri,,3.17,0.36,71.75,FishBase_ISSCAAP,Demersal fish
+GPN,33,Nassau grouper,Epinephelus striatus,,4.06,0.71,104.61,FishBase_ISSCAAP,Demersal fish
+GPR,33,Red grouper,Epinephelus morio,,3.49,0.61,104.5,FishBase_ISSCAAP,Demersal fish
+GPS,33,Spotted grouper,Epinephelus analogus,,3.84,0.64,89.34,FishBase_ISSCAAP,Demersal fish
+GPW,33,White grouper,Epinephelus aeneus,,4.02,0.59,99.96,FishBase_ISSCAAP,Demersal fish
+GPX,33,Groupers nei,Epinephelus spp,,3.9,0.02,79,FishBase_ISSCAAP,Demersal fish
+GQD,33,Sordid rubberlip,Plectorhinchus sordidus,,3.99,0.66,49.03,FishBase_ISSCAAP,Demersal fish
+GQT,33,Blackspotted rubberlip,Plectorhinchus gaterinus,,3.99,0.66,42.69,FishBase_ISSCAAP,Demersal fish
+GRA,33,African striped grunt,Parapristipoma octolineatum,,3.55,0.5,50,FishBase_ISSCAAP,Demersal fish
+GRB,33,Bigeye grunt,Brachydeuterus auritus,,3.03,0.44,24.7,FishBase_ISSCAAP,Demersal fish
+GRC,32,Greenland cod,Gadus ogac,,3.59,0.58,64.99,FishBase_ISSCAAP,Demersal fish
+GRE,34,Greeneyes,Chlorophthalmidae,青眼鱼科,3.89,0.14,18,FishBase_ISSCAAP,Demersal fish
+GRL,33,Silver grunt,Pomadasys argenteus,,3.42,0.52,61.32,FishBase_ISSCAAP,Demersal fish
+GRM,32,Patagonian grenadier,Macruronus magellanicus,,3.93,0.6,106.83,FishBase_ISSCAAP,Demersal fish
+GRN,32,Blue grenadier,Macruronus novaezelandiae,,4.47,0.79,113.88,FishBase_ISSCAAP,Demersal fish
+GRO,39,Groundfishes nei,Actinopterygii,,3.79,NA,55,SeaAroundUs,"Marine fish, other"
+GRP,33,Cabinza grunt,Isacia conceptionis,,2.91,0.39,49.2,FishBase_ISSCAAP,Demersal fish
+GRQ,42,Mediterranean geryon,Geryon longipes,马氏怪蟹,3.49,NA,NA,SeaAroundUs,Crustaceans
+GRV,32,Grenadiers nei,Macrourus spp,,3.85,0.22,73,FishBase_ISSCAAP,Demersal fish
+GRX,33,"Grunts, sweetlips nei",Haemulidae (=Pomadasyidae),,3.51,0.05,45,FishBase_ISSCAAP,Demersal fish
+GSK,38,Greenland shark,Somniosus microcephalus,,4.22,0.57,598.6,FishBase_ISSCAAP,Pelagic fish
+GSU,33,Silver seabream,Pagrus auratus,金赤鲷,3.32,0.47,106.6,FishBase_ISSCAAP,Demersal fish
+GTA,25,Three-spined stickleback,Gasterosteus aculeatus,,3.51,0.49,9.67,FishBase_ISSCAAP,Pelagic fish
+GTF,38,"Guitarfishes, etc. nei",Rhinobatidae,,3.63,0.03,101,FishBase_ISSCAAP,Demersal fish
+GTV,33,Longtail silverbiddy,Gerres longirostris,,3.5,NA,NA,SeaAroundUs,Demersal fish
+GUC,34,Cape gurnard,Chelidonichthys capensis,,4.21,0.7,52.05,FishBase_ISSCAAP,Demersal fish
+GUD,38,Chola guitarfish,Pseudobatos percellens,,3.58,0.62,84.76,FishBase_ISSCAAP,Demersal fish
+GUF,38,Pacific guitarfish,Pseudobatos planiceps,,3.54,0.55,62.57,FishBase_ISSCAAP,Demersal fish
+GUG,34,Grey gurnard,Eutrigla gurnardus,,3.57,0.57,52.54,FishBase_ISSCAAP,Demersal fish
+GUN,34,Piper gurnard,Trigla lyra,,3.65,NA,NA,SeaAroundUs,Demersal fish
+GUP,38,Gulper shark,Centrophorus granulosus,,4.13,0.65,131.2,FishBase_ISSCAAP,Demersal fish
+GUQ,38,Leafscale gulper shark,Centrophorus squamosus,,4.22,0.61,134.48,FishBase_ISSCAAP,Demersal fish
+GUR,34,Red gurnard,Chelidonichthys cuculus,,3.85,0.64,41.8,FishBase_ISSCAAP,Demersal fish
+GUS,45,Guinea shrimp,Holthuispenaeopsis atlantica,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+GUT,36,Indo-Pacific king mackerel,Scomberomorus guttatus,,4.28,0.67,72.43,FishBase_ISSCAAP,Pelagic fish
+GUU,34,Tub gurnard,Chelidonichthys lucerna,斑鳍鲂鮄,3.65,0.61,63.05,FishBase_ISSCAAP,Demersal fish
+GUX,34,"Gurnards, searobins nei",Triglidae,,3.63,0.05,46,FishBase_ISSCAAP,Demersal fish
+GUY,34,Gurnards nei,Trigla spp,,3.51,NA,NA,SeaAroundUs,Demersal fish
+GUZ,38,Guitarfishes nei,Rhinobatos spp,,3.73,NA,NA,SeaAroundUs,Demersal fish
+GYP,33,Peruvian sea catfish,Galeichthys peruvianus,,3.6,NA,NA,Estimate(FishBase),Demersal fish
+HAD,32,Haddock,Melanogrammus aeglefinus,黑线鳕,4.09,0.69,86.02,FishBase_ISSCAAP,Demersal fish
+HAI,31,Indian halibut,Psettodes erumei,,4.39,0.76,50.5,FishBase_ISSCAAP,Demersal fish
+HAJ,37,Japanese halfbeak,Hyporhamphus sajori,,3.4,0.45,37.39,FishBase_ISSCAAP,Pelagic fish
+HAL,31,Atlantic halibut,Hippoglossus hippoglossus,大西洋庸鲽,4.53,0.79,218.94,FishBase_ISSCAAP,Demersal fish
+HAP,31,Pacific halibut,Hippoglossus stenolepis,狭鳞庸鲽 (太平洋庸鲽),4.13,0.72,218.94,FishBase_ISSCAAP,Demersal fish
+HAS,37,Torpedo scad,Megalaspis cordyla,,4.39,0.76,68.8,FishBase_ISSCAAP,Pelagic fish
+HAW,34,Peruvian morwong,Cheilodactylus variegatus,,3.33,0.5,25.09,FishBase_ISSCAAP,Demersal fish
+HAX,37,,Hemiramphus spp,,3.06,0.24,31,FishBase_ISSCAAP,Pelagic fish
+HBN,42,Southwest Atlantic red crab,Chaceon notialis,,2.85,NA,NA,SeaAroundUs,Crustaceans
+HBS,12,,Hemibates stenosoma,,3.46,0.43,24.6,FishBase_ISSCAAP,Freshwater fish
+HBU,13,Loweye catfishes nei,Hypophthalmus spp,,2.91,NA,NA,FishBase,Freshwater fish
+HBZ,42,Hair crab,Erimacrus isenbeckii,绒毛长蟹,2.5,NA,NA,FishBase_ISSCAAP,Crustaceans
+HCF,13,Elongate tigerfish,Hydrocynus forskahlii,,3.98,0.48,78,FishBase_ISSCAAP,Freshwater fish
+HCG,35,Scaled herring,Harengula jaguana,,3.42,NA,NA,SeaAroundUs,Pelagic fish
+HCJ,56,Japanese hard clam,Meretrix lusoria,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+HCL,56,Imperial surf clam,Pseudocardium sybillae,帝王拟心蛤,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+HCT,35,Pacific flatiron herring,Harengula thrissina,太平洋青鳞鱼,3.1,0.3,12.5,FishBase_ISSCAAP,Pelagic fish
+HCV,13,Tiger fish,Hydrocynus vittatus,,4.41,NA,NA,FishBase,Freshwater fish
+HCX,56,Hard clams nei,Meretrix spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+HCZ,33,Squirrelfishes nei,Holocentridae,,3.68,0.07,20.145,FishBase_ISSCAAP,Demersal fish
+HDW,34,Pemarco blackfish,Schedophilus pemarco,大眼高体鲳,3.96,0.28,41,FishBase_ISSCAAP,Demersal fish
+HED,13,Kafue pike,Hepsetus odoe,,4.5,0.8,56.7,FishBase_ISSCAAP,Freshwater fish
+HEI,38,Atlantic weasel shark,Paragaleus pectoralis,大西洋副沙条鲨,4.32,0.64,113.95,FishBase_ISSCAAP,Demersal fish
+HEL,13,Sampa,Heterobranchus longifilis,长丝异鳃鲶,3.72,0.66,150,FishBase_ISSCAAP,Freshwater fish
+HEP,35,Pacific herring,Clupea pallasii,,3.15,0.36,39.1,FishBase_ISSCAAP,Pelagic fish
+HER,35,Atlantic herring,Clupea harengus,,3.23,0.39,45,FishBase_ISSCAAP,Pelagic fish
+HES,35,Bluestripe herring,Herklotsichthys quadrimaculat.,,3.57,0.54,25,FishBase_ISSCAAP,Pelagic fish
+HFB,42,Golden deepsea crab,Chaceon fenneri,,3.02,NA,NA,SeaAroundUs,Crustaceans
+HFC,76,Sandfish,Holothuria scabra,糙海参,2,NA,NA,SeaAroundUs,"Aquatic animals, other"
+HFF,76,White teatfish,Holothuria fuscogilva,,2,NA,NA,SeaAroundUs,"Aquatic animals, other"
+HFN,76,Black teatfish,Holothuria nobilis,黑乳海参,2,NA,NA,SeaAroundUs,"Aquatic animals, other"
+HIL,24,Hilsa shad,Tenualosa ilisha,,2.04,0.05,60,FishBase_ISSCAAP,Pelagic fish
+HIX,24,Kelee shad,Hilsa kelee,,3.25,0.48,28.1,FishBase_ISSCAAP,Pelagic fish
+HIY,13,African butter catfish,Schilbe mystus,,3.45,NA,NA,SeaAroundUs,Freshwater fish
+HJB,12,Jewelfish,Hemichromis bimaculatus,双斑伴丽鱼,3.93,NA,NA,FishBase,Freshwater fish
+HJD,45,Chilean knife shrimp,Haliporoides diomedeae,智利拟对虾,2.6,NA,NA,SeaAroundUs,Crustaceans
+HJF,12,Banded jewelfish,Hemichromis fasciatus,条纹伴丽鱼,3.18,0.49,20.4,FishBase_ISSCAAP,Freshwater fish
+HJH,33,Candelamoa parrotfish,Hipposcarus harid,,2,NA,NA,FishBase,Demersal fish
+HKB,32,Benguela hake,Merluccius polli,,4.5,0.63,71.68,FishBase_ISSCAAP,Demersal fish
+HKC,32,Cape hakes,"Merluccius capensis, M.paradoxus",,4.29,0.08,84,FishBase_ISSCAAP,Demersal fish
+HKE,32,European hake,Merluccius merluccius,,4.42,0.78,129.62,FishBase_ISSCAAP,Demersal fish
+HKK,32,Shallow-water Cape hake,Merluccius capensis,,4.45,0.78,125.97,FishBase_ISSCAAP,Demersal fish
+HKM,32,Senegalese hake,Merluccius senegalensis,,4.5,0.8,73.06,FishBase_ISSCAAP,Demersal fish
+HKN,32,Southern hake,Merluccius australis,,4.45,0.79,155,FishBase_ISSCAAP,Demersal fish
+HKO,32,Deep-water Cape hake,Merluccius paradoxus,,4.91,NA,NA,SeaAroundUs,Demersal fish
+HKP,32,Argentine hake,Merluccius hubbsi,,4.23,0.67,86.35,FishBase_ISSCAAP,Demersal fish
+HKR,32,Red hake,Urophycis chuss,,3.64,0.53,57.35,FishBase_ISSCAAP,Demersal fish
+HKS,32,Silver hake,Merluccius bilinearis,,4.26,0.72,71.89,FishBase_ISSCAAP,Demersal fish
+HKU,32,Brazilian codling,Urophycis brasiliensis,,3.79,0.6,35.12,FishBase_ISSCAAP,Demersal fish
+HKW,32,White hake,Urophycis tenuis,,4.2,0.72,114.51,FishBase_ISSCAAP,Demersal fish
+HKX,32,Hakes nei,Merluccius spp,,4.29,0.08,74,FishBase_ISSCAAP,Demersal fish
+HLG,33,Mexican barred snapper,Hoplopagrus guentherii,,3.68,0.53,75.44,FishBase_ISSCAAP,Demersal fish
+HLI,33,White grunt,Haemulon plumierii,,3.6,0.48,43.46,FishBase_ISSCAAP,Demersal fish
+HLL,33,Tomtate grunt,Haemulon aurolineatum,,4.35,NA,NA,SeaAroundUs,Demersal fish
+HLO,33,Black grunt,Haemulon bonariense,,3.54,NA,NA,SeaAroundUs,Demersal fish
+HMC,37,Cape horse mackerel,Trachurus capensis,,3.47,0.5,54.61,FishBase_ISSCAAP,Pelagic fish
+HMG,37,Greenback horse mackerel,Trachurus declivis,,3.93,0.61,64,FishBase_ISSCAAP,Pelagic fish
+HML,11,Hampala barb,Hampala macrolepidota,,4.23,0.75,70,FishBase_ISSCAAP,Freshwater fish
+HMM,37,Mediterranean horse mackerel,Trachurus mediterraneus,,3.59,0.41,57.28,FishBase_ISSCAAP,Pelagic fish
+HMY,37,False scad,Caranx rhonchus,,3.6,0.59,49.2,FishBase_ISSCAAP,Pelagic fish
+HMZ,37,Cunene horse mackerel,Trachurus trecae,,3.49,0.38,32.41,FishBase_ISSCAAP,Pelagic fish
+HNI,33,Burrito grunt,Anisotremus interruptus,,3.5,NA,NA,SeaAroundUs,Demersal fish
+HNQ,42,Pink geryon,Chaceon macphersoni,,2.85,NA,NA,SeaAroundUs,Crustaceans
+HNS,33,,Anisotremus scapularis,,3.67,NA,NA,SeaAroundUs,Demersal fish
+HOA,13,,Hoplias aimara,,3.74,0.55,100,FishBase_ISSCAAP,Freshwater fish
+HOB,33,Hottentot seabream,Pachymetopon blochii,布氏切齿鲷,3.37,NA,NA,FishBase,Demersal fish
+HOC,33,Honnibe croaker,Nibea mitsukurii,,3.5,0.37,75,FishBase_ISSCAAP,Demersal fish
+HOF,32,Offshore silver hake,Merluccius albidus,,3.43,0.36,36.26,FishBase_ISSCAAP,Demersal fish
+HOL,38,"Chimaeras, etc. nei",Chimaeriformes,,3.66,0.04,82,FishBase_ISSCAAP,Demersal fish
+HOM,37,Atlantic horse mackerel,Trachurus trachurus,,3.64,0.58,61.72,FishBase_ISSCAAP,Pelagic fish
+HON,11,Common nase,Chondrostoma nasus,软口鱼,2,0,41,FishBase_ISSCAAP,Freshwater fish
+HOO,33,Squirrelfish,Holocentrus adscensionis,,3.11,NA,NA,SeaAroundUs,Demersal fish
+HOT,33,Blue hottentot,Pachymetopon aeneum,,3.23,NA,NA,SeaAroundUs,Demersal fish
+HOU,23,Houting,Coregonus oxyrinchus,尖吻白鲑,3.25,0.25,42.35,FishBase_ISSCAAP,Freshwater fish
+HPN,13,Highwaterman catfish,Hypophthalmus edentatus,,2.91,0.3,47.15,FishBase_ISSCAAP,Freshwater fish
+HPU,13,Aimara,Hoplerythrinus unitaeniatus,,3.41,0.49,22.13,FishBase_ISSCAAP,Freshwater fish
+HRC,33,Peruvian chromis,Chromis intercrusma,,3.5,NA,NA,Estimate(FishBase),Demersal fish
+HSC,75,Horseshoe crab,Limulus polyphemus,,2.98,NA,NA,SeaAroundUs,"Aquatic animals, other"
+HSO,37,Pacific bumper,Chloroscombrus orqueta,太平洋鲭鯵,2.54,0.31,24.6,FishBase_ISSCAAP,Pelagic fish
+HSR,13,Atipa,Hoplosternum littorale,滨岸护胸鲶,2.68,0.28,19.68,FishBase_ISSCAAP,Freshwater fish
+HTF,13,Stinging catfish,Heteropneustes fossilis,印度囊鳃鲶,3.68,0.62,25.99,FishBase_ISSCAAP,Freshwater fish
+HTN,13,African bonytongue,Heterotis niloticus,,2.55,0.26,100,FishBase_ISSCAAP,Freshwater fish
+HTZ,33,Pacific spadefish,Chaetodipterus zonatus,,3.31,0.58,53.34,FishBase_ISSCAAP,Demersal fish
+HUH,21,Beluga,Huso huso,欧洲鳇,4.06,0.97,410,FishBase_ISSCAAP,Pelagic fish
+HUM,33,Atka mackerel,Pleurogrammus monopterygius,,3.33,0.38,48.07,FishBase_ISSCAAP,Demersal fish
+HUS,33,Yellow snapper,Lutjanus argentiventris,纹眼笛鲷,4.04,0.634,58.22,FishBase_ISSCAAP,Demersal fish
+HUV,45,Northern nylon shrimp,Heterocarpus vicarius,北方异腕虾,2.7,NA,NA,SeaAroundUs,Crustaceans
+HVJ,23,Japanese smelt,Hypomesus nipponensis,,3.2,0.42,13.94,FishBase_ISSCAAP,Pelagic fish
+HVM,33,Humphead wrasse,Cheilinus undulatus,波纹唇鱼(曲纹唇鱼),3.99,0.61,229,FishBase_ISSCAAP,Demersal fish
+HVS,33,Sabre squirrelfish,Sargocentron spiniferum,,3.54,0.58,46.42,FishBase_ISSCAAP,Demersal fish
+HVW,13,,Hoplias spp,,3.74,NA,NA,FishBase,Freshwater fish
+HWP,42,Giant stone crab,Homalaspis plana,,3.59,NA,NA,SeaAroundUs,Crustaceans
+HWU,13,Trahira,Hoplias malabaricus,虎利齿脂鲤,4.5,NA,NA,FishBase,Freshwater fish
+HWV,13,Payara,Hydrolycus scomberoides,,4.5,NA,NA,FishBase,Freshwater fish
+HXP,11,"Silver, bighead carps nei",Hypophthalmichthys spp,,2.16,0.17,82,FishBase_ISSCAAP,Freshwater fish
+HYD,38,Ratfishes nei,Hydrolagus spp,,3.77,0.04,69.862,FishBase_ISSCAAP,Demersal fish
+HYM,13,Zamurito,Calophysus macropterus,,3.18,NA,NA,FishBase,Freshwater fish
+HYZ,74,Red oyas,Halocynthia roretzi,,3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+HZR,37,Longfin halfbeak,Hemiramphus saltator,,3.98,NA,NA,FishBase,Pelagic fish
+HZY,13,,Hypostomus spp,,2,NA,NA,Estimate(FishBase),Freshwater fish
+HZZ,13,,Hemiodus spp,,2.7,NA,NA,Estimate(FishBase),Freshwater fish
+IAG,33,Corvina drum,Cilus gilberti,吉氏毛突石首鱼,3.66,0.53,49.2,FishBase_ISSCAAP,Demersal fish
+IAH,57,Pharaoh cuttlefish,Sepia pharaonis,虎斑乌贼,3.8,NA,NA,SeaAroundUs,Cephalopods
+IAX,57,Cuttlefishes nei,Sepia spp,,3.69,NA,NA,SeaAroundUs,Cephalopods
+IBC,43,Japanese fan lobster,Ibacus ciliatus,毛缘扇虾,2.6,NA,NA,SeaAroundUs,Crustaceans
+IBZ,12,,Bathybates minor,小渊丽鱼,4.2,NA,NA,FishBase,Freshwater fish
+ICI,31,True sole,Heteromycteris proboscideus,,3.3,NA,NA,Estimate(FishBase),Demersal fish
+ICX,34,Crocodile icefishes nei,Channichthyidae,,3.59,0.07,48,FishBase_ISSCAAP,Demersal fish
+IEW,33,Harry hotlips,Plectorhinchus gibbosus,,3.57,NA,NA,SeaAroundUs,Demersal fish
+IGX,12,,Cichla spp,,4.48,NA,NA,FishBase,Freshwater fish
+IIM,33,Splittail bass,Hemanthias peruanus,,3.4,NA,NA,FishBase,Demersal fish
+IKX,34,,Muraenesocidae,,3.9,NA,NA,SeaAroundUs,Demersal fish
+ILI,24,West African ilisha,Ilisha africana,,3.44,0.54,30,FishBase_ISSCAAP,Pelagic fish
+ILL,57,Shortfin squids nei,Illex spp,,3.98,NA,NA,SeaAroundUs,Cephalopods
+ILP,13,Glass schilbid,Parailia pellucida,,3.45,0.47,12.3,FishBase_ISSCAAP,Freshwater fish
+ILS,33,Silver sillago,Sillago sihama,多鳞鱚,3.37,0.47,31,FishBase_ISSCAAP,Demersal fish
+INV,77,Aquatic invertebrates nei,Invertebrata,,3,NA,NA,"Estimate(Sylvain et al., 2013)","Aquatic animals, other"
+IOD,42,Blue-leg swimcrab,Liocarcinus depurator,蓝腿平滑梭子蟹,2.6,NA,NA,SeaAroundUs,Crustaceans
+IOS,35,Indian oil sardine,Sardinella longiceps,,2.41,0.222,23,FishBase_ISSCAAP,Pelagic fish
+IPO,13,Flathead catfish,Pylodictis olivaris,,3.79,0.65,127.78,FishBase_ISSCAAP,Freshwater fish
+IRQ,13,Sleek lates,Lates stappersii,,4.27,NA,NA,FishBase,Freshwater fish
+ISA,33,Bigtooth corvina,Isopisthus parvipinnis,,3.6,0.59,20.5,FishBase_ISSCAAP,Demersal fish
+ISC,55,Iceland scallop,Chlamys islandica,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+ISI,31,Butter sole,Isopsetta isolepis,,3.59,NA,NA,SeaAroundUs,Demersal fish
+ISR,33,Silver weakfish,Isopisthus remifer,,4.2,NA,NA,SeaAroundUs,Demersal fish
+ITF,13,Blue catfish,Ictalurus furcatus,长鳍叉尾鮰,3.41,0.44,135.3,FishBase_ISSCAAP,Freshwater fish
+ITM,13,Black bullhead,Ameiurus melas,黑鮰,3.73,0.64,57.09,FishBase_ISSCAAP,Freshwater fish
+ITP,13,Channel catfish,Ictalurus punctatus,斑点叉尾鮰,3.87,0.58,108.24,FishBase_ISSCAAP,Freshwater fish
+ITT,56,Rostrate pitar,Pitar rostratus,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+IYL,13,Bichique,Sicyopterus lagocephalus,,2.77,0.31,10.66,FishBase_ISSCAAP,Freshwater fish
+IYO,31,Pacific sanddab,Citharichthys sordidus,,3.45,0.48,33.62,FishBase_ISSCAAP,Demersal fish
+JAA,37,Blue jack mackerel,Trachurus picturatus,,3.32,0.42,49.2,FishBase_ISSCAAP,Pelagic fish
+JAI,38,Brown ray,Raja miraletus,,3.8,0.74,51.66,FishBase_ISSCAAP,Demersal fish
+JAJ,42,Southern spider crab,Jacquinotia edwardsii,,2.8,NA,NA,SeaAroundUs,Crustaceans
+JAN,35,Japanese anchovy,Engraulis japonicus,,2.56,0.22,14.76,FishBase_ISSCAAP,Pelagic fish
+JAQ,45,Jack-knife shrimp,Haliporoides sibogae,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+JAS,34,Japanese sandfish,Arctoscopus japonicus,,3.51,0.53,24.6,FishBase_ISSCAAP,Demersal fish
+JAT,38,Rough skate,Dipturus nasutus,,3.68,NA,NA,SeaAroundUs,Demersal fish
+JAX,37,Jack and horse mackerels nei,Trachurus spp,,3.58,0.06,46,FishBase_ISSCAAP,Pelagic fish
+JCD,77,,Catostylus spp,,3.46,NA,NA,SeaAroundUs,"Aquatic animals, other"
+JCM,47,,Calanus finmarchicus,,2.37,NA,NA,SeaAroundUs,Crustaceans
+JCR,76,Royal cucumber,Parastichopus regalis,国王刺参,2.3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+JDV,42,Common spider crab,Maja brachydactyla,,3.21,NA,NA,SeaAroundUs,Crustaceans
+JEL,77,Jellyfishes nei,Rhopilema spp,,3.46,NA,NA,SeaAroundUs,"Aquatic animals, other"
+JFE,38,Clearnose skate,Rostroraja eglanteria,,3.9,NA,NA,SeaAroundUs,Demersal fish
+JFL,37,Japanese flyingfish,Cypselurus agoo,,3.4,0.45,35,FishBase_ISSCAAP,Pelagic fish
+JGU,34,Spotted gurnard,Pterygotrigla picta,,3.68,0.52,34.4,FishBase_ISSCAAP,Demersal fish
+JJM,37,Japanese jack mackerel,Trachurus japonicus,,3.4,0.45,41,FishBase_ISSCAAP,Pelagic fish
+JKX,37,Halfbeaks nei,Hemiramphidae,,2.82,NA,NA,SeaAroundUs,Pelagic fish
+JOD,34,John dory,Zeus faber,,4.5,0.8,79.36,FishBase_ISSCAAP,Demersal fish
+JOS,34,Silvery John dory,Zenopsis conchifer,,4.5,0.8,68.79,FishBase_ISSCAAP,Demersal fish
+JPV,33,White snook,Centropomus viridis,,4.23,NA,NA,SeaAroundUs,Demersal fish
+JRI,38,Big skate,Beringraja binoculata,,3.92,NA,NA,SeaAroundUs,Demersal fish
+JRS,38,Mediterranean starry ray,Raja asterias,星斑鳐,3.5,0.37,57.4,FishBase_ISSCAAP,Demersal fish
+JRY,38,Eyespot skate,Atlantoraja cyclophora,,3.5,0.5,60.68,FishBase_ISSCAAP,Demersal fish
+JSC,55,Yesso scallop,Mizuhopecten yessoensis,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+JSN,43,Southern rock lobster,Jasus novaehollandiae,,2,NA,NA,SeaAroundUs,Crustaceans
+JSP,43,St.Paul rock lobster,Jasus paulensis,圣保罗岩龙虾,2,NA,NA,SeaAroundUs,Crustaceans
+JSS,35,Japanese sardinella,Sardinella zunasi,日本小沙丁鱼,3.12,0.24,14.26,FishBase_ISSCAAP,Pelagic fish
+JTX,52,Conch shells nei,Strombidae,,2.5,NA,NA,Estimate(SeaAroundUs),"Molluscs, other"
+KAF,31,Kamchatka flounder,Atheresthes evermanni,,4.45,0.79,100,FishBase_ISSCAAP,Demersal fish
+KAH,33,Javelin grunter,Pomadasys kaakan,星鸡鱼,3.46,0.51,67.03,FishBase_ISSCAAP,Demersal fish
+KAQ,44,Golden king crab,Lithodes aequispina,等刺石蟹,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+KAW,36,Kawakawa,Euthynnus affinis,,4.5,0.79,92.8,FishBase_ISSCAAP,Pelagic fish
+KBR,33,King soldier bream,Argyrops spinifer,,4.47,0.79,56.29,FishBase_ISSCAAP,Demersal fish
+KCD,44,Red king crab,Paralithodes camtschaticus,堪察加拟石蟹,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+KCI,44,Blue king crab,Paralithodes platypus,扁足拟石蟹,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+KCL,56,Basket cockle,Clinocardium nuttallii,,2.05,NA,NA,SeaAroundUs,"Molluscs, other"
+KCP,34,Kingklip,Genypterus capensis,,4.44,0.61,147.6,FishBase_ISSCAAP,Demersal fish
+KCR,44,Southern king crab,Lithodes santolla,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+KCS,44,King crabs,Paralithodes spp,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+KCV,44,Antarctic stone crab,Paralomis spinosissima,南极拟结节蟹,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+KCX,44,"King crabs, stone crabs nei",Lithodidae,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+KCY,44,Brown king crab,Paralithodes brevipes,短足拟石蟹,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+KEF,42,Deep-sea red crab,Chaceon affinis,深海红蟹,3.1,NA,NA,SeaAroundUs,Crustaceans
+KFA,56,Chamber venus,Venus casina,囊状帘蛤,2,NA,NA,SeaAroundUs,"Molluscs, other"
+KGF,33,Northern kingfish,Menticirrhus saxatilis,,3.58,0.53,39.29,FishBase_ISSCAAP,Demersal fish
+KGG,33,Gulf kingcroaker,Menticirrhus littoralis,,3.92,0.69,42.58,FishBase_ISSCAAP,Demersal fish
+KGM,36,King mackerel,Scomberomorus cavalla,,4.5,0.8,150.88,FishBase_ISSCAAP,Pelagic fish
+KGX,36,Seerfishes nei,Scomberomorus spp,,4.32,0.07,128,FishBase_ISSCAAP,Pelagic fish
+KHG,76,,Cucumaria frondosa,,2,NA,NA,SeaAroundUs,"Aquatic animals, other"
+KHL,38,Longtail stingray,Hypanus longus,,3.5,NA,NA,FishBase,Demersal fish
+KHV,52,Common cerithe,Cerithium vulgatum,欧洲蟹守螺,2,NA,NA,Estimate(SeaAroundUs),"Molluscs, other"
+KIC,33,White croaker,Genyonemus lineatus,,3.43,0.49,34.36,FishBase_ISSCAAP,Demersal fish
+KIF,34,Ocellated icefish,Chionodraco rastrospinosus,,3.85,0.62,42.64,FishBase_ISSCAAP,Demersal fish
+KIX,33,Kingcroakers nei,Menticirrhus spp,,3.5,0.08,42,FishBase_ISSCAAP,Demersal fish
+KLA,33,Korean sandlance,Hypoptychus dybowskii,,3.31,0.36,8.2,FishBase_ISSCAAP,Demersal fish
+KLK,56,Smooth callista,Callista chione,光滑仙女蛤,2,NA,NA,SeaAroundUs,"Molluscs, other"
+KNA,13,Great snakehead,Channa marulius,巨鳢,4.5,0.8,150.06,FishBase_ISSCAAP,Freshwater fish
+KNJ,56,Oriental cyclina,Cyclina sinensis,青蛤,2.02,NA,NA,SeaAroundUs,"Molluscs, other"
+KNS,45,Knife shrimp,Haliporoides triarthrus,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+KNU,56,Stutchbury's venus,Chione stutchburyi,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+KOB,33,Southern meagre(=Mulloway),Argyrosomus hololepidotus,腋斑白姑鱼,3.82,0.53,170,FishBase_ISSCAAP,Demersal fish
+KPM,42,Clown crab,Carpilius maculatus,,3.44,NA,NA,SeaAroundUs,Crustaceans
+KRI,46,Antarctic krill,Euphausia superba,南极大磷虾,2.2,0.4,NA,FishBase_ISSCAAP,Crustaceans
+KRW,13,,Chirostoma spp,,3.12,0.03,NA,FishBase_ISSCAAP,Freshwater fish
+KSI,33,Damsel bass,Hemanthias signifer,,3.7,NA,NA,Estimate(FishBase),Demersal fish
+KTT,56,Tuberculate cockle,Acanthocardia tuberculata,结瘤鸟尾蛤,2.5,NA,NA,SeaAroundUs,"Molluscs, other"
+KUG,34,Bluefin gurnard,Chelidonichthys kumu,,3.68,0.57,48.75,FishBase_ISSCAAP,Demersal fish
+KUP,45,Kuruma prawn,Penaeus japonicus,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+KUR,11,Pond loach,Misgurnus anguillicaudatus,泥鳅,3.24,0.4,28,FishBase_ISSCAAP,Freshwater fish
+KYX,33,Sea chubs nei,Kyphosidae,,2.72,0.13,NA,FishBase_ISSCAAP,Demersal fish
+LAA,45,Argentine red shrimp,Pleoticus muelleri,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+LAD,33,Ladyfish,Elops saurus,,3.95,0.69,87,FishBase_ISSCAAP,Demersal fish
+LAG,37,Opah,Lampris guttatus,,4.22,0.62,159.6,FishBase_ISSCAAP,Pelagic fish
+LAN,34,Hector's lanternfish,Lampanyctodes hectoris,大口拟珍灯鱼,3.17,0.41,7,FishBase_ISSCAAP,Demersal fish
+LAR,25,River lamprey,Lampetra fluviatilis,,4.5,0.8,41,FishBase_ISSCAAP,Demersal fish
+LAS,25,Lampreys nei,Petromyzontidae,,4.02,0.32,68,FishBase_ISSCAAP,Demersal fish
+LAT,23,Lake trout(=Char),Salvelinus namaycush,湖红点鲑,4.29,0.71,134.01,FishBase_ISSCAAP,Freshwater fish
+LAU,25,Sea lamprey,Petromyzon marinus,,4.37,0.85,117.6,FishBase_ISSCAAP,Demersal fish
+LAX,34,Patchwork lampfishes,Notoscopelus spp,,3.15,NA,NA,SeaAroundUs,Demersal fish
+LBA,43,American lobster,Homarus americanus,,3.4,0.39,NA,FishBase_ISSCAAP,Crustaceans
+LBB,11,,Labeo bata,,2.09,NA,NA,FishBase,Freshwater fish
+LBC,43,Cape rock lobster,Jasus lalandii,,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+LBE,43,European lobster,Homarus gammarus,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+LBI,11,Kuria labeo,Labeo gonius,,2.09,NA,NA,FishBase,Freshwater fish
+LBM,11,,Labeo dussumieri,,2,0,41,FishBase_ISSCAAP,Freshwater fish
+LBR,33,Largeeye breams,Gymnocranius spp,,3.35,0.04,37,FishBase_ISSCAAP,Demersal fish
+LBT,43,Tristan da Cunha rock lobster,Jasus tristani,,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+LBW,33,Snubnose emperor,Lethrinus borbonicus,,3.47,0.408,32.8,FishBase_ISSCAAP,Demersal fish
+LCB,11,Orangefin labeo,Labeo calbasu,蓝野鲮,2.02,0.06,73.8,FishBase_ISSCAAP,Freshwater fish
+LCC,13,,Loricaria cataphracta,,2.23,0.2,29.5,FishBase_ISSCAAP,Freshwater fish
+LCS,35,Pacific piquitinga,Lile stolifera,太平洋侧带鲱,3.49,0.43,13,FishBase_ISSCAAP,Pelagic fish
+LCX,33,Hogfish,Lachnolaimus maximus,,3.93,0.39,74.62,FishBase_ISSCAAP,Demersal fish
+LDB,31,Four-spot megrim,Lepidorhombus boscii,,3.69,0.61,40,FishBase_ISSCAAP,Demersal fish
+LDE,32,Thorntooth grenadier,Lepidorhynchus denticulatus,,4.1,0.53,45.1,FishBase_ISSCAAP,Demersal fish
+LDP,33,Orange perch,Lepidoperca pulchella,,3.59,0.47,22.96,FishBase_ISSCAAP,Demersal fish
+LDV,34,Large-scaled gurnard,Lepidotrigla cavillone,,3.33,NA,NA,SeaAroundUs,Demersal fish
+LEC,34,Escolar,Lepidocybium flavobrunneum,,4.34,0.67,200,FishBase_ISSCAAP,Demersal fish
+LEE,37,Leerfish,Lichia amia,,4.5,0.8,143.8,FishBase_ISSCAAP,Pelagic fish
+LEF,31,Lefteye flounders nei,Bothidae,,3.61,0.05,20,FishBase_ISSCAAP,Demersal fish
+LEM,31,Lemon sole,Microstomus kitt,,3.25,0.44,52,FishBase_ISSCAAP,Demersal fish
+LEN,33,Smalltooth emperor,Lethrinus microdon,,3.79,0.53,65.08,FishBase_ISSCAAP,Demersal fish
+LEZ,31,Megrims nei,Lepidorhombus spp,,3.96,0.28,49,FishBase_ISSCAAP,Demersal fish
+LFL,33,Smooth puffer,Lagocephalus laevigatus,,4.02,NA,NA,SeaAroundUs,Demersal fish
+LGN,13,Pacora,Plagioscion surinamensis,,4.5,NA,NA,SeaAroundUs,Freshwater fish
+LGO,33,Pinfish,Lagodon rhomboides,,4.4,NA,NA,SeaAroundUs,Demersal fish
+LGQ,13,South American silver croaker,Plagioscion squamosissimus,,4.35,0.77,68.67,FishBase_ISSCAAP,Freshwater fish
+LGT,13,Black curbinata,Plagioscion auratus,,3.54,NA,NA,FishBase,Freshwater fish
+LHI,33,Trumpet emperor,Lethrinus miniatus,,3.47,0.46,74.16,FishBase_ISSCAAP,Demersal fish
+LHN,33,Spangled emperor,Lethrinus nebulosus,星斑裸颊鲷,3.32,0.44,71.34,FishBase_ISSCAAP,Demersal fish
+LHO,33,Longface emperor,Lethrinus olivaceus,,3.95,NA,NA,SeaAroundUs,Demersal fish
+LHT,34,Largehead hairtail,Trichiurus lepturus,带鱼,4.45,0.77,191.88,FishBase_ISSCAAP,Demersal fish
+LIB,33,Brushtooth lizardfish,Saurida undosquamis,,4.48,0.78,50,FishBase_ISSCAAP,Demersal fish
+LIC,34,Unicorn icefish,Channichthys rhinoceratus,,3.25,0.54,46.62,FishBase_ISSCAAP,Demersal fish
+LIG,33,Greater lizardfish,Saurida tumbil,,4.4,0.75,57.36,FishBase_ISSCAAP,Demersal fish
+LIJ,37,African pompano,Alectis ciliaris,,3.95,NA,NA,SeaAroundUs,Pelagic fish
+LIN,32,Ling,Molva molva,,4.25,0.69,185,FishBase_ISSCAAP,Demersal fish
+LIO,42,Velvet swimcrab,Necora puber,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+LIX,33,Lizardfishes nei,Synodontidae,,4.35,0.05,46,FishBase_ISSCAAP,Demersal fish
+LJA,33,African red snapper,Lutjanus agennes,非洲红笛鲷,4.01,NA,NA,SeaAroundUs,Demersal fish
+LJB,33,Two-spot red snapper,Lutjanus bohar,白斑笛鲷,4.11,0.7,75.66,FishBase_ISSCAAP,Demersal fish
+LJC,33,Colorado snapper,Lutjanus colorado,柯洲笛鲷,3.06,NA,NA,SeaAroundUs,Demersal fish
+LJF,33,Dory snapper,Lutjanus fulviflamma,,3.79,NA,NA,SeaAroundUs,Demersal fish
+LJG,33,Humpback red snapper,Lutjanus gibbus,驼背笛鲷,3.62,0.57,39.73,FishBase_ISSCAAP,Demersal fish
+LJH,33,John's snapper,Lutjanus johnii,约氏笛鲷,4.18,0.73,79.54,FishBase_ISSCAAP,Demersal fish
+LJI,33,Grey snapper,Lutjanus griseus,灰笛鲷,4.25,0.75,72.15,FishBase_ISSCAAP,Demersal fish
+LJN,33,Mutton snapper,Lutjanus analis,,3.86,0.64,77.08,FishBase_ISSCAAP,Demersal fish
+LJO,33,Gorean snapper,Lutjanus goreensis,高里笛鲷,3.97,NA,NA,FishBase,Demersal fish
+LJS,33,Spotted rose snapper,Lutjanus guttatus,墨西哥笛鲷,3.94,0.65,65.6,FishBase_ISSCAAP,Demersal fish
+LJT,33,Crimson snapper,Lutjanus erythropterus,红鳍笛鲷,4.5,NA,NA,SeaAroundUs,Demersal fish
+LJY,33,Cubera snapper,Lutjanus cyanopterus,,4.22,0.73,131.2,FishBase_ISSCAAP,Demersal fish
+LKR,33,Tigertooth croaker,Otolithes ruber,,3.6,0.59,78.3,FishBase_ISSCAAP,Demersal fish
+LKW,45,Striped soldier shrimp,Plesionika edwardsii,,3.53,NA,NA,SeaAroundUs,Crustaceans
+LKX,13,,Atractosteus spp,,4.26,0.15,NA,FishBase_ISSCAAP,Freshwater fish
+LLS,13,Alligator gar,Atractosteus spatula,,4.02,NA,NA,SeaAroundUs,Freshwater fish
+LLZ,13,Chinese longsnout catfish,Leiocassis longirostris,长吻鮠,3.36,0.49,17.3,FishBase_ISSCAAP,Freshwater fish
+LMA,38,Longfin mako,Isurus paucus,,4.5,0.77,341.94,FishBase_ISSCAAP,Pelagic fish
+LMG,32,Longfin codling,Laemonema longipes,,3.61,0.37,59.04,FishBase_ISSCAAP,Demersal fish
+LMM,13,Bluegill,Lepomis macrochirus,,3.18,0.39,33.62,FishBase_ISSCAAP,Freshwater fish
+LNO,37,Mexican moonfish,Selene orstedii,,3.34,NA,NA,SeaAroundUs,Pelagic fish
+LNP,37,Peruvian moonfish,Selene peruviana,太平洋月鲹,4.25,0.69,32.8,FishBase_ISSCAAP,Pelagic fish
+LNR,12,,Limnotilapia dardennii,,3.14,0.53,21.32,FishBase_ISSCAAP,Freshwater fish
+LNZ,32,Lings nei,Molva spp,,4.36,0.12,146,FishBase_ISSCAAP,Demersal fish
+LOA,43,Australian spiny lobster,Panulirus cygnus,,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+LOB,34,Tripletail,Lobotes surinamensis,松鲷,4.04,0.71,90.2,FishBase_ISSCAAP,Demersal fish
+LOF,43,Juan Fernandez rock lobster,Jasus frontalis,,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+LOG,43,Green rock lobster,Jasus verreauxi,,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+LOJ,43,Longlegged spiny lobster,Panulirus longipes,,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+LOK,43,Scalloped spiny lobster,Panulirus homarus,,3.2,0.03,NA,FishBase_ISSCAAP,Crustaceans
+LOL,11,,Labeo niloticus,,2.53,NA,NA,FishBase,Freshwater fish
+LOQ,44,"Craylets, squat lobsters nei",Galatheidae,铠甲虾科,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+LOR,43,Red rock lobster,Jasus edwardsii,,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+LOS,43,Slipper lobsters nei,Scyllaridae,,2.8,0.65,NA,FishBase_ISSCAAP,Crustaceans
+LOT,36,Longtail tuna,Thunnus tonggol,,4.5,0.77,137.59,FishBase_ISSCAAP,Pelagic fish
+LOX,43,Lobsters nei,Reptantia,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+LOZ,34,Pacific tripletail,Lobotes pacificus,,3.67,0.55,82,FishBase_ISSCAAP,Demersal fish
+LPB,13,,Megaleporinus obtusidens,鈍齿巨兔脂鲤,2,0.16,62.32,FishBase_ISSCAAP,Freshwater fish
+LPI,13,Pati,Luciopimelodus pati,,4.31,0.75,84.46,FishBase_ISSCAAP,Freshwater fish
+LPU,13,,Leporellus vittatus,,2.25,0.14,24.5,FishBase_ISSCAAP,Freshwater fish
+LQL,44,Pelagic red crab,Pleuroncodes planipes,浮游侧甲球蟹,2.85,NA,NA,SeaAroundUs,Crustaceans
+LRH,11,Roho labeo,Labeo rohita,南亚野鲮,2.01,0.05,169.4,FishBase_ISSCAAP,Freshwater fish
+LRJ,33,Shorthead drum,Larimus breviceps,,3.08,0.48,25.42,FishBase_ISSCAAP,Demersal fish
+LRN,13,Blunt-toothed African catfish,Clarias ngamensis,钝齿胡鲶,4.3,NA,NA,FishBase,Freshwater fish
+LRO,37,Oxeye scad,Selar boops,牛眼凹肩鲹,3.5,NA,NA,SeaAroundUs,Pelagic fish
+LRR,33,Silver drum,Larimus argenteus,,3.1,NA,NA,FishBase,Demersal fish
+LRV,33,Steeplined drum,Larimus acclivis,,3.1,NA,NA,SeaAroundUs,Demersal fish
+LSI,33,Pacific drum,Larimus pacificus,,4.46,NA,NA,SeaAroundUs,Demersal fish
+LSJ,37,Shrimp scad,Alepes djedaba,及达副叶鲹,3.32,0.469,34.55,FishBase_ISSCAAP,Pelagic fish
+LSL,13,Forktail lates,Lates microlepis,,4.35,0.77,76.26,FishBase_ISSCAAP,Freshwater fish
+LSX,13,,Lophiosilurus alexandri,,3.95,0.59,59.04,FishBase_ISSCAAP,Freshwater fish
+LTA,36,Little tunny(=Atl.black skipj),Euthynnus alletteratus,小鮪,4.49,0.8,100.04,FishBase_ISSCAAP,Pelagic fish
+LTJ,33,Silk snapper,Lutjanus vivanus,,3.09,0.52,68.06,FishBase_ISSCAAP,Demersal fish
+LTK,33,Thumbprint emperor,Lethrinus harak,,3.56,0.6,41.35,FishBase_ISSCAAP,Demersal fish
+LTM,13,Lake Tanganyika sardine,Limnothrissa miodon,,3.03,0.15,17,FishBase_ISSCAAP,Freshwater fish
+LTN,33,Atlantic emperor,Lethrinus atlanticus,大西洋裸颊鲷,3.54,0.46,41,FishBase_ISSCAAP,Demersal fish
+LTQ,33,Sky emperor,Lethrinus mahsena,,3.43,0.417,55.96,FishBase_ISSCAAP,Demersal fish
+LTS,33,Pink ear emperor,Lethrinus lentjan,,4.21,0.56,40.82,FishBase_ISSCAAP,Demersal fish
+LUB,33,Emperor red snapper,Lutjanus sebae,川纹笛鲷,3.86,NA,NA,SeaAroundUs,Demersal fish
+LUH,11,Chub,Squalius cephalus,,3.03,0.46,49.2,FishBase_ISSCAAP,Freshwater fish
+LUJ,33,Brownstripe red snapper,Lutjanus vitta,画眉笛鲷,4.1,0.7,32.45,FishBase_ISSCAAP,Demersal fish
+LUK,37,African moonfish,Selene dorsalis,,4.08,0.69,26.87,FishBase_ISSCAAP,Pelagic fish
+LUM,34,Lumpfish(=Lumpsucker),Cyclopterus lumpus,圆鳍鱼,3.89,0.09,9.35,FishBase_ISSCAAP,Demersal fish
+LVK,33,Common bluestripe snapper,Lutjanus kasmira,,3.6,0.58,33.63,FishBase_ISSCAAP,Demersal fish
+LVN,33,Golden African snapper,Lutjanus fulgens,,4,NA,NA,SeaAroundUs,Demersal fish
+LWO,33,Orange-striped emperor,Lethrinus obsoletus,,3.39,0.41,49.2,FishBase_ISSCAAP,Demersal fish
+LWP,33,Pacific red snapper,Lutjanus peru,,4.02,0.62,77.9,FishBase_ISSCAAP,Demersal fish
+LWQ,33,Five-lined snapper,Lutjanus quinquelineatus,,3.57,0.56,31.16,FishBase_ISSCAAP,Demersal fish
+LWX,33,Jobfishes nei,Pristipomoides spp,,3.84,0.08,NA,FishBase_ISSCAAP,Demersal fish
+LXM,33,,Larimus spp,,3.52,NA,NA,FishBase,Demersal fish
+LXN,33,Yellowlip emperor,Lethrinus xanthochilus,,3.67,0.59,64.47,FishBase_ISSCAAP,Demersal fish
+LXS,13,Gars nei,Lepisosteidae,,4.08,0.1,NA,FishBase_ISSCAAP,Freshwater fish
+LXX,34,Lanternfishes nei,Myctophidae,,3.2,0.02,11,FishBase_ISSCAAP,Demersal fish
+LXZ,13,,Leporinus spp,,2.3,NA,NA,Estimate(FishBase),Freshwater fish
+LYC,33,Large yellow croaker,Larimichthys croceus,大黄鱼,3.72,0.56,65.6,FishBase_ISSCAAP,Demersal fish
+LZF,11,Signal barb,Labiobarbus festivus,,2.34,0.17,19.68,FishBase_ISSCAAP,Freshwater fish
+LZH,33,Abu mullet,Liza abu,,3.16,NA,NA,FishBase,Demersal fish
+LZI,33,Greenback mullet,Planiliza subviridis,,2.74,NA,NA,SeaAroundUs,Demersal fish
+LZK,33,Klunzinger's mullet,Liza klunzingeri,,2.56,0.19,16.4,FishBase_ISSCAAP,Demersal fish
+LZS,33,Leaping mullet,Liza saliens,,3.04,0.16,40,FishBase_ISSCAAP,Demersal fish
+LZV,33,Squaretail mullet,Liza vaigiensis,截尾鮻,2.29,0.27,53.27,FishBase_ISSCAAP,Demersal fish
+LZX,33,,Lethrinus spp,,3.75,NA,NA,SeaAroundUs,Demersal fish
+LZZ,33,,Liza spp,,2.57,NA,NA,SeaAroundUs,Demersal fish
+MAA,37,Blue mackerel,Scomber australasicus,,4.2,0.74,39.91,FishBase_ISSCAAP,Pelagic fish
+MAC,37,Atlantic mackerel,Scomber scombrus,,3.65,0.56,56.4,FishBase_ISSCAAP,Pelagic fish
+MAE,38,Spotted eagle ray,Aetobatus narinari,,4.17,NA,NA,SeaAroundUs,Pelagic fish
+MAK,38,Mako sharks,Isurus spp,鲭鲨属未定种,4.5,0,334.97,FishBase_ISSCAAP,Pelagic fish
+MAL,33,Malabar blood snapper,Lutjanus malabaricus,马拉巴笛鲷,4.46,0.79,82,FishBase_ISSCAAP,Demersal fish
+MAN,38,"Mantas, devil rays nei",Mobulidae,,3.54,0.03,178,FishBase_ISSCAAP,Pelagic fish
+MAR,33,Malabar grouper,Epinephelus malabaricus,玛拉巴石斑鱼,3.75,0.65,196.88,FishBase_ISSCAAP,Demersal fish
+MAS,37,Pacific chub mackerel,Scomber japonicus,,3.09,0.43,56.52,FishBase_ISSCAAP,Pelagic fish
+MAT,56,Mactra surf clams nei,Mactridae,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+MAV,34,Silvery lightfish,Maurolicus muelleri,,3.01,0.07,5.94,FishBase_ISSCAAP,Demersal fish
+MAW,36,West African Spanish mackerel,Scomberomorus tritor,,4.26,0.74,82,FishBase_ISSCAAP,Pelagic fish
+MAX,37,Mackerels nei,Scombridae,,4.2,0.06,115,FishBase_ISSCAAP,Pelagic fish
+MAZ,37,Scomber mackerels nei,Scomber spp,,3.65,0.32,52,FishBase_ISSCAAP,Pelagic fish
+MBG,33,Bald glassy,Ambassis gymnocephalus,,3.91,NA,NA,FishBase,Demersal fish
+MBM,41,Monsoon river prawn,Macrobrachium malcolmsonii,间歇水沼虾,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+MBZ,47,Giant barnacle,Austromegabalanus psittacus,鹦鹉巨藤壶,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+MCC,32,Ridge scaled rattail,Macrourus carinatus,,3.75,0.64,82,FishBase_ISSCAAP,Demersal fish
+MCD,34,Madeira lantern fish,Ceratoscopelus maderensis,马德拉角灯鱼,3.27,NA,NA,SeaAroundUs,Demersal fish
+MCL,56,Half-crenated ark,Scapharca subcrenata,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+MCO,11,Long pectoral-fin minnow,Macrochirichthys macrochirus,,3.7,0.568,82,FishBase_ISSCAAP,Freshwater fish
+MCP,13,Murray cod,Maccullochella peelii,虫纹鳕鲈,4.15,0.62,180,FishBase_ISSCAAP,Freshwater fish
+MDI,13,Flatwhiskered catfish,Pinirampus pirinampu,,4.5,NA,NA,FishBase,Freshwater fish
+MDM,13,,Pimelodus maculatus,斑油鲶,2.87,0.35,41.82,FishBase_ISSCAAP,Freshwater fish
+MEC,43,New Zealand lobster,Metanephrops challengeri,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+MEG,31,Megrim,Lepidorhombus whiffiagonis,,4.24,0.75,49.98,FishBase_ISSCAAP,Demersal fish
+MEO,33,Snakehead kingcroaker,Menticirrhus ophicephalus,,3.36,NA,NA,FishBase,Demersal fish
+MER,33,Silver grunter,Mesopristes argenteus,,4.02,NA,NA,FishBase,Demersal fish
+MES,35,Pacific menhaden,Ethmidium maculatum,,2.07,0.06,26,FishBase_ISSCAAP,Pelagic fish
+MET,45,Metapenaeus shrimps nei,Metapenaeus spp,,2.6,0.59,NA,FishBase_ISSCAAP,Crustaceans
+MEU,33,Highfin king croaker,Menticirrhus nasus,,3.41,NA,NA,FishBase,Demersal fish
+MFF,33,Flagfin mojarra,Eucinostomus melanopterus,,3.39,NA,NA,SeaAroundUs,Demersal fish
+MFX,77,Cannonball jellyfish,Stomolophus meleagris,,3.34,NA,NA,SeaAroundUs,"Aquatic animals, other"
+MGA,33,Golden grey mullet,Chelon auratus,,2.46,0.23,46.57,FishBase_ISSCAAP,Demersal fish
+MGC,33,Thinlip grey mullet,Chelon ramada,薄唇鮻,2.16,0.13,53.55,FishBase_ISSCAAP,Demersal fish
+MGI,33,Parassi mullet,Mugil incilis,,2.01,0.03,30.08,FishBase_ISSCAAP,Demersal fish
+MGR,33,Meagre,Argyrosomus regius,大西洋白姑鱼,4.29,0.75,191.53,FishBase_ISSCAAP,Demersal fish
+MGS,33,,Mugil spp,,2.26,NA,NA,SeaAroundUs,Demersal fish
+MGU,33,White mullet,Mugil curema,,2.01,0.04,71.12,FishBase_ISSCAAP,Demersal fish
+MHA,35,Atlantic menhaden,Brevoortia tyrannus,,2.25,0.19,40.15,FishBase_ISSCAAP,Pelagic fish
+MHG,35,Gulf menhaden,Brevoortia patronus,,2.19,0.07,35,FishBase_ISSCAAP,Pelagic fish
+MHJ,32,Slender codling,Halargyreus johnsonii,,3.38,NA,NA,SeaAroundUs,Demersal fish
+MHP,35,Argentine menhaden,Brevoortia pectinata,,3.4,0.45,35,FishBase_ISSCAAP,Pelagic fish
+MHS,35,Brazilian menhaden,Brevoortia aurea,,2.75,0.31,26,FishBase_ISSCAAP,Pelagic fish
+MIH,33,Mi-iuy (brown) croaker,Miichthys miiuy,,3.5,0.37,70,FishBase_ISSCAAP,Demersal fish
+MIL,25,Milkfish,Chanos chanos,虱目鱼(遮目鱼),2.03,0.06,180,FishBase_ISSCAAP,Pelagic fish
+MIP,31,Dover sole,Microstomus pacificus,,3.27,0.37,62.32,FishBase_ISSCAAP,Demersal fish
+MIT,33,Tallfin croaker,Micropogonias altipinnis,,3.67,NA,NA,SeaAroundUs,Demersal fish
+MJB,45,Whiskered velvet shrimp,Metapenaeopsis barbata,须赤虾,2.7,NA,NA,Estimate(SeaAroundUs),Crustaceans
+MKG,31,Thickback sole,Microchirus variegatus,,3.28,NA,NA,SeaAroundUs,Demersal fish
+MKH,33,Scamp,Mycteroperca phenax,,4.47,0.79,87.72,FishBase_ISSCAAP,Demersal fish
+MKM,33,Gag,Mycteroperca microlepis,小鳞喙鲈,3.65,0.6,118.9,FishBase_ISSCAAP,Demersal fish
+MKV,33,Yellowfin grouper,Mycteroperca venenosa,,4.49,0.79,88.31,FishBase_ISSCAAP,Demersal fish
+MLB,33,Goldsilk seabream,Acanthopagrus berda,灰鳍棘鲷,3.48,0.58,73.52,FishBase_ISSCAAP,Demersal fish
+MLD,13,Silver mylossoma,Mylossoma duriventre,,2.84,NA,NA,FishBase,Freshwater fish
+MLM,33,Blackhead seabream,Acanthopagrus schlegeli,黑鲷,3.24,0.45,50,FishBase_ISSCAAP,Demersal fish
+MLR,33,Thicklip grey mullet,Chelon labrosus,,2.59,0.32,75,FishBase_ISSCAAP,Demersal fish
+MLS,36,Striped marlin,Kajikia audax,,4.58,0.76,344.4,FishBase_ISSCAAP,Pelagic fish
+MMH,33,Mediterranean moray,Muraena helena,,4.18,0.61,123,FishBase_ISSCAAP,Demersal fish
+MNX,41,Oriental river prawn,Macrobrachium nipponense,日本沼虾,3.31,NA,NA,Estimate(SeaAroundUs),Crustaceans
+MNZ,34,Monkfishes nei,Lophius spp,,4.48,0.01,68,FishBase_ISSCAAP,Demersal fish
+MOA,37,Atlantic moonfish,Selene setapinnis,,3.72,0.52,49.2,FishBase_ISSCAAP,Pelagic fish
+MOB,33,Monocle breams,Scolopsis spp,,3.53,0.06,30,FishBase_ISSCAAP,Demersal fish
+MOD,54,Horse mussels nei,Modiolus spp,,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MOF,51,Freshwater molluscs nei,Mollusca,,2.2,0.23,NA,FishBase_ISSCAAP,"Molluscs, other"
+MOJ,33,Mojarras(=Silver-biddies) nei,Gerres spp,,3.3,0.05,27,FishBase_ISSCAAP,Demersal fish
+MOL,58,Marine molluscs nei,Mollusca,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+MON,34,Angler(=Monk),Lophius piscatorius,鮟鱇,4.45,0.76,200,FishBase_ISSCAAP,Demersal fish
+MOO,33,Moonfish,Mene maculata,,3.45,0.41,23.94,FishBase_ISSCAAP,Demersal fish
+MOP,37,Sunfish,Mola spp,,3.68,NA,NA,SeaAroundUs,Pelagic fish
+MOR,32,Moras nei,Moridae,,3.53,0.07,63,FishBase_ISSCAAP,Demersal fish
+MOW,34,Morwongs,Nemadactylus spp,,3.38,0.07,57,FishBase_ISSCAAP,Demersal fish
+MOX,37,Ocean sunfish,Mola mola,,4,0.28,279.68,FishBase_ISSCAAP,Pelagic fish
+MPE,45,Greasyback shrimp,Metapenaeus ensis,刀额新对虾,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+MPM,45,Eastern school shrimp,Metapenaeus macleayi,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+MPN,45,Speckled shrimp,Metapenaeus monoceros,独角新对虾,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+MPS,13,Largemouth black bass,Micropterus salmoides,大口黑鲈,3.84,0.62,84,FishBase_ISSCAAP,Freshwater fish
+MPV,33,Humpback grouper,Cromileptes altivelis,驼背鲈,4.5,0.8,51.67,FishBase_ISSCAAP,Demersal fish
+MQO,56,Large trough shell,Mactra murchisoni,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+MRB,38,Cownose ray,Rhinoptera bonasus,,3.5,0.59,81.18,FishBase_ISSCAAP,Pelagic fish
+MRG,32,Panama hake,Merluccius angustimanus,巴拿马无须鳕,4.01,0.72,32.8,FishBase_ISSCAAP,Demersal fish
+MRM,38,Lusitanian cownose ray,Rhinoptera marginata,,3.84,0.6,81.18,FishBase_ISSCAAP,Pelagic fish
+MRR,38,Ticon cownose ray,Rhinoptera brasiliensis,,3.6,NA,NA,SeaAroundUs,Demersal fish
+MSC,54,Cholga mussel,Aulacomya ater,,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MSD,37,Mackerel scad,Decapterus macarellus,,3.96,NA,NA,SeaAroundUs,Pelagic fish
+MSF,31,Mediterranean scaldfish,Arnoglossus laterna,,3.59,NA,NA,SeaAroundUs,Demersal fish
+MSK,38,"Mackerel sharks,porbeagles nei",Lamnidae,,4.51,0.01,375,FishBase_ISSCAAP,Pelagic fish
+MSL,54,South American rock mussel,Perna perna,,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MSM,54,Mediterranean mussel,Mytilus galloprovincialis,,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MSP,36,Mediterranean spearfish,Tetrapturus belone,,4.5,0.8,196.8,FishBase_ISSCAAP,Pelagic fish
+MSR,54,River Plata mussel,Mytilus platensis,,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MSV,54,Green mussel,Perna viridis,翡翠贻贝,2,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MSX,54,Sea mussels nei,Mytilidae,,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MTD,45,Western school shrimp,Metapenaeus dalli,戴氏新对虾,2.7,NA,NA,SeaAroundUs,Crustaceans
+MTJ,45,Jinga shrimp,Metapenaeus affinis,近缘新对虾,3.44,NA,NA,SeaAroundUs,Crustaceans
+MTL,38,Spotted estuary smooth-hound,Mustelus lenticulatus,斑点星鲨,3.51,0.45,123.82,FishBase_ISSCAAP,Demersal fish
+MTS,47,Spottail mantis squillid,Squilla mantis,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+MTV,56,Globose clam,Mactra veneriformis,四角蛤蜊,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+MUA,33,Bobo mullet,Joturus pichardi,,2.37,0.28,50.02,FishBase_ISSCAAP,Demersal fish
+MUB,33,Lebranche mullet,Mugil liza,,2,0,63.15,FishBase_ISSCAAP,Demersal fish
+MUC,11,Mud carp,Cirrhinus molitorella,鲮,2,0,45.1,FishBase_ISSCAAP,Freshwater fish
+MUD,42,Indo-Pacific swamp crab,Scylla serrata,,3.1,0.3,NA,FishBase_ISSCAAP,Crustaceans
+MUE,52,Murex,Murex spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+MUF,33,Flathead grey mullet,Mugil cephalus,鲻,2.13,0.18,100,FishBase_ISSCAAP,Demersal fish
+MUI,33,"Morays eels, etc. nei",Muraenidae,,3.97,0.05,50,FishBase_ISSCAAP,Demersal fish
+MUJ,54,Californian mussel,Mytilus californianus,加州贻贝,2,NA,NA,SeaAroundUs,"Molluscs, other"
+MUK,54,Korean mussel,Mytilus unguiculatus,厚壳贻贝,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MUL,33,Mullets nei,Mugilidae,,2.43,0.05,60,FishBase_ISSCAAP,Demersal fish
+MUM,33,"Goatfishes, red mullets nei",Mullidae,,3.48,0.05,33,FishBase_ISSCAAP,Demersal fish
+MUN,56,Taquilla clams,Mulinia spp,骡蛤属未定种,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+MUO,33,Leaping African mullet,Mugil capurrii,,2,NA,NA,SeaAroundUs,Demersal fish
+MUR,33,Surmullet,Mullus surmuletus,纵带羊鱼,3.42,0.51,40,FishBase_ISSCAAP,Demersal fish
+MUS,54,Blue mussel,Mytilus edulis,紫贻贝,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MUT,33,Red mullet,Mullus barbatus,,3.15,0.35,30,FishBase_ISSCAAP,Demersal fish
+MUV,33,Yellowstripe goatfish,Mulloidichthys flavolineatus,,3.27,0.39,35.26,FishBase_ISSCAAP,Demersal fish
+MUX,33,Surmullets(=Red mullets) nei,Mullus spp,,3.34,0.1,20,FishBase_ISSCAAP,Demersal fish
+MUZ,54,New Zealand mussel,Perna canaliculus,,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MVA,34,Shortspine African angler,Lophius vaillanti,短鳍鮟鱇,4.5,0.8,41,FishBase_ISSCAAP,Demersal fish
+MVG,76,Slitted sand dollar,Mellita longifissa,长裂蜜饼海胆,3,NA,NA,Estimate,"Aquatic animals, other"
+MVJ,34,Blackfin goosefish,Lophius gastrophysus,,4.5,0.61,49.2,FishBase_ISSCAAP,Demersal fish
+MVO,34,Devil anglerfish,Lophius vomerinus,犁齿鮟鱇,4.46,0.7,82,FishBase_ISSCAAP,Demersal fish
+MWC,33,Broadgilled hagfish,Eptatretus cirrhatus,,5,NA,NA,SeaAroundUs,Demersal fish
+MWF,43,Metanephrops lobsters nei,Metanephrops spp,,3.93,NA,NA,SeaAroundUs,Crustaceans
+MWU,33,Argentine goatfish,Mullus argentinae,银羊鱼,3.45,0.41,24.6,FishBase_ISSCAAP,Demersal fish
+MWY,13,Fire eel,Mastacembelus erythrotaenia,红纹刺鳅,2.74,0.27,82,FishBase_ISSCAAP,Freshwater fish
+MXG,33,Humpnose big-eye bream,Monotaxis grandoculis,,3.19,0.35,50,FishBase_ISSCAAP,Demersal fish
+MXT,42,Harbour spidercrab,Mithrax armatus,刺宝石蟹,2.5,NA,NA,SeaAroundUs,Crustaceans
+MXV,33,Shorthorn sculpin,Myoxocephalus scorpius,,3.89,NA,NA,SeaAroundUs,Demersal fish
+MXW,13,,Pimelodus spp,,3.5,NA,NA,Estimate(FishBase),Freshwater fish
+MYA,54,Australian mussel,Mytilus planulatus,,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MYC,54,Chilean mussel,Mytilus chilensis,,2.1,0.22,NA,FishBase_ISSCAAP,"Molluscs, other"
+MYN,13,Asian redtail catfish,Hemibagrus nemurus,线尾鳠,3.62,0.59,65,FishBase_ISSCAAP,Freshwater fish
+MYU,33,Pacific hagfish,Eptatretus stoutii,,4.24,NA,NA,SeaAroundUs,Demersal fish
+MYX,33,Hagfishes nei,Myxinidae,,4.02,0.24,40.465,FishBase_ISSCAAP,Demersal fish
+MYZ,33,So-iuy mullet,Mugil soiuy,鮻的异名,2.49,0.19,71.21,FishBase_ISSCAAP,Demersal fish
+MZP,11,,Mystacoleucus padangensis,,2.93,0.34,9.51,FishBase_ISSCAAP,Freshwater fish
+MZU,13,Bottlenose fishes nei,Mormyrus spp,,3.69,NA,NA,FishBase,Freshwater fish
+MZZ,39,Marine fishes nei,Actinopterygii,,3.79,NA,52,SeaAroundUs,"Marine fish, other"
+NAB,33,Spotted unicornfish,Naso brevirostris,,2.7,NA,NA,SeaAroundUs,Demersal fish
+NAS,33,Bluespine unicornfish,Naso unicornis,,2.17,0.11,62.23,FishBase_ISSCAAP,Demersal fish
+NAU,37,Pilotfish,Naucrates ductor,,3.98,0.63,57.4,FishBase_ISSCAAP,Pelagic fish
+NBO,33,Pacific smalleye croaker,Nebris occidentalis,,3.7,NA,NA,Estimate(FishBase),Demersal fish
+NBR,37,Yellow jack,Carangoides bartholomaei,,4.48,NA,NA,FishBase,Pelagic fish
+NBU,13,Round goby,Neogobius melanostomus,,3.3,NA,NA,SeaAroundUs,Freshwater fish
+NBX,52,,Nassarius spp,,3.33,NA,NA,SeaAroundUs,"Molluscs, other"
+NCC,13,Clown knifefish,Chitala chitala,,3.73,0.59,122,FishBase_ISSCAAP,Freshwater fish
+NCG,13,Giant featherback,Chitala lopis,,4.5,0.8,150,FishBase_ISSCAAP,Freshwater fish
+NCL,56,Short neck clams nei,Paphia spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+NDZ,56,Blood ark,Anadara ovalis,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+NEB,33,New Zealand blue cod,Parapercis colias,,3.87,0.67,38.12,FishBase_ISSCAAP,Demersal fish
+NEC,32,Red codling,Pseudophycis bachus,,4.5,0.8,84.96,FishBase_ISSCAAP,Demersal fish
+NED,37,Needlefishes nei,Tylosurus spp,,4.44,0.03,124,FishBase_ISSCAAP,Pelagic fish
+NEM,43,Mozambique lobster,Metanephrops mozambicus,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+NEP,43,Norway lobster,Nephrops norvegicus,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+NGH,37,Longnose trevally,Carangoides chrysophrys,,4.3,NA,NA,SeaAroundUs,Pelagic fish
+NGJ,37,Orangespotted trevally,Carangoides bajad,,4.5,0.8,45.1,FishBase_ISSCAAP,Pelagic fish
+NGR,37,Longfin trevally,Carangoides armatus,,4.33,NA,NA,SeaAroundUs,Pelagic fish
+NGS,37,Malabar trevally,Carangoides malabaricus,,4.36,0.53,49.74,FishBase_ISSCAAP,Pelagic fish
+NGU,37,Yellowspotted trevally,Carangoides fulvoguttatus,,4.39,0.78,109.22,FishBase_ISSCAAP,Pelagic fish
+NHA,32,North Pacific hake,Merluccius productus,,4.35,0.77,81.72,FishBase_ISSCAAP,Demersal fish
+NHK,33,Donkey croaker,Pennahia anea,灰鳍彭纳石首鱼,3.99,0.69,30,FishBase_ISSCAAP,Demersal fish
+NHR,33,Largescale triggerfish,Canthidermis macrolepis,,3.45,NA,NA,FishBase,Demersal fish
+NIP,13,Nile perch,Lates niloticus,尼罗鲈,4.48,0.8,170.2,FishBase_ISSCAAP,Freshwater fish
+NIX,52,,Nerita spp,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+NKR,46,Norwegian krill,Meganyctiphanes norvegica,,4,0.28,NA,FishBase_ISSCAAP,Crustaceans
+NLC,45,Whitebelly prawn,Nematopalaemon schmitti,,2.2,NA,NA,SeaAroundUs,Crustaceans
+NLH,45,West African estuarine prawn,Nematopalaemon hastatus,河口线足虾,3.14,NA,NA,SeaAroundUs,Crustaceans
+NMU,45,Northern velvet shrimp,Metapenaeopsis novaeguineae,北方赤虾,2.7,NA,NA,Estimate(SeaAroundUs),Crustaceans
+NNJ,33,Japanese threadfin bream,Nemipterus japonicus,日本金线鱼,3.77,0.512,25.14,FishBase_ISSCAAP,Demersal fish
+NNZ,33,Randall's threadfin bream,Nemipterus randalli,,3.66,0.55,13.1,FishBase_ISSCAAP,Demersal fish
+NOG,33,Humped rockcod,Gobionotothen gibberifrons,,3.15,0.37,49,FishBase_ISSCAAP,Demersal fish
+NOP,32,Norway pout,Trisopterus esmarkii,,3.24,0.41,28.45,FishBase_ISSCAAP,Demersal fish
+NOR,33,Marbled rockcod,Notothenia rossii,,3.61,0.55,81.62,FishBase_ISSCAAP,Demersal fish
+NOS,33,Striped-eyed rockcod,Lepidonotothen squamifrons,,3.09,0.22,45.1,FishBase_ISSCAAP,Demersal fish
+NOT,34,Patagonian rockcod,Patagonotothen brevicauda,,3.86,0.62,18.86,FishBase_ISSCAAP,Demersal fish
+NOX,33,"Antarctic rockcods, noties nei",Nototheniidae,,3.44,0.06,51,FishBase_ISSCAAP,Demersal fish
+NPA,35,Californian anchovy,Engraulis mordax,,2.96,0.3,24.8,FishBase_ISSCAAP,Pelagic fish
+NPH,36,Japanese Spanish mackerel,Scomberomorus niphonius,,4.5,0.8,94.8,FishBase_ISSCAAP,Pelagic fish
+NPP,45,Parapenaeopsis shrimps nei,Parapenaeopsis spp,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+NQT,56,Black ark,Anadara tuberculosa,黑粗饰蚶,2,NA,NA,SeaAroundUs,"Molluscs, other"
+NRC,33,Mote sculpin,Normanichthys crockeri,诺蔓氏鱼,2.75,0.18,9.02,FishBase_ISSCAAP,Demersal fish
+NSQ,52,Changeable nassa,Tritia mutabilis,多变织纹螺,3.33,NA,NA,SeaAroundUs,"Molluscs, other"
+NUG,43,Green spiny lobster,Panulirus gracilis,细龙虾,2.6,NA,NA,Estimate(SeaAroundUs),Crustaceans
+NUR,43,Ornate spiny lobster,Panulirus ornatus,锦绣龙虾,3.47,NA,NA,SeaAroundUs,Crustaceans
+NWS,33,Black-streaked monocle bream,Scolopsis taeniata,,3.51,0.49,28.9,FishBase_ISSCAAP,Demersal fish
+NXC,37,Green jack,Caranx caballus,,4.05,NA,NA,SeaAroundUs,Pelagic fish
+NXI,37,Giant trevally,Caranx ignobilis,珍鲹,4.22,0.7,160.65,FishBase_ISSCAAP,Pelagic fish
+NXN,37,Pacific crevalle jack,Caranx caninus,,3.9,NA,NA,SeaAroundUs,Pelagic fish
+NXS,37,Senegal jack,Caranx senegallus,,3.86,NA,NA,SeaAroundUs,Pelagic fish
+OAL,31,Senegalese sole,Solea senegalensis,塞内加尔鳎,3.13,0.33,60,FishBase_ISSCAAP,Demersal fish
+OAM,31,Adriatic sole,Pegusa impar,,3.3,NA,NA,SeaAroundUs,Demersal fish
+OAZ,33,Yellowbar angelfish,Pomacanthus maculosus,,2.67,0,50,FishBase_ISSCAAP,Demersal fish
+OBJ,37,Needlescaled queenfish,Scomberoides tol,革似鲹,4.43,0.78,51.46,FishBase_ISSCAAP,Pelagic fish
+OBK,34,,Brotula clarki,,4.12,NA,NA,FishBase,Demersal fish
+OBL,11,Manipur osteobrama,Osteobrama belangeri,比氏骨鳊,2.81,0.32,38,FishBase_ISSCAAP,Freshwater fish
+OBM,37,Talang queenfish,Scomberoides commersonnianus,康氏似鲹,4.48,0.8,99.33,FishBase_ISSCAAP,Pelagic fish
+OBY,37,Doublespotted queenfish,Scomberoides lysan,长颌似鲹,4.5,0.8,87.89,FishBase_ISSCAAP,Pelagic fish
+OCC,57,Common octopus,Octopus vulgaris,,3.55,0.73,NA,FishBase_ISSCAAP,Cephalopods
+OCH,53,Chilean oyster,Ostrea chilensis,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OCM,57,Horned and musky octopuses,Eledone spp,,3.2,0.14,NA,FishBase_ISSCAAP,Cephalopods
+OCS,38,Oceanic whitetip shark,Carcharhinus longimanus,,4.16,0.55,324.72,FishBase_ISSCAAP,Pelagic fish
+OCT,57,"Octopuses, etc. nei",Octopodidae,,3.2,0.14,NA,FishBase_ISSCAAP,Cephalopods
+ODL,33,Boxlip mullet,Oedalechilus labeo,,2.54,NA,NA,SeaAroundUs,Demersal fish
+ODR,37,Chilean silverside,Odontesthes regia,秘鲁牙汉鱼,4,0.5,11.07,FishBase_ISSCAAP,Pelagic fish
+OEA,12,Blue tilapia,Oreochromis aureus,,2.069,0.141,37.47,FishBase_ISSCAAP,Freshwater fish
+OEB,34,Blackthroat seaperch,Doederleinia berycoides,,3.88,NA,NA,SeaAroundUs,Demersal fish
+OEC,11,Seven khramulya,Capoeta capoeta,,2,NA,NA,FishBase,Freshwater fish
+OEY,13,Elephantsnout fishes nei,Mormyridae,,3.11,0.06,NA,FishBase_ISSCAAP,Freshwater fish
+OFJ,57,Neon flying squid,Ommastrephes bartramii,,3.2,NA,NA,FishBase_ISSCAAP,Cephalopods
+OGN,13,Aba,Gymnarchus niloticus,,3.71,0.58,167,FishBase_ISSCAAP,Freshwater fish
+OGV,57,,Pinnoctopus cordiformis,,4.2,NA,NA,SeaAroundUs,Cephalopods
+OGZ,53,Gasar cupped oyster,Crassostrea tulipa,加沙牡蛎,2,NA,NA,SeaAroundUs,"Molluscs, other"
+OHB,13,Asian bonytongue,Scleropages formosus,,3.88,0.63,76.48,FishBase_ISSCAAP,Freshwater fish
+OHO,12,Kariba tilapia,Oreochromis mortimeri,,2.18,NA,NA,FishBase,Freshwater fish
+OIA,13,,Anostomoides laticeps,,2.19,0.13,30.61,FishBase_ISSCAAP,Freshwater fish
+OIH,12,Tilapia shiranus,Oreochromis shiranus,,2,NA,NA,FishBase,Freshwater fish
+OIL,34,Oilfish,Ruvettus pretiosus,,4.18,0.57,264.11,FishBase_ISSCAAP,Demersal fish
+OIT,12,,Oreochromis tanganicae,,2,NA,NA,FishBase,Freshwater fish
+OJD,57,Indian squid,Loligo duvauceli,印度枪乌贼,3.99,NA,NA,SeaAroundUs,Cephalopods
+OJE,57,Swordtip squid,Loligo edulis,剑尖枪乌贼,4.13,NA,NA,Estimate(SeaAroundUs),Cephalopods
+OKB,13,Butter catfish,Ompok bimaculatus,双斑绚鲶,3.61,0.56,45,FishBase_ISSCAAP,Freshwater fish
+OLF,33,,Oplegnathus fasciatus,条石鲷,3.55,NA,NA,SeaAroundUs,Demersal fish
+OLP,37,Maracaibo leatherjacket,Oligoplites palometa,帕洛革鲹,4.3,NA,NA,FishBase,Pelagic fish
+OLT,37,Longjaw leatherjacket,Oligoplites altus,高革鲹,4.08,NA,NA,FishBase,Pelagic fish
+ONI,33,Red-toothed triggerfish,Odonus niger,,3.22,NA,NA,SeaAroundUs,Demersal fish
+ONN,13,Bronze featherback,Notopterus notopterus,弓背魚,3.5,0.56,60,FishBase_ISSCAAP,Freshwater fish
+ONP,13,Reticulate knifefish,Papyrocranus afer,非洲驼背鱼,3.59,0.54,65.6,FishBase_ISSCAAP,Freshwater fish
+ONV,34,Spiky oreo,Neocyttus rhomboidalis,,3.58,0.53,40,FishBase_ISSCAAP,Demersal fish
+OOB,13,Arawana,Osteoglossum bicirrhosum,,3.39,0.48,85.15,FishBase_ISSCAAP,Freshwater fish
+OOH,33,Punctuated snake-eel,Ophichthus remiger,,4,NA,NA,Estimate(FishBase),Demersal fish
+OPH,34,"Cusk-eels, brotulas nei",Ophidiidae,,3.6,0.04,129,FishBase_ISSCAAP,Demersal fish
+OPP,34,Pacific ocean perch,Sebastes alutus,,3.5,0.55,44.78,FishBase_ISSCAAP,Demersal fish
+OPT,33,Ocean pout,Zoarces americanus,,3.42,0.37,90.2,FishBase_ISSCAAP,Demersal fish
+OPU,35,Slender thread herring,Opisthonema bulleri,蒲氏后丝鲱,3.24,NA,NA,FishBase,Pelagic fish
+OQM,47,Red sea mantis shrimp,Erugosquilla massavensis,红海口虾蛄,3.64,NA,NA,SeaAroundUs,Crustaceans
+OQY,57,Mexican four-eyed octopus,Octopus maya,墨西哥蛸,3.5,0.6,NA,FishBase_ISSCAAP,Cephalopods
+ORC,23,Pacific salmons nei,Oncorhynchus spp,,3.81,0.11,80,FishBase_ISSCAAP,Pelagic fish
+ORD,34,Oreo dories nei,Oreosomatidae,,3.61,0.12,22,FishBase_ISSCAAP,Demersal fish
+ORM,12,Longfin tilapia,Oreochromis macrochir,,2.21,0.11,30.39,FishBase_ISSCAAP,Freshwater fish
+ORY,34,Orange roughy,Hoplostethus atlanticus,,4.3,0.62,61.4,FishBase_ISSCAAP,Demersal fish
+OST,53,Flat and cupped oysters nei,Ostreidae,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OTR,33,Corocoro grunt,Orthopristis ruber,,3.58,NA,NA,SeaAroundUs,Demersal fish
+OUK,57,African squid,Alloteuthis africana,非洲异枪乌贼,3.98,NA,NA,SeaAroundUs,Cephalopods
+OUL,57,European common squid,Alloteuthis subulata,欧洲异枪乌贼,4.5,NA,NA,SeaAroundUs,Cephalopods
+OUM,57,Midsize squid,Alloteuthis media,中型异枪乌贼,3.47,NA,NA,SeaAroundUs,Cephalopods
+OUN,31,Leopard flounder,Bothus pantherinus,,3.5,0.37,32.64,FishBase_ISSCAAP,Demersal fish
+OUW,57,Alloteuthis squids nei,Alloteuthis spp,,3.98,NA,NA,SeaAroundUs,Cephalopods
+OVZ,12,Lake Malawi utaka,Copadichromis virginalis,,3,NA,NA,SeaAroundUs,Freshwater fish
+OWX,33,Snake eels nei,Ophichthidae,,3.79,0.03,NA,FishBase_ISSCAAP,Demersal fish
+OXP,33,"Butterfish, greenbone",Odax pullus,,2.1,NA,NA,SeaAroundUs,Demersal fish
+OXQ,37,Leatherjackets nei,Oligoplites spp,,4.33,NA,NA,SeaAroundUs,Pelagic fish
+OXW,12,"Blue-Nile tilapia, hybrid",Oreochromis aureus x O. niloticus,奥尼罗非鱼杂交种,2.06,NA,NA,FishBase,Freshwater fish
+OXY,38,Angular roughshark,Oxynotus centrina,尖背角鲨,3.061,0.26,123,FishBase_ISSCAAP,Demersal fish
+OYA,53,American cupped oyster,Crassostrea virginica,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OYC,53,Cupped oysters nei,Crassostrea spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OYD,33,Indian threadfin,Leptomelanosoma indicum,印度马鮁,3.86,0.67,116.44,FishBase_ISSCAAP,Demersal fish
+OYF,53,European flat oyster,Ostrea edulis,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OYG,53,Pacific cupped oyster,Magallana gigas,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OYH,53,Olympia oyster,Ostrea conchaphila,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OYI,53,Indian backwater oyster,Crassostrea madrasensis,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OYM,53,Mangrove cupped oyster,Crassostrea rhizophorae,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OYR,53,Cortez oyster,Crassostrea corteziensis,考茨巨牡蛎,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OYS,53,Sydney cupped oyster,Saccostrea glomerata,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+OYX,53,Flat oysters nei,Ostrea spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+PAA,45,Baltic prawn,Palaemon adspersus,欧洲长臂虾,2.7,NA,NA,FishBase_ISSCAAP,Crustaceans
+PAC,33,Common pandora,Pagellus erythrinus,,3.4,0.47,60,FishBase_ISSCAAP,Demersal fish
+PAG,44,Softshell red crab,Paralomis granulosa,软壳拟结节蟹,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+PAL,45,Palaemonid shrimps nei,Palaemonidae,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+PAM,21,Mississippi paddlefish,Polyodon spathula,匙吻鲟,3,0,181.22,FishBase_ISSCAAP,Freshwater fish
+PAN,45,Pandalus shrimps nei,Pandalus spp,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+PAO,37,Parona leatherjacket,Parona signata,拟鲳鯵,3.4,0.45,45.9,FishBase_ISSCAAP,Pelagic fish
+PAR,33,Red pandora,Pagellus bellottii,,3.6,0.59,42,FishBase_ISSCAAP,Demersal fish
+PAS,33,Pacific sandlance,Ammodytes personatus,,3.1,0.28,15,FishBase_ISSCAAP,Demersal fish
+PAT,34,Longtail Southern cod,Patagonotothen ramsayi,,3.49,0.5,36.08,FishBase_ISSCAAP,Demersal fish
+PAX,33,Pandoras nei,Pagellus spp,,3.53,0.06,25,FishBase_ISSCAAP,Demersal fish
+PBA,45,Banana prawn,Penaeus merguiensis,墨吉对虾,3,0.68,NA,FishBase_ISSCAAP,Crustaceans
+PBF,36,Pacific bluefin tuna,Thunnus orientalis,太平洋蓝鳍金枪鱼,4.21,0.55,293.21,FishBase_ISSCAAP,Pelagic fish
+PBX,33,"Sweetlips, rubberlips nei",Plectorhinchus spp,,3.74,0.08,NA,FishBase_ISSCAAP,Demersal fish
+PCA,23,Ayu sweetfish,Plecoglossus altivelis,香鱼,3,0,58.1,FishBase_ISSCAAP,Demersal fish
+PCB,47,Barnacle,Pollicipes pollicipes,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+PCL,41,Signal crayfish,Pacifastacus leniusculus,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+PCO,32,Pacific cod,Gadus macrocephalus,,4.01,0.69,100.44,FishBase_ISSCAAP,Demersal fish
+PCR,42,Tanner crabs nei,Chionoecetes spp,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+PCX,34,Pike-congers nei,Muraenesox spp,,4.07,0,172,FishBase_ISSCAAP,Demersal fish
+PCY,23,Round whitefish,Prosopium cylindraceum,,3.3,NA,NA,FishBase,Freshwater fish
+PDR,33,Peruvian banded croaker,Paralonchurus peruanus,,2.49,0.24,62.07,FishBase_ISSCAAP,Demersal fish
+PDZ,45,Pandalid shrimps nei,Pandalidae,,2.7,NA,NA,SeaAroundUs,Crustaceans
+PEE,52,Common periwinkle,Littorina littorea,滨螺,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+PEH,13,Redtail catfish,Phractocephalus hemioliopterus,红尾护头鲿,4.15,0.73,114.21,FishBase_ISSCAAP,Freshwater fish
+PEL,39,Pelagic fishes nei,Actinopterygii,,3.79,NA,72,SeaAroundUs,"Marine fish, other"
+PEN,45,Penaeus shrimps nei,Penaeus spp,,2.3,0.52,NA,FishBase_ISSCAAP,Crustaceans
+PEO,24,Indian pellona,Pellona ditchela,,3.95,0.71,16,FishBase_ISSCAAP,Pelagic fish
+PEQ,24,Yellowfin river pellona,Pellona flavipinnis,,4.5,0.8,52.18,FishBase_ISSCAAP,Freshwater fish
+PER,52,Periwinkles nei,Littorina spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+PET,33,Royal threadfin,Pentanemus quinquarius,,3.56,0.57,29.3,FishBase_ISSCAAP,Demersal fish
+PEW,25,White perch,Morone americana,,3.04,0.21,40.59,FishBase_ISSCAAP,Pelagic fish
+PEX,13,Freshwater perches nei,Lates spp,,4.29,0.1,88,FishBase_ISSCAAP,Freshwater fish
+PEZ,45,Penaeid shrimps nei,Penaeidae,,3.31,NA,NA,SeaAroundUs,Crustaceans
+PGA,33,Panga seabream,Pterogymnus laniarius,,3.68,0.56,36.9,FishBase_ISSCAAP,Demersal fish
+PGP,13,Pangas catfish,Pangasius pangasius,,3.44,0.51,300,FishBase_ISSCAAP,Freshwater fish
+PGS,13,Striped catfish,Pangasianodon hypophthalmus,苏氏鯰,3.12,0.46,130,FishBase_ISSCAAP,Freshwater fish
+PGZ,13,Pangas catfishes nei,Pangasius spp,,3.36,0.25,246,FishBase_ISSCAAP,Freshwater fish
+PHA,32,South Pacific hake,Merluccius gayi,,4.26,0.74,77.34,FishBase_ISSCAAP,Demersal fish
+PIC,33,Picarels nei,Spicara spp,,3.55,0.33,25,FishBase_ISSCAAP,Demersal fish
+PIG,33,Pigfish,Orthopristis chrysoptera,,3.42,0.26,46,FishBase_ISSCAAP,Demersal fish
+PIL,35,European pilchard(=Sardine),Sardina pilchardus,沙丁鱼,3.05,0.19,27.5,FishBase_ISSCAAP,Pelagic fish
+PIN,23,Pink(=Humpback) salmon,Oncorhynchus gorbuscha,细鳞大麻哈鱼,4.19,0.71,62.32,FishBase_ISSCAAP,Demersal fish
+PJK,45,Ocean shrimp,Pandalus jordani,约旦长额虾,3.24,NA,NA,SeaAroundUs,Crustaceans
+PJM,37,Pacific jack mackerel,Trachurus symmetricus,,3.56,0.52,64.4,FishBase_ISSCAAP,Pelagic fish
+PKB,33,Velvet leatherjacket,Parika scaber,,2.95,0.15,25.42,FishBase_ISSCAAP,Demersal fish
+PKF,33,Minstrel sweetlips,Plectorhinchus schotaf,,3.82,0.59,66.23,FishBase_ISSCAAP,Demersal fish
+PKP,33,Trout sweetlips,Plectorhinchus pictus,,3.48,0.56,67.63,FishBase_ISSCAAP,Demersal fish
+PKS,33,Striped piggy,Pomadasys stridens,,4.02,0.67,16.82,FishBase_ISSCAAP,Demersal fish
+PKU,33,Raucous grunt,Haemulopsis leuciscus,,3.22,NA,NA,SeaAroundUs,Demersal fish
+PLA,31,Amer. plaice(=Long rough dab),Hippoglossoides platessoides,拟庸鲽,3.65,0.49,42.35,FishBase_ISSCAAP,Demersal fish
+PLE,31,European plaice,Pleuronectes platessa,,3.26,0.39,100,FishBase_ISSCAAP,Demersal fish
+PLL,13,Streaked prochilod,Prochilodus lineatus,条纹鲮脂鲤(小口脂鲤),2.18,0.12,66,FishBase_ISSCAAP,Freshwater fish
+PLN,23,European whitefish,Coregonus lavaretus,真白鲑,3.08,0.39,59.13,FishBase_ISSCAAP,Freshwater fish
+PLR,13,Netted prochilod,Prochilodus reticulatus,纲纹鲮脂鲤,2,0,28,FishBase_ISSCAAP,Freshwater fish
+PLZ,31,Righteye flounders nei,Pleuronectidae,,3.37,0.04,68,FishBase_ISSCAAP,Demersal fish
+PMB,13,,Pimelodus albicans,白油鲶,3.4,NA,NA,Estimate(FishBase),Freshwater fish
+PMI,13,Capaz,Pimelodus grosskopfii,,3.3,NA,NA,Estimate(FishBase),Freshwater fish
+PMW,41,Lake prawn,Palaemon paucidens,条纹长臂虾,3.24,NA,NA,Estimate(SeaAroundUs),Crustaceans
+PMX,33,Yellowstripe grunt,Haemulopsis axillaris,,3.4,NA,NA,SeaAroundUs,Demersal fish
+PNB,45,Redspotted shrimp,Penaeus brasiliensis,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+PND,13,Percarina,Percarina demidoffii,黑海腔鲈,3.5,0.37,8.04,FishBase_ISSCAAP,Freshwater fish
+PNI,45,Indian white prawn,Penaeus indicus,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+PNL,13,,Potamorhina laticeps,,2,NA,NA,FishBase,Freshwater fish
+PNS,45,Blue shrimp,Penaeus stylirostris,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+PNT,45,Southern white shrimp,Penaeus schmitti,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+PNU,45,Southern brown shrimp,Penaeus subtilis,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+PNV,45,Whiteleg shrimp,Penaeus vannamei,南美白对虾,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+POA,37,Atlantic pomfret,Brama brama,,4.08,0.64,69,FishBase_ISSCAAP,Pelagic fish
+POB,37,Black pomfret,Parastromateus niger,,2.93,0.353,60.71,FishBase_ISSCAAP,Pelagic fish
+POC,32,Polar cod,Boreogadus saida,,3.101,0.294,35.36,FishBase_ISSCAAP,Demersal fish
+POD,32,Poor cod,Trisopterus minutus,,3.83,0.53,35.92,FishBase_ISSCAAP,Demersal fish
+POK,32,Saithe(=Pollock),Pollachius virens,青鳕,4.38,0.77,107.25,FishBase_ISSCAAP,Demersal fish
+POL,32,Pollack,Pollachius pollachius,,4.15,0.72,114.92,FishBase_ISSCAAP,Demersal fish
+POM,37,Florida pompano,Trachinotus carolinus,北美鲳鲹,3.5,0.6,52.48,FishBase_ISSCAAP,Pelagic fish
+PON,33,Ponyfishes(=Slipmouths) nei,Leiognathidae,,3.13,0.12,11,FishBase_ISSCAAP,Demersal fish
+POO,37,Snubnose pompano,Trachinotus blochii,狮鼻鲳鯵,3.74,0.46,100.12,FishBase_ISSCAAP,Pelagic fish
+POP,37,Pompano,Trachinotus ovatus,,3.73,0.58,49,FishBase_ISSCAAP,Pelagic fish
+POR,38,Porbeagle,Lamna nasus,鼠鲨,4.5,0.37,287,FishBase_ISSCAAP,Pelagic fish
+POS,32,Southern blue whiting,Micromesistius australis,,3.79,0.62,81.99,FishBase_ISSCAAP,Demersal fish
+POX,37,Pompanos nei,Trachinotus spp,,3.66,0.05,57,FishBase_ISSCAAP,Pelagic fish
+POY,33,Ponyfishes(=Slipmouths),Leiognathus spp,鲾属未定种,3.15,0.06,11,FishBase_ISSCAAP,Demersal fish
+PPB,13,Marbled lungfish,Protopterus aethiopicus,,3.43,0.69,190.61,FishBase_ISSCAAP,Freshwater fish
+PPF,41,River prawns nei,Macrobrachium spp,,2.5,0.51,NA,FishBase_ISSCAAP,Crustaceans
+PPO,37,Pacific pompano,Peprilus simillimus,,4.09,0.29,28,FishBase_ISSCAAP,Pelagic fish
+PPS,45,Sao Paulo shrimp,Penaeus paulensis,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+PPX,37,Pelagic percomorphs nei,Perciformes,,3.43,0.01,73,FishBase_ISSCAAP,Pelagic fish
+PPZ,41,"Freshwater prawns, shrimps nei",Palaemonidae,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+PQG,44,Carrot squat lobster,Pleuroncodes monodon,橘黄侧甲球蟹,2.6,NA,NA,SeaAroundUs,Crustaceans
+PQQ,56,Equal-sized surf clam,Spisula aequilatera,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+PQR,33,Atlantic bigeye,Priacanthus arenatus,,4.04,NA,NA,SeaAroundUs,Demersal fish
+PQZ,13,,Pangasius djambal,,2.76,0.266,87.81,FishBase_ISSCAAP,Freshwater fish
+PRA,45,Northern prawn,Pandalus borealis,,2.46,0.59,NA,FishBase_ISSCAAP,Crustaceans
+PRC,33,Percoids nei,Percoidei,,3.43,0.01,60,FishBase_ISSCAAP,Demersal fish
+PRF,41,Giant river prawn,Macrobrachium rosenbergii,罗氏沼虾,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+PRG,33,Porgies,Calamus spp,,3.39,0.05,38,FishBase_ISSCAAP,Demersal fish
+PRJ,11,Isok barb,Probarbus jullieni,,3.17,0.4,150,FishBase_ISSCAAP,Freshwater fish
+PRL,13,Prochilods nei,Prochilodus spp,,2.09,0.09,45,FishBase_ISSCAAP,Freshwater fish
+PRP,34,Roudi escolar,Promethichthys prometheus,纺锤蛇鲭,4.18,0.57,100,FishBase_ISSCAAP,Demersal fish
+PRR,33,Parrotfish,Sparisoma cretense,,2.86,0.27,45.19,FishBase_ISSCAAP,Demersal fish
+PRS,23,Clearhead icefish,Protosalanx hyalocranius,,2.98,0.27,13.94,FishBase_ISSCAAP,Demersal fish
+PSE,33,Bobo croaker,Pseudotolithus elongatus,,4.06,0.7,36.85,FishBase_ISSCAAP,Demersal fish
+PSH,45,Pacific shrimps nei,"Pandalus spp, Pandalopsis spp",,2.6,NA,NA,SeaAroundUs,Crustaceans
+PSL,43,Pink spiny lobster,Palinurus mauritanicus,,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+PSM,23,Pond smelt,Hypomesus olidus,池沼公鱼,3.21,0.42,15.28,FishBase_ISSCAAP,Pelagic fish
+PSS,33,Cassava croaker,Pseudotolithus senegalensis,,3.84,0.63,94.96,FishBase_ISSCAAP,Demersal fish
+PST,45,Northern white shrimp,Penaeus setiferus,,2.7,0.54,NA,FishBase_ISSCAAP,Crustaceans
+PSZ,13,,Psectrogaster amazonica,,2,NA,NA,FishBase,Freshwater fish
+PTB,11,Barbel,Barbus barbus,,3.1,0.39,95.76,FishBase_ISSCAAP,Freshwater fish
+PTG,11,Silver barb,Barbonymus gonionotus,银无须魮,2.36,0.132,33.21,FishBase_ISSCAAP,Freshwater fish
+PTH,38,Pelagic thresher,Alopias pelagicus,,4.5,0.66,314.06,FishBase_ISSCAAP,Pelagic fish
+PTS,56,Pacific littleneck clam,Protothaca staminea,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+PTY,33,Longneck croaker,Pseudotolithus typus,,3.7,NA,NA,SeaAroundUs,Demersal fish
+PUA,33,Atlantic puffers nei,Sphoeroides spp,,3.64,0.28,23,FishBase_ISSCAAP,Demersal fish
+PUF,33,Northern puffer,Sphoeroides maculatus,,4.04,0.66,29.52,FishBase_ISSCAAP,Demersal fish
+PUI,11,Spotted barb,Puntius binotatus,,2.6,0.3,20,FishBase_ISSCAAP,Freshwater fish
+PUS,11,Olive barb,Systomus sarana,,2.95,0.39,34.44,FishBase_ISSCAAP,Freshwater fish
+PUX,33,Puffers nei,Tetraodontidae,,3.41,0.05,32,FishBase_ISSCAAP,Demersal fish
+PVR,45,Atlantic ditch shrimp,Palaemon varians,变色小长臂虾,3.4,0.45,NA,FishBase_ISSCAAP,Crustaceans
+PWG,33,Waigieu seaperch,Psammoperca waigiensis,,4.02,0.67,37.24,FishBase_ISSCAAP,Demersal fish
+PWQ,31,Starry flounder,Platichthys stellatus,星斑川鲽,3.32,0.38,74.62,FishBase_ISSCAAP,Demersal fish
+PWS,38,Sawsharks nei,Pristiophorus spp,,3.97,0.07,NA,FishBase_ISSCAAP,Demersal fish
+PWT,33,Parrotfishes nei,Scaridae,,2.08,0.05,39.485,FishBase_ISSCAAP,Demersal fish
+PWY,45,Spot shrimp,Pandalus platyceros,宽角长额虾,3.66,NA,NA,SeaAroundUs,Crustaceans
+PXR,13,White crappie,Pomoxis annularis,白刺盖太阳鱼,4.38,0.77,43.46,FishBase_ISSCAAP,Freshwater fish
+PYS,13,Raphael catfish,Platydoras costatus,,3.04,0.4,24,FishBase_ISSCAAP,Freshwater fish
+PYX,45,Coonstripe shrimp,Pandalus hypsinotus,朝鲜长额虾,2.6,NA,NA,SeaAroundUs,Crustaceans
+PZB,34,"Barracudinas, etc. nei",Paralepididae,,3.52,NA,NA,SeaAroundUs,Demersal fish
+PZO,34,Red lionfish,Pterois volitans,,4.35,NA,NA,SeaAroundUs,Demersal fish
+PZZ,33,Southern rock bass,Paralabrax callaensis,,3.9,NA,NA,Estimate(FishBase),Demersal fish
+QEX,38,S.Am. freshwater stingrays nei,Potamotrygon spp,,3.2,NA,NA,Estimate(FishBase),Freshwater fish
+QFW,13,African obscure snakehead,Parachanna obscura,暗副鳢,3.41,NA,NA,FishBase,Freshwater fish
+QIX,42,,Ocypode spp,,3.02,NA,NA,SeaAroundUs,Crustaceans
+QMG,13,Magdalena River prochilodus,Prochilodus magdalenae,马格达河鲮脂鲤,2,NA,NA,Estimate(FishBase),Freshwater fish
+QMR,13,,Prochilodus mariae,,2.1,NA,NA,Estimate(FishBase),Freshwater fish
+QOF,13,Barcoo grunter,Scortum barcoo,宝石鲈,2.7,NA,NA,Estimate(FishBase),Freshwater fish
+QPH,42,Henslow’s swimming crab,Polybius henslowii,,3.46,NA,NA,SeaAroundUs,Crustaceans
+QPN,13,Black prochilodus,Prochilodus nigricans,黑鲮脂鲤,2.38,NA,NA,FishBase,Freshwater fish
+QPT,55,Tehuelche scallop,Aequipecten tehuelchus,,2.1,NA,NA,SeaAroundUs,"Molluscs, other"
+QRX,13,Parachanna snakeheads nei,Parachanna spp,副鳢类,3.41,NA,NA,FishBase,Freshwater fish
+QSC,55,Queen scallop,Aequipecten opercularis,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+QUB,38,Longnose spurdog,Squalus blainville,勃氏角鲨,3.97,0.57,82,FishBase_ISSCAAP,Demersal fish
+QUE,37,Queenfishes,Scomberoides spp,,4.48,0.02,69,FishBase_ISSCAAP,Pelagic fish
+QVC,13,,Pseudoplatystoma magdaleniatum,,4.3,NA,NA,Estimate(FishBase),Freshwater fish
+QYP,13,Amazon sailfin catfish,Pterygoplichthys pardalis,豹纹脂身鲶,2,NA,NA,FishBase,Freshwater fish
+QYV,34,Bank rockfish,Sebastes rufus,,3.74,NA,NA,SeaAroundUs,Demersal fish
+RAB,37,Short mackerel,Rastrelliger brachysoma,,2.72,0.31,33.15,FishBase_ISSCAAP,Pelagic fish
+RAG,37,Indian mackerel,Rastrelliger kanagurta,,3.19,0.379,31.53,FishBase_ISSCAAP,Pelagic fish
+RAJ,38,Rays and skates nei,Rajidae,,3.81,0.02,101,FishBase_ISSCAAP,Demersal fish
+RAL,35,Slender rainbow sardine,Dussumieria elopsoides,细圆腹鲱,3.4,0.45,20,FishBase_ISSCAAP,Pelagic fish
+RAP,56,Pacific razor clam,Siliqua patula,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+RAQ,42,Spanner crab,Ranina ranina,,3.2,NA,NA,SeaAroundUs,Crustaceans
+RAS,35,Rainbow sardine,Dussumieria acuta,,3.4,0.45,20,FishBase_ISSCAAP,Pelagic fish
+RAX,37,Indian mackerels nei,Rastrelliger spp,,3.1,0.2,29,FishBase_ISSCAAP,Pelagic fish
+RAZ,56,Solen razor clams nei,Solen spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+RBC,38,Blackchin guitarfish,Glaucostegus cemiculus,,4.04,0.7,232.96,FishBase_ISSCAAP,Demersal fish
+RBX,38,Common guitarfish,Rhinobatos rhinobatos,,4.06,0.68,82,FishBase_ISSCAAP,Demersal fish
+RCA,38,Whitespotted wedgefish,Rhynchobatus australiae,,3.54,0.5,246,FishBase_ISSCAAP,Demersal fish
+RCD,38,Giant guitarfish,Rhynchobatus djiddensis,及达尖犁头鳐,3.6,0.59,277.18,FishBase_ISSCAAP,Demersal fish
+RCW,41,Red swamp crawfish,Procambarus clarkii,克氏原螯虾,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+RDM,33,Red drum,Sciaenops ocellatus,眼斑拟石首鱼,4.07,0.68,133.88,FishBase_ISSCAAP,Demersal fish
+RDS,38,Daisy stingray,Fontitrygon margarita,,3.42,NA,NA,SeaAroundUs,Demersal fish
+RDU,38,Longnose stingray,Hypanus guttatus,,4.25,NA,NA,FishBase,Demersal fish
+REB,34,Beaked redfish,Sebastes mentella,,3.65,0.48,39.04,FishBase_ISSCAAP,Demersal fish
+RED,34,Atlantic redfishes nei,Sebastes spp,,3.68,0.04,48,FishBase_ISSCAAP,Demersal fish
+REG,34,Golden redfish,Sebastes norvegicus,,4.04,0.68,86.77,FishBase_ISSCAAP,Demersal fish
+REN,34,Acadian redfish,Sebastes fasciatus,,3.24,NA,NA,SeaAroundUs,Demersal fish
+REP,45,Redtail prawn,Penaeus penicillatus,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+RER,33,Red steenbras,Petrus rupestris,,4.5,0.61,164,FishBase_ISSCAAP,Demersal fish
+RES,33,Mangrove red snapper,Lutjanus argentimaculatus,紫红笛鲷,3.58,0.61,121.52,FishBase_ISSCAAP,Demersal fish
+REV,33,Red seabream,Pagrus major,,3.7,NA,NA,SeaAroundUs,Demersal fish
+RFA,38,Whiteleg skate,Amblyraja taaf,,3.81,0.57,73.8,FishBase_ISSCAAP,Demersal fish
+RFC,34,Darkblotched rockfish,Sebastes crameri,,3.71,0.58,47.56,FishBase_ISSCAAP,Demersal fish
+RFE,31,English sole,Pleuronectes vetulus,侧枝鲽,3.39,0.46,41.69,FishBase_ISSCAAP,Demersal fish
+RFR,11,Kutum,Rutilus frisii,,3.51,0.6,57.4,FishBase_ISSCAAP,Freshwater fish
+RGI,38,Smooth butterfly ray,Gymnura micrura,,3.6,NA,NA,SeaAroundUs,Demersal fish
+RGL,38,Spiny butterfly ray,Gymnura altavela,,4.5,0.21,706,FishBase_ISSCAAP,Demersal fish
+RGX,31,Scaldfishes nei,Arnoglossus spp,,3.3,NA,NA,SeaAroundUs,Demersal fish
+RHA,38,Milk shark,Rhizoprionodon acutus,尖吻斜锯牙鲨,4.33,0.76,143.5,FishBase_ISSCAAP,Pelagic fish
+RHG,32,Roughhead grenadier,Macrourus berglax,北大西洋长尾鳕,4.48,0.77,90.2,FishBase_ISSCAAP,Demersal fish
+RHI,11,Rhinofishes nei,Labeo spp,,2.19,0.05,60,FishBase_ISSCAAP,Freshwater fish
+RHL,38,Brazilian sharpnose shark,Rhizoprionodon lalandii,巴西斜锯牙鲨,4.28,NA,NA,FishBase,Demersal fish
+RHN,38,Whale shark,Rhincodon typus,,3.55,NA,NA,SeaAroundUs,Pelagic fish
+RHR,38,Caribbean sharpnose shark,Rhizoprionodon porosus,,3.99,NA,NA,SeaAroundUs,Demersal fish
+RHT,38,Atlantic sharpnose shark,Rhizoprionodon terraenovae,,4.27,0.76,89.53,FishBase_ISSCAAP,Demersal fish
+RIB,32,Common mora,Mora moro,深海鳕,3.75,0.55,71.89,FishBase_ISSCAAP,Demersal fish
+RIE,31,Fine flounder,Paralichthys adspersus,,4.26,NA,NA,SeaAroundUs,Demersal fish
+RIS,13,Malayan leaffish,Pristolepis fasciata,,3.14,0.45,16.4,FishBase_ISSCAAP,Freshwater fish
+RJA,38,White skate,Rostroraja alba,矛吻鳐,4.41,0.832,188.6,FishBase_ISSCAAP,Demersal fish
+RJB,38,Blue skate,Dipturus batis,,3.96,0.59,285,FishBase_ISSCAAP,Demersal fish
+RJC,38,Thornback ray,Raja clavata,,3.76,0.59,105,FishBase_ISSCAAP,Demersal fish
+RJD,38,Little skate,Leucoraja erinacea,,3.57,0.5,54,FishBase_ISSCAAP,Demersal fish
+RJE,38,Small-eyed ray,Raja microocellata,小睛斑鳐,3.89,0.66,80,FishBase_ISSCAAP,Demersal fish
+RJF,38,Shagreen ray,Leucoraja fullonica,,3.5,0.37,98.4,FishBase_ISSCAAP,Demersal fish
+RJH,38,Blonde ray,Raja brachyura,短尾鳐,3.98,0.67,102.5,FishBase_ISSCAAP,Demersal fish
+RJI,38,Sandy ray,Leucoraja circularis,圆盘鳐,3.5,0.37,120,FishBase_ISSCAAP,Demersal fish
+RJK,38,Sailray,Rajella lintea,麻鳐,3.62,0.5,100.86,FishBase_ISSCAAP,Demersal fish
+RJL,38,Barndoor skate,Dipturus laevis,,3.5,NA,NA,SeaAroundUs,Demersal fish
+RJM,38,Spotted ray,Raja montagui,,3.67,0.62,65.6,FishBase_ISSCAAP,Demersal fish
+RJN,38,Cuckoo ray,Leucoraja naevus,,3.94,0.64,71,FishBase_ISSCAAP,Demersal fish
+RJO,38,Longnosed skate,Dipturus oxyrinchus,,3.5,0.37,123,FishBase_ISSCAAP,Demersal fish
+RJQ,38,Spinetail ray,Bathyraja spinicauda,,4.41,NA,NA,FishBase,Pelagic fish
+RJR,38,Starry ray,Amblyraja radiata,辐鳐,4.02,0.67,86.1,FishBase_ISSCAAP,Demersal fish
+RJS,38,Smooth skate,Malacoraja senta,,3.47,NA,NA,FishBase,Demersal fish
+RJT,38,Winter skate,Leucoraja ocellata,,4.43,NA,NA,SeaAroundUs,Demersal fish
+RJU,38,Undulate ray,Raja undulata,波鳐,3.5,0.37,82,FishBase_ISSCAAP,Demersal fish
+RKN,41,Common caridina,Caridina nilotica,尼罗米虾,2,NA,NA,FishBase,Crustaceans
+RLQ,33,Suco croaker,Paralonchurus dumerilii,,3.28,NA,NA,SeaAroundUs,Demersal fish
+RMB,38,Giant manta,Mobula birostris,鬼蝠魟(双吻前口蝠鲼),3.46,0.497,109.51,FishBase_ISSCAAP,Demersal fish
+RMG,34,Black rockfish,Sebastes melanops,,4.38,0.78,53.94,FishBase_ISSCAAP,Demersal fish
+RMM,38,Devil fish,Mobula mobular,蝠鲼,3.71,0.53,109.51,FishBase_ISSCAAP,Pelagic fish
+RMQ,13,South American catfish,Rhamdia quelen,,3.16,0.43,40.64,FishBase_ISSCAAP,Freshwater fish
+RMV,38,"Mantas, devil rays, etc. nei",Mobula spp,,3.71,NA,NA,SeaAroundUs,Pelagic fish
+RNG,32,Roundnose grenadier,Coryphaenoides rupestris,,3.54,0.49,105.6,FishBase_ISSCAAP,Demersal fish
+RNJ,37,Blackbanded trevally,Seriolina nigrofasciata,,4.17,0.61,56.9,FishBase_ISSCAAP,Pelagic fish
+RNM,11,Small scale mud carp,Cirrhinus microlepis,,2.38,0.21,65,FishBase_ISSCAAP,Freshwater fish
+ROB,33,Snooks(=Robalos) nei,Centropomus spp,,4.07,0.06,48,FishBase_ISSCAAP,Demersal fish
+ROC,42,Pacific rock crab,Cancer productus,,3.3,0.43,NA,FishBase_ISSCAAP,Crustaceans
+ROG,11,Vatani rohtee,Rohtee ogilbii,,2.8,0.32,41,FishBase_ISSCAAP,Freshwater fish
+ROJ,33,Pacific sandperch,Prolatilus jugularis,,3.7,0.56,32.8,FishBase_ISSCAAP,Demersal fish
+ROK,34,Rosefishes nei,Helicolenus spp,,3.54,NA,NA,SeaAroundUs,Demersal fish
+ROL,32,Rocklings nei,Gaidropsarus spp,,3.41,0.05,38,FishBase_ISSCAAP,Demersal fish
+ROS,31,Rock sole,Lepidopsetta bilineata,,3.21,0.43,49.2,FishBase_ISSCAAP,Demersal fish
+ROY,13,White bass,Morone chrysops,,4.04,0.68,36.48,FishBase_ISSCAAP,Freshwater fish
+RPF,33,Red Sea goatfish,Parupeneus forsskali,,3.54,NA,NA,FishBase,Demersal fish
+RPG,33,Red porgy,Pagrus pagrus,,3.65,0.61,72.63,FishBase_ISSCAAP,Demersal fish
+RPN,52,Sea snails,Rapana spp,红螺属未定种,2.1,2.1,NA,FishBase_ISSCAAP,"Molluscs, other"
+RPU,33,Vermilion snapper,Rhomboplites aurorubens,,4.33,0.56,49.2,FishBase_ISSCAAP,Demersal fish
+RPW,52,Veined rapa whelk,Rapana venosa,脉红螺,3,NA,NA,SeaAroundUs,"Molluscs, other"
+RQN,52,Commercial top,Trochus niloticus,大马蹄螺,2,NA,NA,SeaAroundUs,"Molluscs, other"
+RQU,77,,Rhopilema esculentum,红海蜇,2.97,NA,NA,SeaAroundUs,"Aquatic animals, other"
+RRH,35,Red-eye round herring,Etrumeus teres,,3.49,0.4,27.32,FishBase_ISSCAAP,Pelagic fish
+RRJ,45,Titi shrimp,Protrachypene precipua,提拉原糙对虾,2.75,NA,NA,SeaAroundUs,Crustaceans
+RRS,45,Royal red shrimp,Pleoticus robustus,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+RRU,37,Rainbow runner,Elagatis bipinnulata,,3.59,0.49,127.98,FishBase_ISSCAAP,Pelagic fish
+RRV,34,Yelloweye rockfish,Sebastes ruberrimus,,4.43,NA,NA,SeaAroundUs,Demersal fish
+RRW,38,Rio skate,Rioraja agassizi,,3.55,NA,NA,SeaAroundUs,Demersal fish
+RRX,13,Piranhas nei,Serrasalmus spp,,4.03,NA,NA,FishBase,Freshwater fish
+RSA,37,Japanese scad,Decapterus maruadsi,,3.4,0.45,23.75,FishBase_ISSCAAP,Pelagic fish
+RSC,37,Rough scad,Trachurus lathami,,3.99,0.18,32.8,FishBase_ISSCAAP,Pelagic fish
+RSE,34,Red scorpionfish,Scorpaena scrofa,,4.27,0.73,40.11,FishBase_ISSCAAP,Demersal fish
+RSH,45,Rock shrimp,Sicyonia brevirostris,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+RSK,38,Requiem sharks nei,Carcharhinidae,,4.22,0.03,304,FishBase_ISSCAAP,Demersal fish
+RSM,33,Panama spadefish,Parapsettus panamensis,,3.5,NA,NA,SeaAroundUs,Demersal fish
+RSS,33,Goldlined seabream,Rhabdosargus sarba,,3.37,0.58,66.62,FishBase_ISSCAAP,Demersal fish
+RSX,33,Daggerhead breams nei,Chrysoblephus spp,,3.61,0.06,59,FishBase_ISSCAAP,Demersal fish
+RSY,33,Redtail parrotfish,Sparisoma chrysopterum,,2,NA,NA,SeaAroundUs,Demersal fish
+RSZ,11,Silver rasbora,Rasbora argyrotaenia,,2,0,9.84,FishBase_ISSCAAP,Freshwater fish
+RTX,32,"Grenadiers, rattails nei",Macrouridae,,3.59,0.03,32.188,FishBase_ISSCAAP,Demersal fish
+RUB,37,Blue runner,Caranx crysos,,4.4,0.77,57.4,FishBase_ISSCAAP,Pelagic fish
+RUF,33,Ruff,Arripis georgianus,大眼澳鲈,4.31,0.76,37.32,FishBase_ISSCAAP,Demersal fish
+RUS,37,Indian scad,Decapterus russelli,,3.69,0.58,36.9,FishBase_ISSCAAP,Pelagic fish
+RVM,34,Blackgill rockfish,Sebastes melanostomus,,3.81,NA,NA,SeaAroundUs,Demersal fish
+RWC,11,Caspian roach,Rutilus caspicus,,3.4,NA,NA,FishBase,Freshwater fish
+RXS,33,Haffara seabream,Rhabdosargus haffara,,3.5,0.37,28.4,FishBase_ISSCAAP,Demersal fish
+RXY,33,Meagres nei,Argyrosomus spp,,4.05,NA,NA,SeaAroundUs,Demersal fish
+RYG,34,Rubyfish,Plagiogeneion rubiginosum,,3.4,0.45,46.5,FishBase_ISSCAAP,Demersal fish
+RYJ,33,Japanese meagre,Argyrosomus japonicus,日本黄姑鱼,4.48,0.72,148.42,FishBase_ISSCAAP,Demersal fish
+SAA,35,Round sardinella,Sardinella aurita,,3.4,0.45,29.19,FishBase_ISSCAAP,Pelagic fish
+SAB,34,Sablefish,Anoplopoma fimbria,,3.83,0.61,98.4,FishBase_ISSCAAP,Demersal fish
+SAE,35,Madeiran sardinella,Sardinella maderensis,,3.2,0.38,34.43,FishBase_ISSCAAP,Pelagic fish
+SAF,32,Saffron cod,Eleginus gracilis,,4.12,0.72,51.17,FishBase_ISSCAAP,Demersal fish
+SAG,35,Goldstripe sardinella,Sardinella gibbosa,,2.85,0.3,17,FishBase_ISSCAAP,Pelagic fish
+SAH,12,Blackchin tilapia,Sarotherodon melanotheron,黑颊罗非鱼,2.01,0.03,28,FishBase_ISSCAAP,Freshwater fish
+SAI,36,Atlantic sailfish,Istiophorus albicans,,4.5,0.73,258.3,FishBase_ISSCAAP,Pelagic fish
+SAL,23,Atlantic salmon,Salmo salar,大西洋鲑,4.43,0.06,135.17,FishBase_ISSCAAP,Pelagic fish
+SAM,35,Bali sardinella,Sardinella lemuru,黄泽小沙丁鱼,2.48,0,23,FishBase_ISSCAAP,Pelagic fish
+SAN,33,Sandeels(=Sandlances) nei,Ammodytes spp,,3.1,0.01,22,FishBase_ISSCAAP,Demersal fish
+SAO,32,Tadpole codling,Salilota australis,,4.43,0.71,44,FishBase_ISSCAAP,Demersal fish
+SAP,37,Pacific saury,Cololabis saira,,3.71,0.44,40,FishBase_ISSCAAP,Pelagic fish
+SAR,12,Mango tilapia,Sarotherodon galilaeus,,2.05,0.08,33.62,FishBase_ISSCAAP,Freshwater fish
+SAS,35,Scaled sardines,Harengula spp,,3.3,0.08,17,FishBase_ISSCAAP,Pelagic fish
+SAU,37,Atlantic saury,Scomberesox saurus,,3.64,0.34,47.39,FishBase_ISSCAAP,Pelagic fish
+SAW,38,Sawfishes,Pristidae,,4.08,0.14,445,FishBase_ISSCAAP,Demersal fish
+SBA,33,Axillary seabream,Pagellus acarne,腋斑小鲷,3.48,0.45,36,FishBase_ISSCAAP,Demersal fish
+SBC,34,Bocaccio rockfish,Sebastes paucispinis,稀棘平鮋,3.51,0.46,75.62,FishBase_ISSCAAP,Demersal fish
+SBF,36,Southern bluefin tuna,Thunnus maccoyii,,3.93,0.534,233.49,FishBase_ISSCAAP,Pelagic fish
+SBG,33,Gilthead seabream,Sparus aurata,,3.26,0.48,57.4,FishBase_ISSCAAP,Demersal fish
+SBH,13,"Striped bass, hybrid",Morone chrysops x M. saxatilis,条纹鲈杂交种,3.9,0.31,164,FishBase_ISSCAAP,Freshwater fish
+SBM,13,Duckbill catfish,Sorubim lima,铲吻油鲶,4.1,0.71,48.24,FishBase_ISSCAAP,Freshwater fish
+SBP,33,Pargo breams nei,Pagrus spp,,3.55,0.11,59,FishBase_ISSCAAP,Demersal fish
+SBR,33,Blackspot seabream,Pagellus bogaraveo,黑斑小鲷,3.73,0.56,70,FishBase_ISSCAAP,Demersal fish
+SBS,33,Saddled seabream,Oblada melanura,,3.03,0.12,27.41,FishBase_ISSCAAP,Demersal fish
+SBX,33,"Porgies, seabreams nei",Sparidae,,3.4,0.05,59,FishBase_ISSCAAP,Demersal fish
+SBY,34,Silvergray rockfish,Sebastes brevispinis,,3.8,NA,NA,SeaAroundUs,Demersal fish
+SCA,55,American sea scallop,Placopecten magellanicus,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SCB,55,Atlantic bay scallop,Argopecten irradians,海湾扇贝,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SCC,55,Calico scallop,Argopecten gibbus,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SCD,42,Blue swimming crab,Portunus pelagicus,,3,0.68,NA,FishBase_ISSCAAP,Crustaceans
+SCE,55,Great Atlantic scallop,Pecten maximus,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SCF,31,Turbots nei,Scophthalmidae,,3.89,0.09,3.7,FishBase_ISSCAAP,Demersal fish
+SCG,55,Weathervane scallop,Patinopecten caurinus,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SCH,55,Pacific calico scallop,Argopecten ventricosus,太平洋海湾扇贝,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SCK,38,Kitefin shark,Dalatias licha,,4.15,0.66,149.24,FishBase_ISSCAAP,Demersal fish
+SCL,38,"Catsharks, nursehounds nei",Scyliorhinus spp,,3.95,0.06,107,FishBase_ISSCAAP,Demersal fish
+SCN,33,White-spotted spinefoot,Siganus canaliculatus,长鳍(黄斑)篮子鱼,2.76,0.308,25.1,FishBase_ISSCAAP,Demersal fish
+SCO,34,"Scorpionfishes, redfishes nei",Scorpaenidae,,3.77,0.05,42,FishBase_ISSCAAP,Demersal fish
+SCP,33,Scup,Stenotomus chrysops,,3.9,0.41,35.47,FishBase_ISSCAAP,Demersal fish
+SCQ,55,Peruvian calico scallop,Argopecten purpuratus,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SCR,42,Spinous spider crab,Maja squinado,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+SCS,34,"Scorpionfishes, rockfishes nei",Scorpaena spp,,3.87,NA,NA,SeaAroundUs,Demersal fish
+SCT,33,Scats,Scatophagus spp,金线鱼属未定种,2.99,0,31,FishBase_ISSCAAP,Demersal fish
+SCU,33,Sculpins,Myoxocephalus spp,,3.85,0.35,62,FishBase_ISSCAAP,Demersal fish
+SCX,55,Scallops nei,Pectinidae,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SCZ,55,New Zealand scallop,Pecten novaezelandiae,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SDP,38,Narrownose smooth-hound,Mustelus schmitti,,3.59,0.49,75.44,FishBase_ISSCAAP,Demersal fish
+SDT,33,Chili sea catfish,Notarius troschelii,,4.5,NA,NA,SeaAroundUs,Demersal fish
+SDU,38,Arrowhead dogfish,Deania profundorum,箭头田氏鲨,4.5,0.69,64.78,FishBase_ISSCAAP,Demersal fish
+SDV,38,Smooth-hounds nei,Mustelus spp,,3.73,0.05,130,FishBase_ISSCAAP,Demersal fish
+SDW,33,Brown sea catfish,Sciades dowii,,4.03,NA,NA,SeaAroundUs,Demersal fish
+SDX,37,Scads nei,Decapterus spp,,3.53,0.12,36,FishBase_ISSCAAP,Pelagic fish
+SEM,34,Common warehou,Seriolella brama,,3.3,0.43,62.32,FishBase_ISSCAAP,Demersal fish
+SEO,34,Choicy ruff,Seriolella porosa,南美鰤鲳,3.4,0.45,58.7,FishBase_ISSCAAP,Demersal fish
+SEP,34,Silver warehou,Seriolella punctata,,3.4,0.45,54.12,FishBase_ISSCAAP,Demersal fish
+SEU,34,White warehou,Seriolella caerulea,,3.41,0.44,65,FishBase_ISSCAAP,Demersal fish
+SEY,34,Violet warehou,Schedophilus velaini,,4.15,0.57,79.32,FishBase_ISSCAAP,Demersal fish
+SFA,36,Indo-Pacific sailfish,Istiophorus platypterus,,4.5,0.8,344.1,FishBase_ISSCAAP,Pelagic fish
+SFD,34,Splitnose rockfish,Sebastes diploproa,,3.66,0.57,39.52,FishBase_ISSCAAP,Demersal fish
+SFK,34,Shortbelly rockfish,Sebastes jordani,,3.2,NA,NA,SeaAroundUs,Demersal fish
+SFL,34,Korean rockfish,Sebastes schlegeli,许氏平鲉 (黑鮶鱼),3.73,0.58,53.3,FishBase_ISSCAAP,Demersal fish
+SFO,34,Starry rockfish,Sebastes constellatus,,3.74,NA,NA,SeaAroundUs,Demersal fish
+SFS,34,Silver scabbardfish,Lepidopus caudatus,,3.85,0.65,172.2,FishBase_ISSCAAP,Demersal fish
+SFT,34,Rougheye rockfish,Sebastes aleutianus,,3.66,NA,NA,SeaAroundUs,Demersal fish
+SFV,34,Norway redfish,Sebastes viviparus,,4.03,0.67,30.45,FishBase_ISSCAAP,Demersal fish
+SGI,34,South Georgia icefish,Pseudochaenichthys georgianus,,3.33,0.47,53.28,FishBase_ISSCAAP,Demersal fish
+SGO,34,Chilipepper rockfish,Sebastes goodei,郭氏平鮋,3.46,0.44,45.92,FishBase_ISSCAAP,Demersal fish
+SGY,37,Spottail needlefish,Strongylura strongylura,,4.2,NA,NA,SeaAroundUs,Pelagic fish
+SHA,24,American shad,Alosa sapidissima,美洲鲥,3.46,0.46,61.41,FishBase_ISSCAAP,Pelagic fish
+SHC,24,Pontic shad,Alosa immaculata,,3.93,0.674,39,FishBase_ISSCAAP,Pelagic fish
+SHG,24,American gizzard shad,Dorosoma cepedianum,,2.4,0.21,52.61,FishBase_ISSCAAP,Pelagic fish
+SHH,24,Hickory shad,Alosa mediocris,,4.12,0.58,60,FishBase_ISSCAAP,Pelagic fish
+SHI,45,Shiba shrimp,Metapenaeus joyneri,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+SHL,38,Lanternsharks nei,Etmopterus spp,,4.17,0.04,38,FishBase_ISSCAAP,Pelagic fish
+SHO,38,Blackmouth catshark,Galeus melastomus,,4.23,0.58,73.8,FishBase_ISSCAAP,Demersal fish
+SHR,33,Sharpsnout seabream,Diplodus puntazzo,,2.86,0.37,42.72,FishBase_ISSCAAP,Demersal fish
+SHS,45,Sergestid shrimps nei,Sergestidae,,2.5,0.51,NA,FishBase_ISSCAAP,Crustaceans
+SHZ,24,Shads nei,Alosa spp,,3.72,0.12,44,FishBase_ISSCAAP,Pelagic fish
+SIA,13,Lake Tanganyika sprat,Stolothrissa tanganicae,,2.74,0.29,10,FishBase_ISSCAAP,Freshwater fish
+SIC,33,African sicklefish,Drepane africana,,3.1,0.41,36.9,FishBase_ISSCAAP,Demersal fish
+SIE,36,Pacific sierra,Scomberomorus sierra,,4.49,0.8,95.83,FishBase_ISSCAAP,Pelagic fish
+SIL,37,Silversides(=Sand smelts) nei,Atherinidae,,3.13,0.09,12,FishBase_ISSCAAP,Pelagic fish
+SIN,13,Mandarin fish,Siniperca chuatsi,鳜,4.5,0.8,57.4,FishBase_ISSCAAP,Freshwater fish
+SIP,37,Silver pomfret,Pampus argenteus,银鲳,3.12,0.37,60,FishBase_ISSCAAP,Pelagic fish
+SIQ,34,Player scorpionfish,Scorpaena histrio,,3.7,NA,NA,SeaAroundUs,Demersal fish
+SIX,35,Sardinellas nei,Sardinella spp,,2.82,0.09,25,FishBase_ISSCAAP,Pelagic fish
+SJA,55,Great Mediterranean scallop,Pecten jacobaeus,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SJU,34,Shortspine thornyhead,Sebastolobus alascanus,,3.61,0.58,80,FishBase_ISSCAAP,Demersal fish
+SJZ,34,Longspine thornyhead,Sebastolobus altivelis,,3.33,NA,NA,SeaAroundUs,Demersal fish
+SKA,38,Raja rays nei,Raja spp,,3.73,0.03,97,FishBase_ISSCAAP,Demersal fish
+SKB,25,Sticklebacks,Gasterosteus spp,,3.31,NA,NA,FishBase,Pelagic fish
+SKH,38,Various sharks nei,Selachimorpha (Pleurotremata),,4,NA,3.6,Estimate(SeaAroundUs),Pelagic fish
+SKI,13,Kissing prochilodus,Semaprochilodus insignis,,2,0,22.14,FishBase_ISSCAAP,Freshwater fish
+SKJ,36,Skipjack tuna,Katsuwonus pelamis,鲣,4.35,0.76,110.9,FishBase_ISSCAAP,Pelagic fish
+SKM,45,Atlantic mud shrimp,Solenocera membranacea,大西洋管鞭虾,3.56,NA,NA,SeaAroundUs,Crustaceans
+SKX,38,"Sharks, rays, skates, etc. nei",Elasmobranchii,,4.05,NA,203,SeaAroundUs,Pelagic fish
+SLC,43,Caribbean spiny lobster,Panulirus argus,,3.2,0.41,NA,FishBase_ISSCAAP,Crustaceans
+SLD,33,Santer seabream,Cheimerius nufar,,3.54,0.6,61.08,FishBase_ISSCAAP,Demersal fish
+SLF,33,Carpenter seabream,Argyrozona argyrozona,,3.46,0.45,77.37,FishBase_ISSCAAP,Demersal fish
+SLI,32,Spanish ling,Molva macrophthalma,,4.5,NA,NA,SeaAroundUs,Demersal fish
+SLL,33,Slinger seabream,Chrysoblephus puniceus,,3.5,NA,NA,FishBase,Demersal fish
+SLM,33,Salema,Sarpa salpa,,2,0,51,FishBase_ISSCAAP,Demersal fish
+SLN,43,Natal spiny lobster,Palinurus delagoae,,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+SLO,43,Common spiny lobster,Palinurus elephas,,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+SLS,43,Southern spiny lobster,Palinurus gilchristi,南非真龙虾,2.6,0.33,NA,FishBase_ISSCAAP,Crustaceans
+SLT,36,Slender tuna,Allothunnus fallai,,3.74,0.59,102.69,FishBase_ISSCAAP,Pelagic fish
+SLV,43,Tropical spiny lobsters nei,Panulirus spp,,2.8,0.65,NA,FishBase_ISSCAAP,Crustaceans
+SLX,23,Salmonoids nei,Salmonoidei,,3.56,0.05,69,FishBase_ISSCAAP,Pelagic fish
+SLZ,23,Salmonids nei,Salmonidae,,3.56,0.05,60.337,FishBase_ISSCAAP,Pelagic fish
+SMA,38,Shortfin mako,Isurus oxyrinchus,,4.5,0.72,392,FishBase_ISSCAAP,Pelagic fish
+SMC,33,Smoothmouth sea catfish,Carlarius heudelotii,,3.77,NA,NA,SeaAroundUs,Demersal fish
+SMD,38,Smooth-hound,Mustelus mustelus,星鲨,3.83,0.5,164,FishBase_ISSCAAP,Demersal fish
+SME,23,European smelt,Osmerus eperlanus,,3,0,39.62,FishBase_ISSCAAP,Pelagic fish
+SMQ,33,Cabezon,Scorpaenichthys marmoratus,,3.62,0.47,81.18,FishBase_ISSCAAP,Demersal fish
+SMR,23,Rainbow smelt,Osmerus mordax,,3,0.02,28.09,FishBase_ISSCAAP,Pelagic fish
+SMX,23,Smelts nei,"Osmerus spp, Hypomesus spp",,3.18,0.04,33,FishBase_ISSCAAP,Pelagic fish
+SNA,33,Snappers nei,Lutjanus spp,,4,0.04,50,FishBase_ISSCAAP,Demersal fish
+SNC,33,Southern red snapper,Lutjanus purpureus,,3.58,0.58,86.1,FishBase_ISSCAAP,Demersal fish
+SNE,52,False abalone,Concholepas concholepas,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+SNK,34,Snoek,Thyrsites atun,,3.74,0.6,200,FishBase_ISSCAAP,Demersal fish
+SNL,33,Lane snapper,Lutjanus synagris,,3.82,0.62,49.2,FishBase_ISSCAAP,Demersal fish
+SNO,33,Common snook,Centropomus undecimalis,,4.41,0.78,110.04,FishBase_ISSCAAP,Demersal fish
+SNR,33,Northern red snapper,Lutjanus campechanus,,4.01,0.59,79.3,FishBase_ISSCAAP,Demersal fish
+SNS,34,Longspine snipefish,Macroramphosus scolopax,,3.47,0.4,16.42,FishBase_ISSCAAP,Demersal fish
+SNU,33,Russell's snapper,Lutjanus russellii,路氏笛鲷,4.31,0.75,41,FishBase_ISSCAAP,Demersal fish
+SNW,33,White steenbras,Lithognathus lithognathus,,2.92,0.4,164,FishBase_ISSCAAP,Demersal fish
+SNX,33,"Snappers, jobfishes nei",Lutjanidae,,3.97,0.03,71,FishBase_ISSCAAP,Demersal fish
+SNY,33,Yellowtail snapper,Ocyurus chrysurus,,3.99,0.67,85.01,FishBase_ISSCAAP,Demersal fish
+SOA,31,Southeast Atlantic soles nei,Austroglossus spp,,3.76,0.28,55,FishBase_ISSCAAP,Demersal fish
+SOC,23,Sockeye(=Red) salmon,Oncorhynchus nerka,红大麻哈鱼,3.73,0.39,76.44,FishBase_ISSCAAP,Pelagic fish
+SOE,31,Mud sole,Austroglossus pectoralis,,4.03,0.63,53.7,FishBase_ISSCAAP,Demersal fish
+SOI,56,"Razor clams, knife clams nei",Solenidae,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+SOK,45,Kolibri shrimp,Solenocera agassizii,,2.2,0.23,NA,FishBase_ISSCAAP,Crustaceans
+SOL,31,Common sole,Solea solea,欧洲鳎,3.13,0.32,70,FishBase_ISSCAAP,Demersal fish
+SOM,13,Wels(=Som) catfish,Silurus glanis,欧鲶,4.37,0.67,410,FishBase_ISSCAAP,Freshwater fish
+SOO,31,,Solea spp,,3.26,0.07,30.113,FishBase_ISSCAAP,Demersal fish
+SOP,45,Southern pink shrimp,Penaeus notialis,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+SOS,31,Sand sole,Pegusa lascaris,,3.19,0.4,40,FishBase_ISSCAAP,Demersal fish
+SOW,31,West coast sole,Austroglossus microlepis,,3.48,0.45,65.55,FishBase_ISSCAAP,Demersal fish
+SOX,31,Soles nei,Soleidae,,3.41,0.03,47,FishBase_ISSCAAP,Demersal fish
+SOY,33,So-iny (redlip) mullet,Liza haematocheilus,粗唇鲻属,2.5,0.19,53,FishBase_ISSCAAP,Demersal fish
+SPA,33,Spadefishes nei,Ephippidae,,3.51,0.19,58,FishBase_ISSCAAP,Demersal fish
+SPC,33,Picarel,Spicara smaris,细鳞棒鲈,3,0.04,16.22,FishBase_ISSCAAP,Demersal fish
+SPF,36,Longbill spearfish,Tetrapturus pfluegeri,,4.28,0.65,247.65,FishBase_ISSCAAP,Pelagic fish
+SPG,34,Canary rockfish,Sebastes pinniger,翼平鮋,3.8,0.61,66.75,FishBase_ISSCAAP,Demersal fish
+SPH,33,Sheepshead,Archosargus probatocephalus,,3.53,0.53,74.62,FishBase_ISSCAAP,Demersal fish
+SPI,33,Spinefeet(=Rabbitfishes) nei,Siganus spp,篮子鱼属未定种,2.31,0.07,31,FishBase_ISSCAAP,Demersal fish
+SPL,38,Scalloped hammerhead,Sphyrna lewini,,4.08,0.62,352.6,FishBase_ISSCAAP,Pelagic fish
+SPR,35,European sprat,Sprattus sprattus,,3,0,16,FishBase_ISSCAAP,Pelagic fish
+SPS,33,Spotted sicklefish,Drepane punctata,,3.32,0.42,38.52,FishBase_ISSCAAP,Demersal fish
+SPT,33,Spot croaker,Leiostomus xanthurus,,3.94,0.38,29.52,FishBase_ISSCAAP,Demersal fish
+SPU,33,Spotted seabass,Dicentrarchus punctatus,,3.94,0.65,57.4,FishBase_ISSCAAP,Demersal fish
+SPX,74,Salps,Salpidae,,3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+SPY,38,"Hammerhead sharks, etc. nei",Sphyrnidae,,4.09,0.1,305,FishBase_ISSCAAP,Pelagic fish
+SPZ,38,Smooth hammerhead,Sphyrna zygaena,,4.5,0.79,410,FishBase_ISSCAAP,Pelagic fish
+SQA,57,Argentine shortfin squid,Illex argentinus,,3.8,0.55,NA,FishBase_ISSCAAP,Cephalopods
+SQC,57,Common squids nei,Loligo spp,,3.5,0.37,NA,FishBase_ISSCAAP,Cephalopods
+SQE,57,European flying squid,Todarodes sagittatus,,4.01,0.68,NA,FishBase_ISSCAAP,Cephalopods
+SQF,57,Veined squid,Loligo forbesii,纹理枪乌贼,3.5,NA,NA,FishBase_ISSCAAP,Cephalopods
+SQG,57,Angolan flying squid,Todarodes angolensis,,4.01,NA,NA,SeaAroundUs,Cephalopods
+SQI,57,Northern shortfin squid,Illex illecebrosus,,3.98,0.65,NA,FishBase_ISSCAAP,Cephalopods
+SQJ,57,Japanese flying squid,Todarodes pacificus,,4.28,0.75,NA,FishBase_ISSCAAP,Cephalopods
+SQL,57,Longfin squid,Doryteuthis (Amerigo) pealeii,,3.51,0.44,NA,FishBase_ISSCAAP,Cephalopods
+SQM,57,Broadtail shortfin squid,Illex coindetii,,4.15,0.86,NA,FishBase_ISSCAAP,Cephalopods
+SQO,57,Opalescent inshore squid,Loligo opalescens,乳白枪乌贼,3.88,0.62,NA,FishBase_ISSCAAP,Cephalopods
+SQP,57,Patagonian squid,Doryteuthis (Amerigo) gahi,,3.2,0.4,NA,FishBase_ISSCAAP,Cephalopods
+SQR,57,European squid,Loligo vulgaris,真枪乌贼,4.1,0.85,NA,FishBase_ISSCAAP,Cephalopods
+SQS,57,Sevenstar flying squid,Martialia hyadesi,,4.36,0.61,NA,FishBase_ISSCAAP,Cephalopods
+SQU,57,Various squids nei,"Loliginidae, Ommastrephidae",,3.2,0.14,NA,FishBase_ISSCAAP,Cephalopods
+SQY,47,Squillids nei,Squillidae,,2.3,0.46,NA,FishBase_ISSCAAP,Crustaceans
+SQZ,57,Inshore squids nei,Loliginidae,,3.9,NA,NA,SeaAroundUs,Cephalopods
+SRA,34,Atlantic searobins,Prionotus spp,,3.83,0.14,33,FishBase_ISSCAAP,Demersal fish
+SRE,11,Rudd,Scardinius erythrophthalmus,,2.89,0.39,41.62,FishBase_ISSCAAP,Freshwater fish
+SRG,33,Sargo breams nei,Diplodus spp,,3.02,0.12,34,FishBase_ISSCAAP,Demersal fish
+SRH,35,Silver-stripe round herring,Spratelloides gracilis,,3.04,0.16,10.5,FishBase_ISSCAAP,Pelagic fish
+SRI,33,Marbled spinefoot,Siganus rivulatus,,2,0,23,FishBase_ISSCAAP,Demersal fish
+SRK,33,Painted comber,Serranus scriba,,3.82,0.62,36,FishBase_ISSCAAP,Demersal fish
+SRO,13,Amur catfish,Silurus asotus,鲶,4.5,0.8,106.6,FishBase_ISSCAAP,Freshwater fish
+SRX,38,"Rays, stingrays, mantas nei",Rajiformes,,3.69,0.01,112,FishBase_ISSCAAP,Demersal fish
+SSA,37,Atlantic silverside,Menidia menidia,,3.18,0.33,12.3,FishBase_ISSCAAP,Pelagic fish
+SSB,33,Sand steenbras,Lithognathus mormyrus,,3.42,0.5,45.18,FishBase_ISSCAAP,Demersal fish
+SSC,55,Southern Australia scallop,Pecten fumatus,南澳洲扇贝,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+SSD,56,Surf clams nei,Spisula spp,,2.1,NA,NA,FishBase_ISSCAAP,"Molluscs, other"
+SSE,74,Red sea squirt,Pyura chilensis,,3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+SSH,45,Scarlet shrimp,Aristaeopsis edwardsiana,,2.3,0.24,NA,FishBase_ISSCAAP,Crustaceans
+SSI,34,Blackfin icefish,Chaenocephalus aceratus,,3.47,0.5,59.04,FishBase_ISSCAAP,Demersal fish
+SSM,36,Atlantic Spanish mackerel,Scomberomorus maculatus,,4.5,0.74,88,FishBase_ISSCAAP,Pelagic fish
+SSO,34,Smooth oreo dory,Pseudocyttus maculatus,,3.61,0.567,55.76,FishBase_ISSCAAP,Demersal fish
+SSP,36,Shortbill spearfish,Tetrapturus angustirostris,,4.5,0.76,188.6,FishBase_ISSCAAP,Pelagic fish
+SSW,34,Angola rockfish,Scorpaena angolensis,,3.69,NA,NA,SeaAroundUs,Demersal fish
+SSX,74,Ascidiaceans,Ascidiacea,,3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+STA,12,Three spotted tilapia,Oreochromis andersonii,,2.022,0.042,48.88,FishBase_ISSCAAP,Freshwater fish
+STB,25,Striped bass,Morone saxatilis,,4.5,0.8,164,FishBase_ISSCAAP,Demersal fish
+STC,42,Black stone crab,Menippe mercenaria,,2.6,0.3,NA,FishBase_ISSCAAP,Crustaceans
+STF,76,Starfishes nei,Asteroidea,,3.4,NA,NA,SeaAroundUs,"Aquatic animals, other"
+STG,33,Squeteague(=Gray weakfish),Cynoscion regalis,犬牙石首鱼,3.77,0.42,80.36,FishBase_ISSCAAP,Demersal fish
+STH,76,Red starfish,Asterias rubens,,2.3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+STI,38,Stingrays nei,Dasyatis spp,,3.61,0.06,174.31,FishBase_ISSCAAP,Demersal fish
+STL,35,Buccaneer anchovy,Encrasicholina punctifer,布氏半棱鳀,3.25,0.36,10.78,FishBase_ISSCAAP,Pelagic fish
+STO,35,Stolephorus anchovies nei,Stolephorus spp,,3.23,0.04,10,FishBase_ISSCAAP,Pelagic fish
+STS,36,Streaked seerfish,Scomberomorus lineolatus,,4.5,0.8,78.08,FishBase_ISSCAAP,Pelagic fish
+STT,38,"Stingrays, butterfly rays nei",Dasyatidae,,3.63,0.04,40,FishBase_ISSCAAP,Demersal fish
+STU,21,Sturgeons nei,Acipenseridae,鲟类,3.41,0.07,138,FishBase_ISSCAAP,Freshwater fish
+STV,13,Walleye,Sander vitreus,大眼梭鲈,4.46,0.79,94.59,FishBase_ISSCAAP,Freshwater fish
+STW,33,Steenbrasses nei,Lithognathus spp,,3.24,0.16,123,FishBase_ISSCAAP,Demersal fish
+STZ,34,Giant stargazer,Kathetostoma giganteum,平头竖口鰧,4.57,0.78,73.8,FishBase_ISSCAAP,Demersal fish
+SUC,38,Pacific angelshark,Squatina californica,加州扁鲨,4.14,0.56,124.64,FishBase_ISSCAAP,Demersal fish
+SUG,38,Argentine angelshark,Squatina argentina,阿根廷扁鲨,4.11,0.66,156.22,FishBase_ISSCAAP,Demersal fish
+SUR,33,Surgeonfishes nei,Acanthuridae,,2.23,0.08,45,FishBase_ISSCAAP,Demersal fish
+SUS,23,Surf smelt,Hypomesus pretiosus,,3.43,0.413,25.01,FishBase_ISSCAAP,Pelagic fish
+SVC,11,Silver carp,Hypophthalmichthys molitrix,鲢,2,0,86.52,FishBase_ISSCAAP,Freshwater fish
+SVE,56,Striped venus,Chamelea gallina,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+SVF,23,Brook trout,Salvelinus fontinalis,,3.14,0.37,86,FishBase_ISSCAAP,Pelagic fish
+SVS,23,Long-finned charr,Salvethymus svetovidovi,,3.7,NA,NA,Estimate(FishBase),Freshwater fish
+SVT,56,Constricted tagelus,Sinonovacula constricta,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+SVX,47,Stomatopods nei,Stomatopoda,,4.2,NA,NA,SeaAroundUs,Crustaceans
+SWA,33,White seabream,Diplodus sargus,,3.04,0.29,36.07,FishBase_ISSCAAP,Demersal fish
+SWF,33,Spotted weakfish,Cynoscion nebulosus,云纹犬牙石首鱼,3.98,0.66,82,FishBase_ISSCAAP,Demersal fish
+SWH,34,Giant boarfish,Paristiopterus labiosus,,3.3,0.42,82,FishBase_ISSCAAP,Demersal fish
+SWM,42,"Swimming crabs, etc. nei",Portunidae,,3.4,0.47,NA,FishBase_ISSCAAP,Crustaceans
+SWO,36,Swordfish,Xiphias gladius,,4.49,0.57,448.61,FishBase_ISSCAAP,Pelagic fish
+SWU,33,Sculpins nei,Cottidae,,3.39,0.03,14.386,FishBase_ISSCAAP,Demersal fish
+SXU,13,Dorado,Salminus brasiliensis,大颚小脂鲤,3.79,0.61,100,FishBase_ISSCAAP,Freshwater fish
+SYC,38,Small-spotted catshark,Scyliorhinus canicula,小点猫鲨,3.69,0.55,82,FishBase_ISSCAAP,Demersal fish
+SYN,34,Blackmouth splitfin,Synagrops japonicus,光棘尖牙鲷,4.27,0.73,35,FishBase_ISSCAAP,Demersal fish
+SYR,38,Knifetooth dogfish,Scymnodon ringens,尖齿异鳞鲨,3.88,0.61,87.57,FishBase_ISSCAAP,Pelagic fish
+SYT,38,Nursehound,Scyliorhinus stellaris,,4.03,0.53,139.4,FishBase_ISSCAAP,Demersal fish
+SYX,38,"Catsharks, etc. nei",Scyliorhinidae,,3.92,0.03,97,FishBase_ISSCAAP,Demersal fish
+SZC,13,Sauger,Sander canadensis,加拿大梭鲈,4.06,0.68,68.94,FishBase_ISSCAAP,Freshwater fish
+SZF,13,,Schizodon fasciatus,,2.48,0.2,32.8,FishBase_ISSCAAP,Freshwater fish
+SZH,33,Sobaity seabream,Sparidentex hasta,矛鲷,3.39,0.44,41,FishBase_ISSCAAP,Demersal fish
+SZM,23,Japanese icefish,Salangichthys microdon,,3.68,0.57,8.2,FishBase_ISSCAAP,Demersal fish
+TAI,33,Indo-Pacific tarpon,Megalops cyprinoides,,3.3,0.51,108.75,FishBase_ISSCAAP,Demersal fish
+TAK,34,Tarakihi,Nemadactylus macropterus,,3.41,0.42,59.5,FishBase_ISSCAAP,Demersal fish
+TAP,37,Paloma pompano,Trachinotus paitensis,美洲鲳鲹,3.74,NA,NA,SeaAroundUs,Pelagic fish
+TAR,33,Tarpon,Megalops atlanticus,,4.5,0.8,199,FishBase_ISSCAAP,Demersal fish
+TAU,33,Tautog,Tautoga onitis,,3.32,0.473,78.26,FishBase_ISSCAAP,Demersal fish
+TBR,33,Goldsinny-wrasse,Ctenolabrus rupestris,梳隆头鱼,3.35,0.51,15.86,FishBase_ISSCAAP,Demersal fish
+TCL,56,Taca clam,Leukoma thaca,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+TDQ,57,Lesser flying squid,Todaropsis eblanae,小柔鱼,4.25,NA,NA,SeaAroundUs,Cephalopods
+TEH,33,Largescaled terapon,Terapon theraps,,3.5,NA,NA,SeaAroundUs,Demersal fish
+TEJ,33,Giant seabass,Stereolepis gigas,巨尖鳞鲈,4.5,0.8,217.96,FishBase_ISSCAAP,Demersal fish
+TFD,33,"Toadfishes, etc. nei",Batrachoididae,,3.67,0.03,21.68,FishBase_ISSCAAP,Demersal fish
+TFG,33,Spotted scat,Scatophagus argus,金钱鱼,3,NA,NA,SeaAroundUs,Demersal fish
+TFQ,76,Prickly redfish,Thelenota ananas,,2.3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+TGA,33,Giant African threadfin,Polydactylus quadrifilis,,4.01,0.66,151,FishBase_ISSCAAP,Demersal fish
+TGH,13,Three spot gourami,Trichopodus trichopterus,,2.68,0.23,15,FishBase_ISSCAAP,Freshwater fish
+TGQ,33,Fourhorn sculpin,Myoxocephalus quadricornis,,3.69,NA,NA,SeaAroundUs,Demersal fish
+TGS,45,Caramote prawn,Penaeus kerathurus,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+TGZ,56,Dombey's tagelus,Tagelus dombeii,董氏截蛏,2,NA,NA,SeaAroundUs,"Molluscs, other"
+THA,35,Atlantic thread herring,Opisthonema oglinum,,4.5,0,29.45,FishBase_ISSCAAP,Pelagic fish
+THB,33,Threadfin breams nei,Nemipterus spp,,3.77,0.05,21,FishBase_ISSCAAP,Demersal fish
+THD,33,Threadfin and dwarf breams nei,Nemipteridae,,3.69,0.04,29,FishBase_ISSCAAP,Demersal fish
+THE,33,Tigerperches nei,Terapontidae,,3.64,NA,NA,SeaAroundUs,Demersal fish
+THF,33,"Threadfins, tasselfishes nei",Polynemidae,,3.67,0.03,98,FishBase_ISSCAAP,Demersal fish
+THG,33,Golden threadfin bream,Nemipterus virgatus,,3.99,0.57,35,FishBase_ISSCAAP,Demersal fish
+THJ,38,Japanese topeshark,Hemitriakis japanica,日本半皱唇鲨,4.41,0.59,98.4,FishBase_ISSCAAP,Demersal fish
+THO,33,Terapon perches nei,Terapon spp,,3.5,0.23,24.722,FishBase_ISSCAAP,Demersal fish
+THP,35,Pacific thread herring,Opisthonema libertate,,2.89,0.28,23.31,FishBase_ISSCAAP,Pelagic fish
+THQ,43,Flathead lobster,Thenus orientalis,东方扁虾,2.5,NA,NA,SeaAroundUs,Crustaceans
+THR,38,Thresher sharks nei,Alopias spp,,4.5,0,416,FishBase_ISSCAAP,Pelagic fish
+THS,31,Thickback soles nei,Microchirus spp,,3.21,0.04,20,FishBase_ISSCAAP,Demersal fish
+THX,35,Thread herrings nei,Opisthonema spp,,3.7,NA,NA,Estimate(SeaAroundUs),Pelagic fish
+TIL,34,Great Northern tilefish,Lopholatilus chamaeleonticeps,,3.45,0.39,113.62,FishBase_ISSCAAP,Demersal fish
+TIP,45,Green tiger prawn,Penaeus semisulcatus,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+TIS,34,Tilefishes nei,Latilidae,,3.61,0.05,102,FishBase_ISSCAAP,Demersal fish
+TIT,45,Pacific seabob,Xiphopenaeus riveti,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+TLL,12,Sabaki tilapia,Oreochromis spilurus,,2.6,0.35,19.2,FishBase_ISSCAAP,Freshwater fish
+TLM,12,Mozambique tilapia,Oreochromis mossambicus,,2,0,39,FishBase_ISSCAAP,Freshwater fish
+TLN,12,Nile tilapia,Oreochromis niloticus,,2,0,60,FishBase_ISSCAAP,Freshwater fish
+TLP,12,Tilapias nei,Oreochromis spp,,2.22,0.05,30,FishBase_ISSCAAP,Freshwater fish
+TLR,12,Redbreast tilapia,Coptodon rendalli,,2.18,0.21,37.8,FishBase_ISSCAAP,Freshwater fish
+TLV,23,Grayling,Thymallus thymallus,,3.1,0.4,52.07,FishBase_ISSCAAP,Freshwater fish
+TLZ,12,Redbelly tilapia,Tilapia zillii,,2,0,40,FishBase_ISSCAAP,Freshwater fish
+TMB,37,Southwest Atlantic butterfish,Stromateus brasiliensis,,3.4,0.45,37.59,FishBase_ISSCAAP,Pelagic fish
+TOA,34,Antarctic toothfish,Dissostichus mawsoni,,4.45,0.78,143.5,FishBase_ISSCAAP,Demersal fish
+TOC,12,Oscar,Astronotus ocellatus,图丽鱼(地图鱼),2.83,0.32,37.47,FishBase_ISSCAAP,Freshwater fish
+TOL,24,Toli shad,Tenualosa toli,,2.48,0,46.52,FishBase_ISSCAAP,Pelagic fish
+TOM,32,Atlantic tomcod,Microgadus tomcod,,3.26,0.5,34.1,FishBase_ISSCAAP,Demersal fish
+TON,37,Blackblotch pompano,Trachinotus kennedyi,肯氏鲳鲹,3.76,NA,NA,FishBase,Pelagic fish
+TOP,34,Patagonian toothfish,Dissostichus eleginoides,,3.96,0.68,176.3,FishBase_ISSCAAP,Demersal fish
+TOQ,52,Helmet ton,Tonna galea,盔鹑螺,2,NA,NA,SeaAroundUs,"Molluscs, other"
+TOS,52,Horned turban,Turbo cornutus,角蝾螺,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+TOX,31,Tonguefishes,Cynoglossidae,,3.42,0.03,19,FishBase_ISSCAAP,Demersal fish
+TPA,37,Dealfish,Trachipterus arcticus,,4.5,0.62,277.7,FishBase_ISSCAAP,Pelagic fish
+TPQ,45,Coarse shrimp,Megokris granulosus,柱突鹰爪虾,3.31,NA,NA,Estimate(SeaAroundUs),Crustaceans
+TPS,56,Carpet shells nei,Ruditapes spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+TPT,34,Sandpaper fish,Paratrachichthys trailli,,3.5,0.5,24.6,FishBase_ISSCAAP,Demersal fish
+TPU,13,,Triportheus angulatus,,2.68,0.3,16.3,FishBase_ISSCAAP,Freshwater fish
+TQO,56,Slender cockle,Trachycardium procerum,细弱鸟尾蛤,2,NA,NA,Estimate(SeaAroundUs),"Molluscs, other"
+TQY,55,Pen shells nei,Atrina spp,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+TQZ,56,Pacific horse clams nei,Tresus spp,,2.03,NA,NA,SeaAroundUs,"Molluscs, other"
+TRA,33,Weeverfishes nei,Trachinidae,,4.3,0.11,43,FishBase_ISSCAAP,Demersal fish
+TRC,34,Slimeheads nei,Trachichthyidae,,3.72,0.12,57,FishBase_ISSCAAP,Demersal fish
+TRE,37,"Jacks, crevalles nei",Caranx spp,,4.05,0.08,77,FishBase_ISSCAAP,Pelagic fish
+TRF,37,False trevally,Lactarius lactarius,,3.97,0.57,32.04,FishBase_ISSCAAP,Pelagic fish
+TRG,33,Grey triggerfish,Balistes capriscus,,3.55,0.5,52.96,FishBase_ISSCAAP,Demersal fish
+TRI,33,"Triggerfishes, durgons nei",Balistidae,,3.27,0.06,53,FishBase_ISSCAAP,Demersal fish
+TRL,33,Blunt scalyhead,Trematomus eulepidotus,,3.31,0.45,27.88,FishBase_ISSCAAP,Demersal fish
+TRO,23,Trouts nei,Salmo spp,,3.66,0.15,104,FishBase_ISSCAAP,Pelagic fish
+TRP,37,Dealfishes,Trachipterus spp,,4.06,0.25,201.62,FishBase_ISSCAAP,Pelagic fish
+TRR,23,Rainbow trout,Oncorhynchus mykiss,虹鳟,4.42,0.38,108,FishBase_ISSCAAP,Pelagic fish
+TRS,23,Sea trout,Salmo trutta,,3.155,0.424,140,FishBase_ISSCAAP,Pelagic fish
+TRU,34,Trumpeters nei,Latridae,,3.65,0.21,74,FishBase_ISSCAAP,Demersal fish
+TRV,45,Southern rough shrimp,Trachysalambria curvirostris,鹰爪虾,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+TRX,37,Ribbonfishes,Trachipteridae,粗鳍鱼科,4.5,NA,NA,SeaAroundUs,Pelagic fish
+TRY,37,Yellowstripe scad,Selaroides leptolepis,,3.53,0.47,19.5,FishBase_ISSCAAP,Pelagic fish
+TRZ,37,White trevally,Pseudocaranx dentex,纵带鲹,3.92,0.68,95.4,FishBase_ISSCAAP,Pelagic fish
+TSD,24,Twaite shad,Alosa fallax,,3.59,0.596,60,FishBase_ISSCAAP,Pelagic fish
+TSQ,57,Wellington flying squid,Nototodarus sloanii,,3.2,0.14,NA,FishBase_ISSCAAP,Cephalopods
+TSU,32,Roughsnout grenadier,Trachyrincus scabrus,,3.47,0.49,49.2,FishBase_ISSCAAP,Demersal fish
+TTH,72,Hawksbill turtle,Eretmochelys imbricata,玳瑁,3,NA,NA,Estimate,"Aquatic animals, other"
+TTL,72,Loggerhead turtle,Caretta caretta,蠵龟,3,NA,NA,Estimate,"Aquatic animals, other"
+TTS,72,Chinese softshell turtle,Trionyx sinensis,中华鳖,3,NA,NA,Estimate,"Aquatic animals, other"
+TTX,72,Marine turtles nei,Testudinata,海龟类,2.62,NA,NA,"Estimate(Seminoff et al., 2021. Large-scale patterns of green turtle trophic ecology in the eastern Pacific Ocean)","Aquatic animals, other"
+TUG,72,Green turtle,Chelonia mydas,绿海龟,2.62,NA,NA,"Estimate(Jeffrey et al., 2021. Large-scale patterns of green turtle trophic ecology in the eastern Pacific Ocean)","Aquatic animals, other"
+TUK,37,Indian pompano,Trachinotus mookalee,印度鲳鲹,3.72,0.5,66.24,FishBase_ISSCAAP,Pelagic fish
+TUL,72,River and lake turtles nei,Testudinata,淡水龟鳖类,3,NA,NA,Estimate,"Aquatic animals, other"
+TUM,37,Yellowtail scad,Atule mate,游鳍叶鲹,4.45,0.79,25,FishBase_ISSCAAP,Pelagic fish
+TUN,36,Tunas nei,Thunnini,,4.34,NA,NA,SeaAroundUs,Pelagic fish
+TUR,31,Turbot,Scophthalmus maximus,大菱鲆,3.96,0.63,100,FishBase_ISSCAAP,Demersal fish
+TUS,36,True tunas nei,Thunnus spp,,4.34,NA,NA,SeaAroundUs,Pelagic fish
+TUW,56,Chilean semele,Semele solida,厚壳双带蛤,2,NA,NA,SeaAroundUs,"Molluscs, other"
+TUX,36,Tuna-like fishes nei,Scombroidei,,3.43,0.01,162,FishBase_ISSCAAP,Pelagic fish
+TVM,56,Triangular tivela,Tivela mactroides,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+TWG,56,Gay's little venus,Tawera gayi,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+TWN,24,Longtail shad,Tenualosa macrura,,2.26,NA,NA,Estimate(SeaAroundUs),Pelagic fish
+TWO,33,Moon wrasse,Thalassoma lunare,,3.48,NA,NA,SeaAroundUs,Demersal fish
+TWS,33,Madamango sea catfish,Cathorops spixii,,3.47,NA,NA,SeaAroundUs,Demersal fish
+TWY,11,,Thynnichthys vaillanti,,2.64,0.25,21.65,FishBase_ISSCAAP,Freshwater fish
+TXK,33,Tiger pufferfish,Takifugu rubripes,红鳍东方鲀,3.6,NA,NA,SeaAroundUs,Demersal fish
+TXM,13,Smallscale archerfish,Toxotes microlepis,,3.15,0.46,15,FishBase_ISSCAAP,Freshwater fish
+TXV,33,Pufferfishes nei,Takifugu spp,,3.33,NA,NA,Estimate(SeaAroundUs),Demersal fish
+TXY,13,"Tambacu, hybrid",P. mesopotamicus x C. macropomum,,2.02,NA,NA,FishBase,Freshwater fish
+TXZ,13,"Tambatinga, hybrid",C. macropomum x P. brachypomus,,2.02,NA,NA,FishBase,Freshwater fish
+TZD,11,Semah mahseer,Tor douronensis,大鳞结鱼,3.02,0.36,28.7,FishBase_ISSCAAP,Freshwater fish
+TZK,34,Tanaka's snailfish,Liparis tanakae,,3.4,NA,NA,SeaAroundUs,Demersal fish
+TZO,33,Obscure pufferfish,Takifugu obscurus,暗纹东方鲀,3.6,NA,NA,SeaAroundUs,Demersal fish
+UAE,34,Zebra tilefish,Branchiostegus semifasciatus,,3.63,NA,NA,SeaAroundUs,Demersal fish
+UBA,37,Blue fathead,Cubiceps caeruleus,,3.61,NA,NA,FishBase,Pelagic fish
+UBP,37,Cape fathead,Cubiceps capensis,,3.45,0.44,82.82,FishBase_ISSCAAP,Pelagic fish
+UCA,33,Canary drum(=Baardman),Umbrina canariensis,斜纹短须石首鱼,3.37,0.44,65.28,FishBase_ISSCAAP,Demersal fish
+UCD,42,Mangrove ghost crab,Ucides occidentalis,红树林沙蟹,3.02,NA,NA,Estimate(SeaAroundUs),Crustaceans
+UCH,76,Chilean sea urchin,Loxechinus albus,智利斜海胆,2.3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+UDC,13,Spotted sorubim,Pseudoplatystoma corruscans,,4.5,0.8,136.12,FishBase_ISSCAAP,Freshwater fish
+UDF,13,Barred sorubim,Pseudoplatystoma fasciatum,,4.38,0.78,85.28,FishBase_ISSCAAP,Freshwater fish
+UDQ,44,Swarming squat lobster,Munida gregaria,集群铠虾,2.79,NA,NA,SeaAroundUs,Crustaceans
+UDT,13,Tiger sorubim,Pseudoplatystoma tigrinum,,4.5,NA,NA,FishBase,Freshwater fish
+UHL,57,Bigfin reef squid,Sepioteuthis lessoniana,莱氏拟乌贼,4.5,0.8,NA,FishBase_ISSCAAP,Cephalopods
+UHX,57,Hooked squids nei,Onykia spp,,3.96,NA,NA,SeaAroundUs,Cephalopods
+ULA,34,Bighead tilefish,Caulolatilus affinis,,3.7,NA,NA,Estimate(FishBase),Demersal fish
+ULM,34,Grey tilefish,Caulolatilus microps,,3.81,0.61,75.84,FishBase_ISSCAAP,Demersal fish
+ULO,56,Solid surf clam,Spisula solida,,2.1,NA,NA,FishBase_ISSCAAP,"Molluscs, other"
+ULP,34,Ocean whitefish,Caulolatilus princeps,大洋茎方头鱼,3.9,0.61,83.64,FishBase_ISSCAAP,Demersal fish
+UMF,33,Roundhead parrotfish,Scarus viridifucatus,,2,NA,NA,FishBase,Demersal fish
+UMX,33,Polla drum,Umbrina xanti,,3.71,NA,NA,FishBase,Demersal fish
+UNC,32,Unicorn cod,Bregmaceros mcclellandi,麦氏犀鳕,3.3,0.42,9.6,FishBase_ISSCAAP,Demersal fish
+UPH,33,Por's goatfish,Upeneus pori,,3.51,NA,NA,FishBase,Demersal fish
+UPR,33,Argentinian sandperch,Pseudopercis semifasciata,,3.88,0.68,82,FishBase_ISSCAAP,Demersal fish
+UPY,13,Sorubims nei,Pseudoplatystoma spp,,4.38,NA,NA,FishBase,Freshwater fish
+URC,76,Sea urchins nei,Strongylocentrotus spp,,2.1,NA,NA,SeaAroundUs,"Aquatic animals, other"
+URM,76,Stony sea urchin,Paracentrotus lividus,蓝石海胆,2.3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+URS,76,European edible sea urchin,Echinus esculentus,欧洲可食海胆,2.3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+URW,43,Arabian whip lobster,Puerulus sewelli,阿拉伯棱脊腹游龙虾,3,NA,NA,Estimate(SeaAroundUs),Crustaceans
+URX,76,"Sea urchins, etc. nei",Echinoidea,,2.51,NA,NA,SeaAroundUs,"Aquatic animals, other"
+USB,33,Ballan wrasse,Labrus bergylta,贝氏隆头鱼,3.07,0.3,57.63,FishBase_ISSCAAP,Demersal fish
+USK,32,Tusk(=Cusk),Brosme brosme,单鳍鳕,4,0.42,98.4,FishBase_ISSCAAP,Demersal fish
+USW,33,Gulf parrotfish,Scarus persicus,桃鹦嘴鱼,2,0,41,FishBase_ISSCAAP,Demersal fish
+USY,33,Blue-barred parrotfish,Scarus ghobban,,2,0,73.8,FishBase_ISSCAAP,Demersal fish
+UUC,34,Stargazer,Uranoscopus scaber,平头鰧,4.38,0.7,32.51,FishBase_ISSCAAP,Demersal fish
+UUS,33,Daisy parrotfish,Chlorurus sordidus,,2,NA,NA,SeaAroundUs,Demersal fish
+UVH,33,Tricolour parrotfish,Scarus tricolor,,2,NA,NA,SeaAroundUs,Demersal fish
+UYD,76,,Strongylocentrotus droebachiensis,,2.3,NA,NA,SeaAroundUs,"Aquatic animals, other"
+UZX,33,Stumpnoses nei,Rhabdosargus spp,,3.04,NA,NA,SeaAroundUs,Demersal fish
+VAD,37,Vadigo,Campogramma glaycos,,4.5,0.8,53.82,FishBase_ISSCAAP,Pelagic fish
+VAS,33,Tete sea catfish,Ariopsis seemanni,,3.57,NA,NA,SeaAroundUs,Demersal fish
+VBE,11,African scraping feeder,Varicorhinus beso,,3.2,NA,NA,Estimate(FishBase),Freshwater fish
+VEP,35,Pacific anchoveta,Cetengraulis mysticetus,,2.47,0.21,14.76,FishBase_ISSCAAP,Pelagic fish
+VET,35,Anchoveta(=Peruvian anchovy),Engraulis ringens,秘鲁鳀,2.7,0.32,20,FishBase_ISSCAAP,Pelagic fish
+VEV,56,Warty venus,Venus verrucosa,疣帘蛤,2,NA,NA,SeaAroundUs,"Molluscs, other"
+VIV,11,Vimba bream,Vimba vimba,,3.16,0.37,41,FishBase_ISSCAAP,Freshwater fish
+VLO,43,Spiny lobsters nei,Palinuridae,,3.2,0.41,NA,FishBase_ISSCAAP,Crustaceans
+VMA,37,Atlantic chub mackerel,Scomber colias,,3.91,NA,NA,SeaAroundUs,Pelagic fish
+VMH,33,Bluespot mullet,Valamugil seheli,圆吻凡鲻,2.32,0.14,50.46,FishBase_ISSCAAP,Demersal fish
+VNR,56,Banded carpet shell,Polititapes rhomboides,条带蛤仔,2,NA,NA,SeaAroundUs,"Molluscs, other"
+VRL,33,Yellow-edged lyretail,Variola louti,侧牙鲈,4.33,0.76,60,FishBase_ISSCAAP,Demersal fish
+VSC,55,Variegated scallop,Mimachlamys varia,,2.1,0.29,NA,FishBase_ISSCAAP,"Molluscs, other"
+VUC,56,Corrugated venus,Venerupis corrugata,皱纹蛤仔,2.1,NA,NA,SeaAroundUs,"Molluscs, other"
+WAA,13,Wallago,Wallago attu,叉尾鲶,3.68,0.56,196.8,FishBase_ISSCAAP,Freshwater fish
+WAH,36,Wahoo,Acanthocybium solandri,,4.4,0.77,226.92,FishBase_ISSCAAP,Pelagic fish
+WDX,11,,Carassius spp,鲫类,2,NA,NA,FishBase,Freshwater fish
+WEG,33,Greater weever,Trachinus draco,,4.18,0.71,45.22,FishBase_ISSCAAP,Demersal fish
+WEM,33,Totoaba,Totoaba macdonaldi,麦氏犬牙石首鱼,4.06,0.7,164,FishBase_ISSCAAP,Demersal fish
+WEP,33,Peruvian weakfish,Cynoscion analis,,4.15,0.71,38.54,FishBase_ISSCAAP,Demersal fish
+WEW,33,White weakfish,Atractoscion nobilis,有名锤形石首鱼,3.21,0.4,133.46,FishBase_ISSCAAP,Demersal fish
+WEX,33,Weevers nei,Trachinus spp,,4.18,0,41,FishBase_ISSCAAP,Demersal fish
+WGR,32,Whitson's grenadier,Macrourus whitsoni,,3.47,0.49,72.75,FishBase_ISSCAAP,Demersal fish
+WHA,34,Hapuku wreckfish,Polyprion oxygeneios,,4.45,0.77,123,FishBase_ISSCAAP,Demersal fish
+WHB,32,Blue whiting(=Poutassou),Micromesistius poutassou,小鳍鳕,4.01,0.68,41.75,FishBase_ISSCAAP,Demersal fish
+WHE,52,Whelk,Buccinum undatum,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+WHF,23,Whitefishes nei,Coregonus spp,,3.3,0.04,49,FishBase_ISSCAAP,Pelagic fish
+WHG,32,Whiting,Merlangius merlangus,,4.37,0.77,63.35,FishBase_ISSCAAP,Demersal fish
+WHL,23,Lake(=Common) whitefish,Coregonus clupeaformis,鲱形白鲑,3.14,0.37,88.4,FishBase_ISSCAAP,Freshwater fish
+WHM,36,Atlantic white marlin,Kajikia albida,,4.48,0.71,246,FishBase_ISSCAAP,Pelagic fish
+WHR,34,Mocosa ruff,Schedophilus haedrichi,,4.1,NA,NA,Estimate(FishBase),Demersal fish
+WHS,33,Sillago-whitings,Sillaginidae,,3.29,0.03,25,FishBase_ISSCAAP,Demersal fish
+WHX,52,Whelks,Busycon spp,,2.1,0.13,NA,FishBase_ISSCAAP,"Molluscs, other"
+WIC,34,Spiny icefish,Chaenodraco wilsoni,,3.32,0.45,35.26,FishBase_ISSCAAP,Demersal fish
+WIT,31,Witch flounder,Glyptocephalus cynoglossus,,3.14,0.26,60,FishBase_ISSCAAP,Demersal fish
+WIX,13,Heterobranchus catfish nei,Heterobranchus spp,,3.7,NA,NA,Estimate(FishBase),Freshwater fish
+WJT,52,Knobbed whelk,Busycon carica,,3.23,NA,NA,SeaAroundUs,"Molluscs, other"
+WKB,33,Smalltooth weakfish,Cynoscion steindachneri,,3.25,NA,NA,SeaAroundUs,Demersal fish
+WKK,33,King weakfish,Macrodon ancylodon,,3.9,0.65,36.4,FishBase_ISSCAAP,Demersal fish
+WKP,45,Western king prawn,Penaeus latisulcatus,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+WKQ,52,Channeled whelk,Busycotypus canaliculatus,,3.23,NA,NA,SeaAroundUs,"Molluscs, other"
+WKS,33,Striped weakfish,Cynoscion striatus,,3.9,0.64,49.2,FishBase_ISSCAAP,Demersal fish
+WKX,33,Weakfishes nei,Cynoscion spp,,4.1,0.07,65,FishBase_ISSCAAP,Demersal fish
+WOR,77,Marine worms,Polychaeta,,2.5,NA,NA,Estimate,"Aquatic animals, other"
+WPM,37,Pacific harvestfish,Peprilus medius,,4,NA,NA,Estimate(SeaAroundUs),Pelagic fish
+WPU,11,,Puntioplites waandersi,,2.36,0.2,41.41,FishBase_ISSCAAP,Freshwater fish
+WRA,33,"Wrasses, hogfishes, etc. nei",Labridae,,3.43,0.03,53,FishBase_ISSCAAP,Demersal fish
+WRF,34,Wreckfish,Polyprion americanus,美洲多锯鲈,4.14,0.64,180.81,FishBase_ISSCAAP,Demersal fish
+WRO,34,Widow rockfish,Sebastes entomelas,,3.68,0.56,49.2,FishBase_ISSCAAP,Demersal fish
+WRR,35,Whitehead's round herring,Etrumeus whiteheadi,,3.4,0.45,20,FishBase_ISSCAAP,Pelagic fish
+WSA,33,Blacktail comber,Serranus atricauda,,4.27,NA,NA,SeaAroundUs,Demersal fish
+WSD,51,Chinese pond mussel,Sinanodonta woodiana,背角无齿蚌,2,NA,NA,Estimate(SeaAroundUs),"Molluscs, other"
+WSN,33,White stumpnose,Rhabdosargus globiceps,,2.87,0.4,53.3,FishBase_ISSCAAP,Demersal fish
+WST,38,Whip stingray,Hemitrygon akajei,,3.84,0.58,164,FishBase_ISSCAAP,Demersal fish
+WUB,11,Wuchang bream,Megalobrama amblycephala,团头鲂,2.72,0.31,164,FishBase_ISSCAAP,Freshwater fish
+WWP,45,Western white shrimp,Penaeus occidentalis,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+XAE,13,,Alestes spp,,3.1,NA,NA,Estimate(FishBase),Freshwater fish
+XBX,33,,Paralabrax spp,,4.04,0.16,NA,FishBase_ISSCAAP,Demersal fish
+XES,13,,Xenocharax spilurus,,2.9,NA,NA,Estimate(FishBase),Freshwater fish
+XHC,13,"Hetero-Clarias catfish, hybrid",H. longifilis x C. gariepinus,长丝异鳃鲶-尖齿胡鲶杂交种,3.42,NA,NA,FishBase,Freshwater fish
+XKX,45,Plesionika shrimps nei,Plesionika spp,,3.37,NA,NA,SeaAroundUs,Crustaceans
+XML,56,Semeles nei,Semele spp,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+XPO,37,Silver pomfrets nei,Pampus spp,,3.36,0.24,41,FishBase_ISSCAAP,Pelagic fish
+XYN,33,Pearly razorfish,Xyrichtys novacula,,3.14,0.32,2.19,FishBase_ISSCAAP,Demersal fish
+YAR,42,Green mud crab,Scylla paramamosain,,3.17,NA,NA,SeaAroundUs,Crustaceans
+YBB,12,Yellow-belly bream,Serranochromis robustus,,4.14,0.67,45.92,FishBase_ISSCAAP,Freshwater fish
+YBC,52,Pig's snout volute,Cymbium cymbium,猪吻仿杯螺,3.23,NA,NA,SeaAroundUs,"Molluscs, other"
+YBQ,38,Smallnose fanskate,Sympterygia bonapartii,,3.9,NA,NA,SeaAroundUs,Demersal fish
+YBX,42,Charybdis crabs nei,Charybdis spp,,2.7,NA,NA,SeaAroundUs,Crustaceans
+YCA,11,Beardless barb,Cyclocheilichthys apogon,,2.82,0.34,20.5,FishBase_ISSCAAP,Freshwater fish
+YCH,13,Yellow catfish,Pelteobagrus fulvidraco,黄颡鱼,3.23,0.41,28.29,FishBase_ISSCAAP,Freshwater fish
+YCQ,11,,Cyclocheilichthys armatus,,3.38,0.45,23,FishBase_ISSCAAP,Freshwater fish
+YEL,31,Yellowtail flounder,Limanda ferruginea,,3.22,0.39,52.93,FishBase_ISSCAAP,Demersal fish
+YES,31,Yellowfin sole,Limanda aspera,,3.24,0.36,40.18,FishBase_ISSCAAP,Demersal fish
+YEU,45,Trachypenaeus shrimps nei,Trachypenaeus spp,,2.7,NA,NA,Estimate(SeaAroundUs),Crustaceans
+YEZ,33,Great sandeel,Hyperoplus lanceolatus,,3.98,NA,NA,FishBase,Demersal fish
+YFH,33,California sheephead,Semicossyphus pulcher,美丽羊头鱼,3.56,0.43,75.65,FishBase_ISSCAAP,Demersal fish
+YFL,31,Yellow striped flounder,Pseudopleuronectes herzenst.,,3.15,0.43,50,FishBase_ISSCAAP,Demersal fish
+YFM,33,Corkwing wrasse,Symphodus melops,,3.18,0.42,28,FishBase_ISSCAAP,Demersal fish
+YFN,41,Changallo shrimp,Cryphiops caementarius,鬓隐沼虾,2.7,NA,NA,Estimate,Crustaceans
+YFT,36,Yellowfin tuna,Thunnus albacares,,4.34,0.71,230.87,FishBase_ISSCAAP,Pelagic fish
+YFX,33,Symphodus wrasses nei,Symphodus spp,,3.39,NA,NA,SeaAroundUs,Demersal fish
+YGC,33,Stripped weakfish,Cynoscion guatucupa,,4.2,NA,NA,SeaAroundUs,Demersal fish
+YGX,51,,Polymesoda spp,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+YHX,11,,Hypsibarbus spp,,3.3,NA,NA,Estimate(FishBase),Freshwater fish
+YII,45,Pacific rock shrimp,Sicyonia ingentis,太平洋单肢虾,2.6,NA,NA,SeaAroundUs,Crustaceans
+YJN,33,Star-studded grouper,Hyporthodus niphobles,,3.8,NA,NA,Estimate(FishBase),Demersal fish
+YJS,52,Spiral babylon,Babylonia spirata,深沟凤螺,3.06,NA,NA,Estimate(SeaAroundUs),"Molluscs, other"
+YLL,43,Mediterranean slipper lobster,Scyllarides latus,宽体拟蝉虾,3.37,NA,NA,SeaAroundUs,Crustaceans
+YLP,31,God's flounder,Cyclopsetta panamensis,,3.6,NA,NA,Estimate(FishBase),Demersal fish
+YLQ,31,Toothed flounder,Cyclopsetta querna,,3.97,NA,NA,SeaAroundUs,Demersal fish
+YLU,43,Blunt slipper lobster,Scyllarides squammosus,鳞突拟蝉虾,2.87,NA,NA,SeaAroundUs,Crustaceans
+YLW,42,Orange mud crab,Scylla olivacea,,3.17,NA,NA,SeaAroundUs,Crustaceans
+YNA,33,Acoupa weakfish,Cynoscion acoupa,,4.05,0.7,90.2,FishBase_ISSCAAP,Demersal fish
+YNE,33,Smooth weakfish,Cynoscion leiarchus,,4.09,0.61,74.46,FishBase_ISSCAAP,Demersal fish
+YNH,33,Cachema weakfish,Cynoscion phoxocephalus,,3.83,NA,NA,FishBase,Demersal fish
+YNJ,33,Jamaica weakfish,Cynoscion jamaicensis,,4.21,0.74,41,FishBase_ISSCAAP,Demersal fish
+YNL,33,Whitefin weakfish,Cynoscion albus,,4.19,NA,NA,FishBase,Demersal fish
+YNR,33,Sand weakfish,Cynoscion arenarius,,4.28,0.76,52.13,FishBase_ISSCAAP,Demersal fish
+YNV,33,Green weakfish,Cynoscion virescens,,4.03,0.7,94.3,FishBase_ISSCAAP,Demersal fish
+YOE,31,Senegalese tonguesole,Cynoglossus senegalensis,塞内加尔舌鳎,3.62,NA,NA,SeaAroundUs,Demersal fish
+YOX,31,Tonguesole nei,Cynoglossus spp,,3.36,NA,NA,SeaAroundUs,Demersal fish
+YPS,45,Yellowleg shrimp,Penaeus californiensis,,2.7,0.35,NA,FishBase_ISSCAAP,Crustaceans
+YPX,37,,Cypselurus spp,,3.4,NA,NA,SeaAroundUs,Pelagic fish
+YQP,37,Salema butterfish,Peprilus snyderi,,4.1,NA,NA,SeaAroundUs,Pelagic fish
+YQW,33,Scalyfin weakfish,Cynoscion squamipinnis,,3.85,NA,NA,SeaAroundUs,Demersal fish
+YRB,37,Obtuse barracuda,Sphyraena obtusata,,4.49,0.79,47.58,FishBase_ISSCAAP,Pelagic fish
+YRE,37,Mexican barracuda,Sphyraena ensis,,4.45,0.79,115.6,FishBase_ISSCAAP,Pelagic fish
+YRG,37,Pacific barracuda,Sphyraena argentea,,4.5,NA,NA,SeaAroundUs,Pelagic fish
+YRO,34,Yellowtail rockfish,Sebastes flavidus,,4.11,0.7,55.68,FishBase_ISSCAAP,Demersal fish
+YRS,37,European barracuda,Sphyraena sphyraena,,4.04,0.51,145.93,FishBase_ISSCAAP,Pelagic fish
+YRU,37,Guachanche barracuda,Sphyraena guachancho,,4.35,NA,NA,SeaAroundUs,Pelagic fish
+YSE,31,Pacific sand sole,Psettichthys melanostictus,,4.06,0.67,51.66,FishBase_ISSCAAP,Demersal fish
+YSF,31,California flounder,Paralichthys californicus,北美牙鲆,4.5,0.63,128.14,FishBase_ISSCAAP,Demersal fish
+YSH,31,Southern flounder,Paralichthys lethostigma,漠斑牙鲆,3.48,NA,NA,SeaAroundUs,Demersal fish
+YSW,31,Speckled flounder,Paralichthys woolmani,,4.5,NA,NA,FishBase,Demersal fish
+YTC,37,Yellowtail amberjack,Seriola lalandi,黃尾鰤,4.07,0.34,205,FishBase_ISSCAAP,Pelagic fish
+YTL,37,Longfin yellowtail,Seriola rivoliana,长鳍鰤,4.5,0.8,149.33,FishBase_ISSCAAP,Pelagic fish
+YTT,57,Schoolmaster gonate squid,Berryteuthis magister,大师节蛸,4.05,0.63,NA,FishBase_ISSCAAP,Cephalopods
+YUX,42,,Scylla spp,,3.17,NA,NA,SeaAroundUs,Crustaceans
+YWF,33,Yellowfin seabream,Acanthopagrus latus,黄鳍棘鲷,3.15,0.5,42.11,FishBase_ISSCAAP,Demersal fish
+YZX,33,Hawkfishes nei,Cirrhitidae,,3.83,NA,NA,SeaAroundUs,Demersal fish
+ZAP,11,Freshwater minnow,Zacco platypus,,3.05,0.43,16.4,FishBase_ISSCAAP,Freshwater fish
+ZCN,34,New Zealand dory,Cyttus novaezealandiae,,3.82,0.61,32.8,FishBase_ISSCAAP,Demersal fish
+ZCP,34,Cape dory,Zeus capensis,,4.5,NA,NA,SeaAroundUs,Demersal fish
+ZCT,34,King dory,Cyttus traversi,,4.25,0.76,44.28,FishBase_ISSCAAP,Demersal fish
+ZDF,52,Angulate volute,Zidona dufresnei,尖头涡螺,2,NA,NA,SeaAroundUs,"Molluscs, other"
+ZEX,34,Dories nei,Zeidae,,4.36,0.13,75,FishBase_ISSCAAP,Demersal fish
+ZFX,45,"Caridean shrimps, True shrimps",Caridea,,3.31,NA,NA,Estimate(SeaAroundUs),Crustaceans
+ZGC,33,Mediterranean sand eel,Gymnammodytes cicerelus,,3.4,NA,NA,SeaAroundUs,Demersal fish
+ZHB,71,East Asian bullfrog,Hoplobatrachus rugulosus,虎皮蛙,3,NA,NA,Estimate,"Aquatic animals, other"
+ZNE,34,Mirror dory,Zenopsis nebulosus,,3.98,0.65,58.33,FishBase_ISSCAAP,Demersal fish
+ZUZ,13,Gilded catfish,Zungaro zungaro,,4.5,NA,NA,FishBase,Freshwater fish
+ZYE,55,Delicate scallop,Zygochlamys delicatula,,2,NA,NA,SeaAroundUs,"Molluscs, other"
+ZYP,55,Patagonian scallop,Zygochlamys patagonica,巴塔哥尼亚扇贝,2,NA,NA,SeaAroundUs,"Molluscs, other"

@@ -1,0 +1,276 @@
+﻿UN_Code,Identifier,ISO2_Code,ISO3_Code,Name_En,Name_Cn,Official_Name_En,Continent_Group_En,EcoClass_Group_En,GeoRegion_Group_En,GeoRegion_Group_Cn
+51,1,AM,ARM,Armenia,亚美尼亚,the Republic of Armenia,Asia,Upper-middle income countries,Western Asia,西亚
+4,2,AF,AFG,Afghanistan,阿富汗,the Islamic Republic of Afghanistan,Asia,Low-income countries,Southern Asia,南亚
+8,3,AL,ALB,Albania,阿尔巴尼亚,the Republic of Albania,Europe,Upper-middle income countries,Southern Europe,南欧
+12,4,DZ,DZA,Algeria,阿尔及利亚,the People's Democratic Republic of Algeria,Africa,Lower-middle income countries,Northern Africa,北非
+16,5,AS,ASM,American Samoa,美属萨摩亚,American Samoa,Oceania,High-income countries,Polynesia,波利尼西亚
+20,6,AD,AND,Andorra,安道尔,the Principality of Andorra,Europe,High-income countries,Southern Europe,南欧
+24,7,AO,AGO,Angola,安哥拉,the Republic of Angola,Africa,Lower-middle income countries,Middle Africa,中非
+28,8,AG,ATG,Antigua and Barbuda,安提瓜和巴布达,Antigua and Barbuda,Americas,High-income countries,Caribbean,加勒比
+32,9,AR,ARG,Argentina,阿根廷,the Argentine Republic,Americas,Upper-middle income countries,South America,南美洲
+36,10,AU,AUS,Australia,澳大利亚,Australia,Oceania,High-income countries,Australia and New Zealand,澳大利亚和新西兰
+40,11,AT,AUT,Austria,奥地利,the Republic of Austria,Europe,High-income countries,Western Europe,西欧
+44,12,BS,BHS,Bahamas,巴哈马,the Commonwealth of the Bahamas,Americas,High-income countries,Caribbean,加勒比
+48,13,BH,BHR,Bahrain,巴林,the Kingdom of Bahrain,Asia,High-income countries,Western Asia,西亚
+52,14,BB,BRB,Barbados,巴巴多斯,Barbados,Americas,High-income countries,Caribbean,加勒比
+58,15,,F15,Belgium-Luxembourg,,,Europe,Countries not classified by World Bank,Western Europe,西欧
+50,16,BD,BGD,Bangladesh,孟加拉国,the People's Republic of Bangladesh,Asia,Lower-middle income countries,Southern Asia,南亚
+60,17,BM,BMU,Bermuda,百慕大,Bermuda,Americas,High-income countries,Northern America,北美
+64,18,BT,BTN,Bhutan,不丹,the Kingdom of Bhutan,Asia,Lower-middle income countries,Southern Asia,南亚
+68,19,BO,BOL,Bolivia (Plurinational State of),多民族玻利维亚国,the Plurinational State of Bolivia,Americas,Lower-middle income countries,South America,南美洲
+72,20,BW,BWA,Botswana,博茨瓦纳,the Republic of Botswana,Africa,Upper-middle income countries,Southern Africa,南部非洲
+76,21,BR,BRA,Brazil,巴西,the Federative Republic of Brazil,Americas,Upper-middle income countries,South America,南美洲
+533,22,AW,ABW,Aruba,阿鲁巴岛,Aruba,Americas,High-income countries,Caribbean,加勒比
+84,23,BZ,BLZ,Belize,伯利兹,Belize,Americas,Upper-middle income countries,Central America,中美洲
+86,24,IO,IOT,British Indian Ocean Territory,英属印度洋领地,the British Indian Ocean Territory,Africa,Countries not classified by World Bank,Eastern Africa,东非
+90,25,SB,SLB,Solomon Islands,所罗门群岛,Solomon Islands,Oceania,Lower-middle income countries,Melanesia,美拉尼西亚
+96,26,BN,BRN,Brunei Darussalam,文莱达鲁萨兰国,Brunei Darussalam,Asia,High-income countries,South-Eastern Asia,东南亚
+100,27,BG,BGR,Bulgaria,保加利亚,the Republic of Bulgaria,Europe,Upper-middle income countries,Eastern Europe,东欧
+104,28,MM,MMR,Myanmar,缅甸,the Republic of the Union of Myanmar,Asia,Lower-middle income countries,South-Eastern Asia,东南亚
+108,29,BI,BDI,Burundi,布隆迪,the Republic of Burundi,Africa,Low-income countries,Eastern Africa,东非
+10,30,AQ,ATA,Antarctica,南极洲,Antarctica,,,,
+74,31,BV,BVT,Bouvet Island,博维特岛,Bouvet Island,Americas,Countries not classified by World Bank,South America,南美洲
+120,32,CM,CMR,Cameroon,喀麦隆,the Republic of Cameroon,Africa,Lower-middle income countries,Middle Africa,中非
+124,33,CA,CAN,Canada,加拿大,Canada,Americas,High-income countries,Northern America,北美
+128,34,,,Canton and Enderbury Islands,坎顿和恩德贝里群岛,the Canton and Enderbury Islands,,,,
+132,35,CV,CPV,Cabo Verde,佛得角,the Republic of Cabo Verde,Africa,Lower-middle income countries,Western Africa,西非
+136,36,KY,CYM,Cayman Islands,开曼群岛,the Cayman Islands,Americas,High-income countries,Caribbean,加勒比
+140,37,CF,CAF,Central African Republic,中非共和国,the Central African Republic,Africa,Low-income countries,Middle Africa,中非
+144,38,LK,LKA,Sri Lanka,斯里兰卡,the Democratic Socialist Republic of Sri Lanka,Asia,Lower-middle income countries,Southern Asia,南亚
+148,39,TD,TCD,Chad,乍得,the Republic of Chad,Africa,Low-income countries,Middle Africa,中非
+152,40,CL,CHL,Chile,智利,the Republic of Chile,Americas,High-income countries,South America,南美洲
+156,41,CN,CHN,China,中国,the People's Republic of China,Asia,Upper-middle income countries,Eastern Asia,东亚
+162,42,CX,CXR,Christmas Island,圣诞岛,Christmas Island,Oceania,Countries not classified by World Bank,Australia and New Zealand,澳大利亚和新西兰
+166,43,CC,CCK,Cocos (Keeling) Islands,可可群岛,the Cocos (Keeling) Islands,Oceania,Countries not classified by World Bank,Australia and New Zealand,澳大利亚和新西兰
+170,44,CO,COL,Colombia,哥伦比亚,the Republic of Colombia,Americas,Upper-middle income countries,South America,南美洲
+174,45,KM,COM,Comoros,科摩罗,the Union of the Comoros,Africa,Lower-middle income countries,Eastern Africa,东非
+178,46,CG,COG,Congo,刚果,the Republic of the Congo,Africa,Lower-middle income countries,Middle Africa,中非
+184,47,CK,COK,Cook Islands,库克群岛,the Cook Islands,Oceania,Countries not classified by World Bank,Polynesia,波利尼西亚
+188,48,CR,CRI,Costa Rica,哥斯达黎加,the Republic of Costa Rica,Americas,Upper-middle income countries,Central America,中美洲
+192,49,CU,CUB,Cuba,古巴,the Republic of Cuba,Americas,Upper-middle income countries,Caribbean,加勒比
+196,50,CY,CYP,Cyprus,塞浦路斯,the Republic of Cyprus,Asia,High-income countries,Western Asia,西亚
+200,51,,F51,Czechoslovakia,,Czechoslovakia,Europe,Countries not classified by World Bank,Eastern Europe,东欧
+31,52,AZ,AZE,Azerbaijan,阿塞拜疆,the Republic of Azerbaijan,Asia,Upper-middle income countries,Western Asia,西亚
+204,53,BJ,BEN,Benin,贝宁,the Republic of Benin,Africa,Lower-middle income countries,Western Africa,西非
+208,54,DK,DNK,Denmark,丹麦,the Kingdom of Denmark,Europe,High-income countries,Northern Europe,北欧
+212,55,DM,DMA,Dominica,多米尼克,the Commonwealth of Dominica,Americas,Upper-middle income countries,Caribbean,加勒比
+214,56,DO,DOM,Dominican Republic,多米尼加共和国,the Dominican Republic,Americas,Upper-middle income countries,Caribbean,加勒比
+112,57,BY,BLR,Belarus,白俄罗斯,the Republic of Belarus,Europe,Upper-middle income countries,Eastern Europe,东欧
+218,58,EC,ECU,Ecuador,厄瓜多尔,the Republic of Ecuador,Americas,Upper-middle income countries,South America,南美洲
+818,59,EG,EGY,Egypt,埃及,the Arab Republic of Egypt,Africa,Lower-middle income countries,Northern Africa,北非
+222,60,SV,SLV,El Salvador,萨尔瓦多,the Republic of El Salvador,Americas,Upper-middle income countries,Central America,中美洲
+226,61,GQ,GNQ,Equatorial Guinea,赤道几内亚,the Republic of Equatorial Guinea,Africa,Upper-middle income countries,Middle Africa,中非
+230,62,,F62,Ethiopia PDR,,,Africa,Countries not classified by World Bank,Eastern Africa,东非
+233,63,EE,EST,Estonia,爱沙尼亚,the Republic of Estonia,Europe,High-income countries,Northern Europe,北欧
+234,64,FO,FRO,Faroe Islands,法罗群岛,the Faroe Islands,Europe,High-income countries,Northern Europe,北欧
+238,65,FK,FLK,Falkland Islands (Malvinas),福克兰群岛（马尔维纳斯）,the Falkland Islands (Malvinas),Americas,Countries not classified by World Bank,South America,南美洲
+242,66,FJ,FJI,Fiji,斐济,the Republic of Fiji,Oceania,Upper-middle income countries,Melanesia,美拉尼西亚
+246,67,FI,FIN,Finland,芬兰,the Republic of Finland,Europe,High-income countries,Northern Europe,北欧
+250,68,FR,FRA,France,法国,the French Republic,Europe,High-income countries,Western Europe,西欧
+254,69,GF,GUF,French Guiana,法属圭亚那,French Guiana,Americas,Countries not classified by World Bank,South America,南美洲
+258,70,PF,PYF,French Polynesia,法属波利尼西亚,French Polynesia,Oceania,High-income countries,Polynesia,波利尼西亚
+260,71,TF,ATF,French Southern Territories,法属南部领地,the French Southern Territories,Africa,Countries not classified by World Bank,Eastern Africa,东非
+262,72,DJ,DJI,Djibouti,吉布提,the Republic of Djibouti,Africa,Lower-middle income countries,Eastern Africa,东非
+268,73,GE,GEO,Georgia,格鲁吉亚,Georgia,Asia,Upper-middle income countries,Western Asia,西亚
+266,74,GA,GAB,Gabon,加蓬,the Gabonese Republic,Africa,Upper-middle income countries,Middle Africa,中非
+270,75,GM,GMB,Gambia,冈比亚,the Republic of the Gambia,Africa,Low-income countries,Western Africa,西非
+274,76,,,Gaza Strip,加沙地带,the Gaza Strip,,Countries not classified by World Bank,,
+278,77,,,"Germany,New L?nder",,,Europe,Countries not classified by World Bank,Western Europe,西欧
+280,78,,,"Germany, Fed. Rep. of",,,Europe,Countries not classified by World Bank,Western Europe,西欧
+276,79,DE,DEU,Germany,德国,the Federal Republic of Germany,Europe,High-income countries,Western Europe,西欧
+70,80,BA,BIH,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,Europe,Upper-middle income countries,Southern Europe,南欧
+288,81,GH,GHA,Ghana,加纳,the Republic of Ghana,Africa,Lower-middle income countries,Western Africa,西非
+292,82,GI,GIB,Gibraltar,直布罗陀,Gibraltar,Europe,High-income countries,Southern Europe,南欧
+296,83,KI,KIR,Kiribati,基里巴斯,the Republic of Kiribati,Oceania,Lower-middle income countries,Micronesia,密克罗尼西亚
+300,84,GR,GRC,Greece,希腊,the Hellenic Republic,Europe,High-income countries,Southern Europe,南欧
+304,85,GL,GRL,Greenland,格陵兰,Greenland,Americas,High-income countries,Northern America,北美
+308,86,GD,GRD,Grenada,格林纳达,Grenada,Americas,Upper-middle income countries,Caribbean,加勒比
+312,87,GP,GLP,Guadeloupe,瓜德罗普,Guadeloupe,Americas,Countries not classified by World Bank,Caribbean,加勒比
+316,88,GU,GUM,Guam,关岛,Guam,Oceania,High-income countries,Micronesia,密克罗尼西亚
+320,89,GT,GTM,Guatemala,危地马拉,the Republic of Guatemala,Americas,Upper-middle income countries,Central America,中美洲
+324,90,GN,GIN,Guinea,几内亚,the Republic of Guinea,Africa,Lower-middle income countries,Western Africa,西非
+328,91,GY,GUY,Guyana,圭亚那,the Co-operative Republic of Guyana,Americas,High-income countries,South America,南美洲
+334,92,HM,HMD,Heard Island and McDonald Islands,赫德岛和麦克唐纳岛,Heard Island and McDonald Islands,Oceania,Countries not classified by World Bank,Australia and New Zealand,澳大利亚和新西兰
+332,93,HT,HTI,Haiti,海地,the Republic of Haiti,Americas,Lower-middle income countries,Caribbean,加勒比
+336,94,VA,VAT,Holy See,罗马教廷,the Holy See,Europe,Countries not classified by World Bank,Southern Europe,南欧
+340,95,HN,HND,Honduras,洪都拉斯,the Republic of Honduras,Americas,Lower-middle income countries,Central America,中美洲
+344,96,HK,HKG,"China, Hong Kong SAR",中国香港特区,"China, Hong Kong Special Administrative Region",Asia,High-income countries,Eastern Asia,东亚
+348,97,HU,HUN,Hungary,匈牙利,Hungary,Europe,High-income countries,Eastern Europe,东欧
+191,98,HR,HRV,Croatia,克罗地亚,the Republic of Croatia,Europe,High-income countries,Southern Europe,南欧
+352,99,IS,ISL,Iceland,冰岛,Iceland,Europe,High-income countries,Northern Europe,北欧
+356,100,IN,IND,India,印度,the Republic of India,Asia,Lower-middle income countries,Southern Asia,南亚
+360,101,ID,IDN,Indonesia,印度尼西亚,the Republic of Indonesia,Asia,Upper-middle income countries,South-Eastern Asia,东南亚
+364,102,IR,IRN,Iran (Islamic Republic of),伊朗伊斯兰共和国,the Islamic Republic of Iran,Asia,Lower-middle income countries,Southern Asia,南亚
+368,103,IQ,IRQ,Iraq,伊拉克,the Republic of Iraq,Asia,Upper-middle income countries,Western Asia,西亚
+372,104,IE,IRL,Ireland,爱尔兰,Ireland,Europe,High-income countries,Northern Europe,北欧
+376,105,IL,ISR,Israel,以色列,the State of Israel,Asia,High-income countries,Western Asia,西亚
+380,106,IT,ITA,Italy,意大利,the Republic of Italy,Europe,High-income countries,Southern Europe,南欧
+384,107,CI,CIV,C?te d'Ivoire,科特迪瓦,the Republic of C?te d'Ivoire,Africa,Lower-middle income countries,Western Africa,西非
+398,108,KZ,KAZ,Kazakhstan,哈萨克斯坦,the Republic of Kazakhstan,Asia,Upper-middle income countries,Central Asia,中亚
+388,109,JM,JAM,Jamaica,牙买加,Jamaica,Americas,Upper-middle income countries,Caribbean,加勒比
+392,110,JP,JPN,Japan,日本,Japan,Asia,High-income countries,Eastern Asia,东亚
+396,111,JT,JTN,Johnston Island,约翰斯顿岛,Johnston Island,,,,
+400,112,JO,JOR,Jordan,约旦,the Hashemite Kingdom of Jordan,Asia,Lower-middle income countries,Western Asia,西亚
+417,113,KG,KGZ,Kyrgyzstan,吉尔吉斯斯坦,the Kyrgyz Republic,Asia,Lower-middle income countries,Central Asia,中亚
+404,114,KE,KEN,Kenya,肯尼亚,the Republic of Kenya,Africa,Lower-middle income countries,Eastern Africa,东非
+116,115,KH,KHM,Cambodia,柬埔寨,the Kingdom of Cambodia,Asia,Lower-middle income countries,South-Eastern Asia,东南亚
+408,116,KP,PRK,Democratic People's Republic of Korea,朝鲜民主主义人民共和国,the Democratic People's Republic of Korea,Asia,Low-income countries,Eastern Asia,东亚
+410,117,KR,KOR,Republic of Korea,大韩民国,the Republic of Korea,Asia,High-income countries,Eastern Asia,东亚
+414,118,KW,KWT,Kuwait,科威特,the State of Kuwait,Asia,High-income countries,Western Asia,西亚
+428,119,LV,LVA,Latvia,拉脱维亚,the Republic of Latvia,Europe,High-income countries,Northern Europe,北欧
+418,120,LA,LAO,Lao People's Democratic Republic,老挝人民民主共和国,the Lao People's Democratic Republic,Asia,Lower-middle income countries,South-Eastern Asia,东南亚
+422,121,LB,LBN,Lebanon,黎巴嫩,the Lebanese Republic,Asia,Lower-middle income countries,Western Asia,西亚
+426,122,LS,LSO,Lesotho,莱索托,the Kingdom of Lesotho,Africa,Lower-middle income countries,Southern Africa,南部非洲
+430,123,LR,LBR,Liberia,利比里亚,the Republic of Liberia,Africa,Low-income countries,Western Africa,西非
+434,124,LY,LBY,Libya,利比亚,the State of Libya,Africa,Upper-middle income countries,Northern Africa,北非
+438,125,LI,LIE,Liechtenstein,列支敦士登,the Principality of Liechtenstein,Europe,High-income countries,Western Europe,西欧
+440,126,LT,LTU,Lithuania,立陶宛,the Republic of Lithuania,Europe,High-income countries,Northern Europe,北欧
+584,127,MH,MHL,Marshall Islands,马绍尔群岛,the Republic of the Marshall Islands,Oceania,Upper-middle income countries,Micronesia,密克罗尼西亚
+446,128,MO,MAC,"China, Macao SAR",中国澳门特区,"China, Macao Special Administrative Region",Asia,High-income countries,Eastern Asia,东亚
+450,129,MG,MDG,Madagascar,马达加斯加,the Republic of Madagascar,Africa,Low-income countries,Eastern Africa,东非
+454,130,MW,MWI,Malawi,马拉维,the Republic of Malawi,Africa,Low-income countries,Eastern Africa,东非
+458,131,MY,MYS,Malaysia,马来西亚,Malaysia,Asia,Upper-middle income countries,South-Eastern Asia,东南亚
+462,132,MV,MDV,Maldives,马尔代夫,the Republic of Maldives,Asia,Upper-middle income countries,Southern Asia,南亚
+466,133,ML,MLI,Mali,马里,the Republic of Mali,Africa,Low-income countries,Western Africa,西非
+470,134,MT,MLT,Malta,马耳他,the Republic of Malta,Europe,High-income countries,Southern Europe,南欧
+474,135,MQ,MTQ,Martinique,马提尼克,Martinique,Americas,Countries not classified by World Bank,Caribbean,加勒比
+478,136,MR,MRT,Mauritania,毛里塔尼亚,the Islamic Republic of Mauritania,Africa,Lower-middle income countries,Western Africa,西非
+480,137,MU,MUS,Mauritius,毛里求斯,the Republic of Mauritius,Africa,Upper-middle income countries,Eastern Africa,东非
+484,138,MX,MEX,Mexico,墨西哥,the United Mexican States,Americas,Upper-middle income countries,Central America,中美洲
+488,139,MI,MID,Midway Islands,中途岛,the Midway Islands,,,,
+492,140,MC,MCO,Monaco,摩纳哥,the Principality of Monaco,Europe,High-income countries,Western Europe,西欧
+496,141,MN,MNG,Mongolia,蒙古,Mongolia,Asia,Lower-middle income countries,Eastern Asia,东亚
+500,142,MS,MSR,Montserrat,蒙特塞拉特,Montserrat,Americas,Countries not classified by World Bank,Caribbean,加勒比
+504,143,MA,MAR,Morocco,摩洛哥,the Kingdom of Morocco,Africa,Lower-middle income countries,Northern Africa,北非
+508,144,MZ,MOZ,Mozambique,莫桑比克,the Republic of Mozambique,Africa,Low-income countries,Eastern Africa,东非
+583,145,FM,FSM,Micronesia (Federated States of),密克罗尼西亚联邦,the Federated States of Micronesia,Oceania,Lower-middle income countries,Micronesia,密克罗尼西亚
+498,146,MD,MDA,Republic of Moldova,摩尔多瓦共和国,the Republic of Moldova,Europe,Upper-middle income countries,Eastern Europe,东欧
+516,147,NA,NAM,Namibia,纳米比亚,the Republic of Namibia,Africa,Upper-middle income countries,Southern Africa,南部非洲
+520,148,NR,NRU,Nauru,瑙鲁,the Republic of Nauru,Oceania,High-income countries,Micronesia,密克罗尼西亚
+524,149,NP,NPL,Nepal,尼泊尔,Nepal,Asia,Lower-middle income countries,Southern Asia,南亚
+528,150,NL,NLD,Netherlands (Kingdom of the),荷兰王国,the Kingdom of the Netherlands,Europe,High-income countries,Western Europe,西欧
+530,151,AN,ANT,Netherlands Antilles,荷属安的列斯人/属安的列斯人的,Netherlands Antilles,Americas,Countries not classified by World Bank,Caribbean,加勒比
+536,152,,,Neutral Zone,中立区,the Neutral Zone,,,,
+540,153,NC,NCL,New Caledonia,新喀里多尼亚,New Caledonia,Oceania,High-income countries,Melanesia,美拉尼西亚
+807,154,MK,MKD,North Macedonia,北马其顿,the Republic of North Macedonia,Europe,Upper-middle income countries,Southern Europe,南欧
+548,155,VU,VUT,Vanuatu,瓦努阿图,the Republic of Vanuatu,Oceania,Lower-middle income countries,Melanesia,美拉尼西亚
+554,156,NZ,NZL,New Zealand,新西兰,New Zealand,Oceania,High-income countries,Australia and New Zealand,澳大利亚和新西兰
+558,157,NI,NIC,Nicaragua,尼加拉瓜,the Republic of Nicaragua,Americas,Lower-middle income countries,Central America,中美洲
+562,158,NE,NER,Niger,尼日尔,the Republic of the Niger,Africa,Low-income countries,Western Africa,西非
+566,159,NG,NGA,Nigeria,尼日利亚,the Federal Republic of Nigeria,Africa,Lower-middle income countries,Western Africa,西非
+570,160,NU,NIU,Niue,纽埃,Niue,Oceania,Countries not classified by World Bank,Polynesia,波利尼西亚
+574,161,NF,NFK,Norfolk Island,诺福克岛,Norfolk Island,Oceania,Countries not classified by World Bank,Australia and New Zealand,澳大利亚和新西兰
+578,162,NO,NOR,Norway,挪威,the Kingdom of Norway,Europe,High-income countries,Northern Europe,北欧
+580,163,MP,MNP,Northern Mariana Islands,北马里亚纳群岛,the Commonwealth of the Northern Mariana Islands,Oceania,High-income countries,Micronesia,密克罗尼西亚
+582,164,,,Trust Territory of the Pacific Islands,太平洋岛屿托管领土,the Trust Territory of the Pacific Islands,,,,
+586,165,PK,PAK,Pakistan,巴基斯坦,the Islamic Republic of Pakistan,Asia,Lower-middle income countries,Southern Asia,南亚
+591,166,PA,PAN,Panama,巴拿马,the Republic of Panama,Americas,High-income countries,Central America,中美洲
+203,167,CZ,CZE,Czechia,捷克,the Czech Republic,Europe,High-income countries,Eastern Europe,东欧
+598,168,PG,PNG,Papua New Guinea,巴布亚新几内亚,the Independent State of Papua New Guinea,Oceania,Lower-middle income countries,Melanesia,美拉尼西亚
+600,169,PY,PRY,Paraguay,巴拉圭,the Republic of Paraguay,Americas,Upper-middle income countries,South America,南美洲
+604,170,PE,PER,Peru,秘鲁,the Republic of Peru,Americas,Upper-middle income countries,South America,南美洲
+608,171,PH,PHL,Philippines,菲律宾,the Republic of the Philippines,Asia,Lower-middle income countries,South-Eastern Asia,东南亚
+612,172,PN,PCN,Pitcairn,皮特克恩,Pitcairn,Oceania,Countries not classified by World Bank,Polynesia,波利尼西亚
+616,173,PL,POL,Poland,波兰,the Republic of Poland,Europe,High-income countries,Eastern Europe,东欧
+620,174,PT,PRT,Portugal,葡萄牙,the Portuguese Republic,Europe,High-income countries,Southern Europe,南欧
+624,175,GW,GNB,Guinea-Bissau,几内亚比绍,the Republic of Guinea-Bissau,Africa,Low-income countries,Western Africa,西非
+626,176,TL,TLS,Timor-Leste,东帝汶,the Democratic Republic of Timor-Leste,Asia,Lower-middle income countries,South-Eastern Asia,东南亚
+630,177,PR,PRI,Puerto Rico,波多黎各,the Commonwealth of Puerto Rico,Americas,High-income countries,Caribbean,加勒比
+232,178,ER,ERI,Eritrea,厄立特里亚,the State of Eritrea,Africa,Low-income countries,Eastern Africa,东非
+634,179,QA,QAT,Qatar,卡塔尔,the State of Qatar,Asia,High-income countries,Western Asia,西亚
+585,180,PW,PLW,Palau,帕劳,the Republic of Palau,Oceania,Upper-middle income countries,Micronesia,密克罗尼西亚
+716,181,ZW,ZWE,Zimbabwe,津巴布韦,the Republic of Zimbabwe,Africa,Lower-middle income countries,Eastern Africa,东非
+638,182,RE,REU,Réunion,留尼汪,Réunion,Africa,Countries not classified by World Bank,Eastern Africa,东非
+642,183,RO,ROU,Romania,罗马尼亚,Romania,Europe,High-income countries,Eastern Europe,东欧
+646,184,RW,RWA,Rwanda,卢旺达,the Republic of Rwanda,Africa,Low-income countries,Eastern Africa,东非
+643,185,RU,RUS,Russian Federation,俄罗斯联邦,the Russian Federation,Europe,Upper-middle income countries,Eastern Europe,东欧
+891,186,CS,SCG,Serbia and Montenegro,,Serbia and Montenegro,Europe,Countries not classified by World Bank,Southern Europe,南欧
+654,187,SH,SHN,"Ascension, Saint Helena and Tristan da Cunha",阿森松、圣赫勒拿和特?斯坦-达库尼亚,"Ascension, Saint Helena and Tristan da Cunha",Africa,Countries not classified by World Bank,Western Africa,西非
+659,188,KN,KNA,Saint Kitts and Nevis,圣基茨和尼维斯,Saint Kitts and Nevis,Americas,High-income countries,Caribbean,加勒比
+662,189,LC,LCA,Saint Lucia,圣卢西亚,Saint Lucia,Americas,Upper-middle income countries,Caribbean,加勒比
+666,190,PM,SPM,Saint Pierre and Miquelon,圣皮埃尔和密克隆,Saint Pierre and Miquelon,Americas,Countries not classified by World Bank,Northern America,北美
+670,191,VC,VCT,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,Americas,Upper-middle income countries,Caribbean,加勒比
+674,192,SM,SMR,San Marino,圣马力诺,the Republic of San Marino,Europe,High-income countries,Southern Europe,南欧
+678,193,ST,STP,Sao Tome and Principe,圣多美和普林西比,the Democratic Republic of Sao Tome and Principe,Africa,Lower-middle income countries,Middle Africa,中非
+682,194,SA,SAU,Saudi Arabia,沙特阿拉伯,the Kingdom of Saudi Arabia,Asia,High-income countries,Western Asia,西亚
+686,195,SN,SEN,Senegal,塞内加尔,the Republic of Senegal,Africa,Lower-middle income countries,Western Africa,西非
+690,196,SC,SYC,Seychelles,塞舌尔,the Republic of Seychelles,Africa,High-income countries,Eastern Africa,东非
+694,197,SL,SLE,Sierra Leone,塞拉利昂,the Republic of Sierra Leone,Africa,Low-income countries,Western Africa,西非
+705,198,SI,SVN,Slovenia,斯洛文尼亚,the Republic of Slovenia,Europe,High-income countries,Southern Europe,南欧
+703,199,SK,SVK,Slovakia,斯洛伐克,the Slovak Republic,Europe,High-income countries,Eastern Europe,东欧
+702,200,SG,SGP,Singapore,新加坡,the Republic of Singapore,Asia,High-income countries,South-Eastern Asia,东南亚
+706,201,SO,SOM,Somalia,索马里,the Federal Republic of Somalia,Africa,Low-income countries,Eastern Africa,东非
+710,202,ZA,ZAF,South Africa,南非,the Republic of South Africa,Africa,Upper-middle income countries,Southern Africa,南部非洲
+724,203,ES,ESP,Spain,西班牙,the Kingdom of Spain,Europe,High-income countries,Southern Europe,南欧
+732,205,EH,ESH,Western Sahara,西撒哈拉,Western Sahara,Africa,Countries not classified by World Bank,Northern Africa,北非
+736,206,,F206,Sudan (former),苏丹,the Republic of the Sudan,Africa,Countries not classified by World Bank,Northern Africa,北非
+740,207,SR,SUR,Suriname,苏里南,the Republic of Suriname,Americas,Upper-middle income countries,South America,南美洲
+762,208,TJ,TJK,Tajikistan,塔吉克斯坦,the Republic of Tajikistan,Asia,Lower-middle income countries,Central Asia,中亚
+748,209,SZ,SWZ,Eswatini,斯威士兰,the Kingdom of Eswatini,Africa,Lower-middle income countries,Southern Africa,南部非洲
+752,210,SE,SWE,Sweden,瑞典,the Kingdom of Sweden,Europe,High-income countries,Northern Europe,北欧
+756,211,CH,CHE,Switzerland,瑞士,the Swiss Confederation,Europe,High-income countries,Western Europe,西欧
+760,212,SY,SYR,Syrian Arab Republic,阿拉伯叙利亚共和国,the Syrian Arab Republic,Asia,Low-income countries,Western Asia,西亚
+795,213,TM,TKM,Turkmenistan,土库曼斯坦,Turkmenistan,Asia,Upper-middle income countries,Central Asia,中亚
+158,214,TW,TWN,Taiwan Province of China,中国台湾省,Taiwan Province of China,Asia,High-income countries,Eastern Asia,东亚
+834,215,TZ,TZA,United Republic of Tanzania,坦桑尼亚联合共和国,the United Republic of Tanzania,Africa,Lower-middle income countries,Eastern Africa,东非
+764,216,TH,THA,Thailand,泰国,the Kingdom of Thailand,Asia,Upper-middle income countries,South-Eastern Asia,东南亚
+768,217,TG,TGO,Togo,多哥,the Togolese Republic,Africa,Low-income countries,Western Africa,西非
+772,218,TK,TKL,Tokelau,托克劳,Tokelau,Oceania,Countries not classified by World Bank,Polynesia,波利尼西亚
+776,219,TO,TON,Tonga,汤加,the Kingdom of Tonga,Oceania,Upper-middle income countries,Polynesia,波利尼西亚
+780,220,TT,TTO,Trinidad and Tobago,特立尼达和多巴哥,the Republic of Trinidad and Tobago,Americas,High-income countries,Caribbean,加勒比
+512,221,OM,OMN,Oman,阿曼,the Sultanate of Oman,Asia,High-income countries,Western Asia,西亚
+788,222,TN,TUN,Tunisia,突尼斯,the Republic of Tunisia,Africa,Lower-middle income countries,Northern Africa,北非
+792,223,TR,TUR,Türkiye,土耳其,the Republic of Türkiye,Asia,Upper-middle income countries,Western Asia,西亚
+796,224,TC,TCA,Turks and Caicos Islands,特克斯和凯科斯群岛,the Turks and Caicos Islands,Americas,High-income countries,Caribbean,加勒比
+784,225,AE,ARE,United Arab Emirates,阿拉伯联合酋长国,the United Arab Emirates,Asia,High-income countries,Western Asia,西亚
+800,226,UG,UGA,Uganda,乌干达,the Republic of Uganda,Africa,Low-income countries,Eastern Africa,东非
+798,227,TV,TUV,Tuvalu,图瓦卢,Tuvalu,Oceania,Upper-middle income countries,Polynesia,波利尼西亚
+810,228,SU,SUN,Un. Sov. Soc. Rep.,,Union of Soviet Socialist Republics,,Countries not classified by World Bank,,
+826,229,GB,GBR,United Kingdom of Great Britain and Northern Ireland,大不列颠及北爱尔兰联合王国,the United Kingdom of Great Britain and Northern Ireland,Europe,High-income countries,Northern Europe,北欧
+804,230,UA,UKR,Ukraine,乌克兰,Ukraine,Europe,Lower-middle income countries,Eastern Europe,东欧
+840,231,US,USA,United States of America,美利坚合众国,the United States of America,Americas,High-income countries,Northern America,北美
+581,232,UM,UMI,United States Minor Outlying Islands,美国本土外小岛屿,the United States Minor Outlying Islands,Oceania,Countries not classified by World Bank,Micronesia,密克罗尼西亚
+854,233,BF,BFA,Burkina Faso,布基纳法索,Burkina Faso,Africa,Low-income countries,Western Africa,西非
+858,234,UY,URY,Uruguay,乌拉圭,the Eastern Republic of Uruguay,Americas,High-income countries,South America,南美洲
+860,235,UZ,UZB,Uzbekistan,乌兹别克斯坦,the Republic of Uzbekistan,Asia,Lower-middle income countries,Central Asia,中亚
+862,236,VE,VEN,Venezuela (Bolivarian Republic of),委内瑞拉玻利瓦尔共和国,the Bolivarian Republic of Venezuela,Americas,Upper-middle income countries,South America,南美洲
+704,237,VN,VNM,Viet Nam,越南,the Socialist Republic of Viet Nam,Asia,Lower-middle income countries,South-Eastern Asia,东南亚
+231,238,ET,ETH,Ethiopia,埃塞俄比亚,the Federal Democratic Republic of Ethiopia,Africa,Low-income countries,Eastern Africa,东非
+92,239,VG,VGB,British Virgin Islands,英属维尔京群岛,the British Virgin Islands,Americas,High-income countries,Caribbean,加勒比
+850,240,VI,VIR,United States Virgin Islands,美属维尔京群岛,the United States Virgin Islands,Americas,High-income countries,Caribbean,加勒比
+872,242,WK,WAK,Wake Island,威克岛,Wake Island,,,,
+876,243,WF,WLF,Wallis and Futuna Islands,瓦利斯和富图纳群岛,the Wallis and Futuna Islands,Oceania,Countries not classified by World Bank,Polynesia,波利尼西亚
+882,244,WS,WSM,Samoa,萨摩亚,the Independent State of Samoa,Oceania,Lower-middle income countries,Polynesia,波利尼西亚
+402,245,,,West Bank,西岸,the West Bank,Asia,,Western Asia,西亚
+886,246,,,Yemen Arab Republic,,,Asia,,Western Asia,西亚
+720,247,,,"Yemen, Democratic",,,Asia,,Western Asia,西亚
+890,248,YU,F248,Yugoslavia SFR,,Socialist Federal Republic of Yugoslavia,Europe,Countries not classified by World Bank,Southern Europe,南欧
+887,249,YE,YEM,Yemen,也门,the Republic of Yemen,Asia,Low-income countries,Western Asia,西亚
+180,250,CD,COD,Democratic Republic of the Congo,刚果民主共和国,the Democratic Republic of the Congo,Africa,Low-income countries,Middle Africa,中非
+894,251,ZM,ZMB,Zambia,赞比亚,the Republic of Zambia,Africa,Lower-middle income countries,Eastern Africa,东非
+896,252,,,Other NEI,,Other NEI,,Countries not classified by World Bank,,
+56,255,BE,BEL,Belgium,比利时,the Kingdom of Belgium,Europe,High-income countries,Western Europe,西欧
+442,256,LU,LUX,Luxembourg,卢森堡,the Grand Duchy of Luxembourg,Europe,High-income countries,Western Europe,西欧
+660,258,AI,AIA,Anguilla,安圭拉,Anguilla,Americas,Countries not classified by World Bank,Caribbean,加勒比
+830,259,,,Channel Islands,海峡群岛,the Channel Islands,Europe,High-income countries,Northern Europe,北欧
+744,260,SJ,SJM,Svalbard and Jan Mayen Islands,斯瓦尔巴和扬马延群岛,the Svalbard and Jan Mayen Islands,Europe,Countries not classified by World Bank,Northern Europe,北欧
+833,264,IM,IMN,Isle of Man,马恩岛,the Isle of Man,Europe,High-income countries,Northern Europe,北欧
+175,270,YT,MYT,Mayotte,马约特,Mayotte,Africa,Countries not classified by World Bank,Eastern Africa,东非
+239,271,GS,SGS,South Georgia and the South Sandwich Islands,南乔治亚岛和南桑威奇群岛,South Georgia and the South Sandwich Islands,Americas,Countries not classified by World Bank,South America,南美洲
+688,272,RS,SRB,Serbia,塞尔维亚,the Republic of Serbia,Europe,Upper-middle income countries,Southern Europe,南欧
+499,273,ME,MNE,Montenegro,黑山,Montenegro,Europe,Upper-middle income countries,Southern Europe,南欧
+836,276,,EAZ,"United Republic of Tanzania, Zanzibar",坦桑尼亚联合共和国桑给巴尔,"the United Republic of Tanzania, Zanzibar",Africa,Lower-middle income countries,Eastern Africa,东非
+532,278,AN,,Netherlands Antilles,荷属安的列斯人/属安的列斯人的,Netherlands Antilles,,,,
+248,282,AX,ALA,?land Islands,奥兰群岛,the ?land Islands,Europe,Countries not classified by World Bank,Northern Europe,北欧
+535,283,BQ,BES,"Bonaire, Sint Eustatius and Saba",博纳尔、圣俄斯塔休斯和萨巴,"Bonaire, Sint Eustatius and Saba",Americas,Countries not classified by World Bank,Caribbean,加勒比
+831,284,GG,GGY,Guernsey,根西,the Bailiwick of Guernsey,Europe,High-income countries,Northern Europe,北欧
+832,285,JE,JEY,Jersey,泽西,the Bailiwick of Jersey,Europe,High-income countries,Northern Europe,北欧
+531,286,CW,CUW,Cura?ao,库拉索,Cura?ao,Americas,High-income countries,Caribbean,加勒比
+652,287,BL,BLM,Saint Barthélemy,圣巴泰勒米,Saint Barthélemy,Americas,Countries not classified by World Bank,Caribbean,加勒比
+663,288,MF,MAF,Saint Martin (French part),圣马丁（法属部分）,Saint-Martin (French part),Americas,High-income countries,Caribbean,加勒比
+534,289,SX,SXM,Sint Maarten (Dutch part),圣马丁（荷属部分）,Sint Maarten (Dutch part),Americas,High-income countries,Caribbean,加勒比
+728,290,SS,SSD,South Sudan,南苏丹,the Republic of South Sudan,Africa,Low-income countries,Eastern Africa,东非
+680,294,,,Sark,萨克,Sark,Europe,High-income countries,Northern Europe,北欧
+729,298,SD,SDN,Sudan,苏丹,the Republic of the Sudan,Africa,Low-income countries,Northern Africa,北非
+275,299,PS,PSE,Palestine,巴勒斯坦,Palestine,Asia,Upper-middle income countries,Western Asia,西亚
+0,380,EU,EUR,European Union,欧洲联盟,the European Union,,,,
