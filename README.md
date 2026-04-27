@@ -1,5 +1,5 @@
-# Revisiting the World’s Food Web
-This is the repository for Zhang et al "Revisiting the World’s Food Web: New Insights into Human Trophic Level Dynamics". 
+# World Food Web
+This is the repository for Zhang et al "Global Dietary Transitions Reshape the Human Position in the World's Food Web". 
 
 The raw data used in this study are publicly available:
 Food consumption data were obtained from the FAOSTAT Food Balance Sheets (https://www.fao.org/faostat/en/#data/FBS);
